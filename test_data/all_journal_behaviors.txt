@@ -1,0 +1,166 @@
+Device (e.g. phone) in Bed
+Shared Bed
+Shared Bedroom with Child
+Sleep in Own Bed
+Sleep in a Dark Room
+Read in Bed
+Dog in Bedroom
+Sound Machine (e.g. white noise)
+Sleep Mask
+Cat in bedroom
+Ear plugs
+Humidifier
+Sleep at Altitude
+Nasal Strip
+Mouth Tape
+Hot Shower before bed
+Mouthguard
+Prescription Sleep Medication
+Anti-inflammatory NSAIDs (e.g. Ibuprofen)
+Marijuana
+Tobacco
+Anti-anxiety Medication
+AD(H)D Medication
+Blood Pressure Medication
+Prescription Pain Medication
+Chemotherapy
+Radiation Therapy
+Weight Loss Medication
+COVID-19 Vaccination (Dose #1)
+COVID-19 Vaccination (Dose #2)
+COVID-19 Vaccination (Booster)
+Hot Flash During Sleep
+COVID-19 Symptoms
+Energy Level
+Bloating
+Seasonal Allergies
+Headache
+Migraine
+Monkeypox Symptoms
+Fever
+Menstrual Cramps
+Perimenopause
+Pumping
+Conception
+Postmenopause
+Luteinizing Hormone (LH) Test
+Night Shift
+Feeding Baby at Night
+Alcohol
+Caffeine
+Hydration
+Sex
+Masturbation
+Air Travel
+Work Late
+Intermittent Fasting
+Remote Work
+Family & Friends
+Commute To Work
+Work Calls
+Jet Lag
+Parenting Infant
+Caregiving
+On-Call Shift
+Nursing Infant
+Nursing
+Parenting Sick Child
+Outdoor Time
+Stress
+Anxiety
+Emotional/Mental State
+Motivation
+Irritability
+Feel Control
+Feel Purpose
+Gratitude
+Feel Efficacy
+Depression
+Journaling
+Stay Positive
+Social Fulfillment
+Make Progress
+Learning
+Therapy Session
+Spirituality
+Fruits and Vegetables
+Clean Eating
+Dairy
+Meat
+Added Sugar
+Protein
+Calcium
+Carbohydrates
+Hyrdation
+Snacking
+Magnesium
+Fats
+Gluten-free diet
+Sodium
+Calories
+Dairy-Free Diet
+Vegetarian Diet
+Ketogenic Diet
+Vegan Diet
+Paleo Diet
+Fiber
+Kept Kosher
+Stretching
+Meditation
+Breathwork
+Massage Therapy
+Sauna
+Ice Bath
+Chiropractor
+Cold Shower
+Steam Room
+Physical Therapy
+Cupping
+Acupuncture
+Red Light Therapy
+Cryotherapy
+Compression Therapy
+Hot Tub
+Zone 2 Cardio
+Sensory Deprivation
+Hyperbaric Chamber
+Feel Recovered
+Late Meal
+Blue-light Blocking Glasses
+Morning Sunlight
+Daylight Eating
+Artificial Light
+Sunset
+Weighted Blanket
+Bright Lights
+CPAP Machine
+Melatonin
+Magnesium Supplement
+Multivitamin
+Creatine
+Prenatal Vitamins
+Postnatal Vitamins
+AG1
+Electrolytes
+Vitamin D
+Fish Oil
+CBD
+Vitamin C
+Vitamin B-12
+Probiotic
+Turmeric
+Zinc
+Calcium Supplement
+Sick
+Injured
+Menstruating
+Ovulating
+Pregnancy
+Single
+Vacation
+Ramadan
+GLP-1
+Ketamine
+LSD
+Psilocybin
+Nicotine 
