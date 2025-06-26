@@ -1,0 +1,22 @@
+name: Rotate Fuzzy Dataset Weekly
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'  # Every Monday at 9am UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - run: python test_data/generate_dataset.py
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add test_data/dataset_for_SQA_15092.json
+          git commit -m "Weekly dataset update"
+          git push
