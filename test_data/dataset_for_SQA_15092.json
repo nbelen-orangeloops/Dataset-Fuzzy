@@ -1,0 +1,62 @@
+[
+  {
+    "behavior": "Remote Work",
+    "partial": "Remo",
+    "typo": "Remote Worz",
+    "synonym": "ALT_remote work"
+  },
+  {
+    "behavior": "Stress",
+    "partial": "Stre",
+    "typo": "Stresz",
+    "synonym": "ALT_stress"
+  },
+  {
+    "behavior": "Hot Shower before bed",
+    "partial": "Hot ",
+    "typo": "Hot Shower before bez",
+    "synonym": "ALT_hot shower before bed"
+  },
+  {
+    "behavior": "Work Late",
+    "partial": "Work",
+    "typo": "Work Latz",
+    "synonym": "ALT_work late"
+  },
+  {
+    "behavior": "Cold Shower",
+    "partial": "Cold",
+    "typo": "Cold Showez",
+    "synonym": "ALT_cold shower"
+  },
+  {
+    "behavior": "Sauna",
+    "partial": "Saun",
+    "typo": "Saunz",
+    "synonym": "ALT_sauna"
+  },
+  {
+    "behavior": "Hyrdation",
+    "partial": "Hyrd",
+    "typo": "Hyrdatioz",
+    "synonym": "ALT_hyrdation"
+  },
+  {
+    "behavior": "Depression",
+    "partial": "Depr",
+    "typo": "Depressioz",
+    "synonym": "ALT_depression"
+  },
+  {
+    "behavior": "Radiation Therapy",
+    "partial": "Radi",
+    "typo": "Radiation Therapz",
+    "synonym": "ALT_radiation therapy"
+  },
+  {
+    "behavior": "Creatine",
+    "partial": "Crea",
+    "typo": "Creatinz",
+    "synonym": "ALT_creatine"
+  }
+]
