@@ -1,15 +1,9 @@
 [
   {
-    "behavior": "Remote Work",
-    "partial": "Remo",
-    "typo": "Remote Worz",
-    "synonym": "ALT_remote work"
-  },
-  {
-    "behavior": "Stress",
-    "partial": "Stre",
-    "typo": "Stresz",
-    "synonym": "ALT_stress"
+    "behavior": "Parenting Sick Child",
+    "partial": "Pare",
+    "typo": "Parenting Sick Chilz",
+    "synonym": "ALT_parenting sick child"
   },
   {
     "behavior": "Hot Shower before bed",
@@ -18,45 +12,51 @@
     "synonym": "ALT_hot shower before bed"
   },
   {
-    "behavior": "Work Late",
-    "partial": "Work",
-    "typo": "Work Latz",
-    "synonym": "ALT_work late"
+    "behavior": "Fruits and Vegetables",
+    "partial": "Frui",
+    "typo": "Fruits and Vegetablez",
+    "synonym": "ALT_fruits and vegetables"
   },
   {
-    "behavior": "Cold Shower",
-    "partial": "Cold",
-    "typo": "Cold Showez",
-    "synonym": "ALT_cold shower"
+    "behavior": "Acupuncture",
+    "partial": "Acup",
+    "typo": "Acupuncturz",
+    "synonym": "ALT_acupuncture"
   },
   {
-    "behavior": "Sauna",
-    "partial": "Saun",
-    "typo": "Saunz",
-    "synonym": "ALT_sauna"
+    "behavior": "Shared Bed",
+    "partial": "Shar",
+    "typo": "Shared Bez",
+    "synonym": "ALT_shared bed"
   },
   {
-    "behavior": "Hyrdation",
-    "partial": "Hyrd",
-    "typo": "Hyrdatioz",
-    "synonym": "ALT_hyrdation"
+    "behavior": "Vitamin D",
+    "partial": "Vita",
+    "typo": "Vitamin z",
+    "synonym": "ALT_vitamin d"
   },
   {
-    "behavior": "Depression",
-    "partial": "Depr",
-    "typo": "Depressioz",
-    "synonym": "ALT_depression"
+    "behavior": "Artificial Light",
+    "partial": "Arti",
+    "typo": "Artificial Lighz",
+    "synonym": "ALT_artificial light"
   },
   {
-    "behavior": "Radiation Therapy",
-    "partial": "Radi",
-    "typo": "Radiation Therapz",
-    "synonym": "ALT_radiation therapy"
+    "behavior": "Pumping",
+    "partial": "Pump",
+    "typo": "Pumpinz",
+    "synonym": "ALT_pumping"
   },
   {
-    "behavior": "Creatine",
-    "partial": "Crea",
-    "typo": "Creatinz",
-    "synonym": "ALT_creatine"
+    "behavior": "Vegetarian Diet",
+    "partial": "Vege",
+    "typo": "Vegetarian Diez",
+    "synonym": "ALT_vegetarian diet"
+  },
+  {
+    "behavior": "Mouthguard",
+    "partial": "Mout",
+    "typo": "Mouthguarz",
+    "synonym": "ALT_mouthguard"
   }
 ]
