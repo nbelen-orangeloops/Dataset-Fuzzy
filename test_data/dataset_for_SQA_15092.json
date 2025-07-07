@@ -1,33 +1,9 @@
 [
   {
-    "behavior": "Parenting Sick Child",
-    "partial": "Pare",
-    "typo": "Parenting Sick Chilz",
-    "synonym": "ALT_parenting sick child"
-  },
-  {
-    "behavior": "Hot Shower before bed",
-    "partial": "Hot ",
-    "typo": "Hot Shower before bez",
-    "synonym": "ALT_hot shower before bed"
-  },
-  {
-    "behavior": "Fruits and Vegetables",
-    "partial": "Frui",
-    "typo": "Fruits and Vegetablez",
-    "synonym": "ALT_fruits and vegetables"
-  },
-  {
-    "behavior": "Acupuncture",
-    "partial": "Acup",
-    "typo": "Acupuncturz",
-    "synonym": "ALT_acupuncture"
-  },
-  {
-    "behavior": "Shared Bed",
-    "partial": "Shar",
-    "typo": "Shared Bez",
-    "synonym": "ALT_shared bed"
+    "behavior": "Probiotic",
+    "partial": "Prob",
+    "typo": "Probiotiz",
+    "synonym": "ALT_probiotic"
   },
   {
     "behavior": "Vitamin D",
@@ -36,27 +12,51 @@
     "synonym": "ALT_vitamin d"
   },
   {
-    "behavior": "Artificial Light",
-    "partial": "Arti",
-    "typo": "Artificial Lighz",
-    "synonym": "ALT_artificial light"
+    "behavior": "Device (e.g. phone) in Bed",
+    "partial": "Devi",
+    "typo": "Device (e.g. phone) in Bez",
+    "synonym": "ALT_device (e.g. phone) in bed"
   },
   {
-    "behavior": "Pumping",
-    "partial": "Pump",
-    "typo": "Pumpinz",
-    "synonym": "ALT_pumping"
+    "behavior": "Weighted Blanket",
+    "partial": "Weig",
+    "typo": "Weighted Blankez",
+    "synonym": "ALT_weighted blanket"
   },
   {
-    "behavior": "Vegetarian Diet",
-    "partial": "Vege",
-    "typo": "Vegetarian Diez",
-    "synonym": "ALT_vegetarian diet"
+    "behavior": "Work Late",
+    "partial": "Work",
+    "typo": "Work Latz",
+    "synonym": "ALT_work late"
   },
   {
-    "behavior": "Mouthguard",
-    "partial": "Mout",
-    "typo": "Mouthguarz",
-    "synonym": "ALT_mouthguard"
+    "behavior": "Ramadan",
+    "partial": "Rama",
+    "typo": "Ramadaz",
+    "synonym": "ALT_ramadan"
+  },
+  {
+    "behavior": "Meditation",
+    "partial": "Medi",
+    "typo": "Meditatioz",
+    "synonym": "ALT_meditation"
+  },
+  {
+    "behavior": "Vegan Diet",
+    "partial": "Vega",
+    "typo": "Vegan Diez",
+    "synonym": "ALT_vegan diet"
+  },
+  {
+    "behavior": "Hot Tub",
+    "partial": "Hot ",
+    "typo": "Hot Tuz",
+    "synonym": "ALT_hot tub"
+  },
+  {
+    "behavior": "Alcohol",
+    "partial": "Alco",
+    "typo": "Alcohoz",
+    "synonym": "ALT_alcohol"
   }
 ]
