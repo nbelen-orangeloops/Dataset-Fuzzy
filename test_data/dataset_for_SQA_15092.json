@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Probiotic",
-    "partial": "Prob",
-    "typo": "Probiotiz",
-    "synonym": "ALT_probiotic"
+    "behavior": "Compression Therapy",
+    "partial": "Comp",
+    "typo": "Compression Therapz",
+    "synonym": "ALT_compression therapy"
   },
   {
-    "behavior": "Vitamin D",
-    "partial": "Vita",
-    "typo": "Vitamin z",
-    "synonym": "ALT_vitamin d"
+    "behavior": "Physical Therapy",
+    "partial": "Phys",
+    "typo": "Physical Therapz",
+    "synonym": "ALT_physical therapy"
   },
   {
-    "behavior": "Device (e.g. phone) in Bed",
-    "partial": "Devi",
-    "typo": "Device (e.g. phone) in Bez",
-    "synonym": "ALT_device (e.g. phone) in bed"
+    "behavior": "Fruits and Vegetables",
+    "partial": "Frui",
+    "typo": "Fruits and Vegetablez",
+    "synonym": "ALT_fruits and vegetables"
   },
   {
-    "behavior": "Weighted Blanket",
-    "partial": "Weig",
-    "typo": "Weighted Blankez",
-    "synonym": "ALT_weighted blanket"
+    "behavior": "Spirituality",
+    "partial": "Spir",
+    "typo": "Spiritualitz",
+    "synonym": "ALT_spirituality"
   },
   {
-    "behavior": "Work Late",
-    "partial": "Work",
-    "typo": "Work Latz",
-    "synonym": "ALT_work late"
+    "behavior": "LSD",
+    "partial": "LSD",
+    "typo": "LSz",
+    "synonym": "ALT_lsd"
   },
   {
-    "behavior": "Ramadan",
-    "partial": "Rama",
-    "typo": "Ramadaz",
-    "synonym": "ALT_ramadan"
+    "behavior": "GLP-1",
+    "partial": "GLP-",
+    "typo": "GLP-z",
+    "synonym": "ALT_glp-1"
   },
   {
-    "behavior": "Meditation",
-    "partial": "Medi",
-    "typo": "Meditatioz",
-    "synonym": "ALT_meditation"
+    "behavior": "Prenatal Vitamins",
+    "partial": "Pren",
+    "typo": "Prenatal Vitaminz",
+    "synonym": "ALT_prenatal vitamins"
   },
   {
-    "behavior": "Vegan Diet",
-    "partial": "Vega",
-    "typo": "Vegan Diez",
-    "synonym": "ALT_vegan diet"
+    "behavior": "Stress",
+    "partial": "Stre",
+    "typo": "Stresz",
+    "synonym": "ALT_stress"
   },
   {
-    "behavior": "Hot Tub",
-    "partial": "Hot ",
-    "typo": "Hot Tuz",
-    "synonym": "ALT_hot tub"
+    "behavior": "Morning Sunlight",
+    "partial": "Morn",
+    "typo": "Morning Sunlighz",
+    "synonym": "ALT_morning sunlight"
   },
   {
-    "behavior": "Alcohol",
-    "partial": "Alco",
-    "typo": "Alcohoz",
-    "synonym": "ALT_alcohol"
+    "behavior": "Shared Bed",
+    "partial": "Shar",
+    "typo": "Shared Bez",
+    "synonym": "ALT_shared bed"
   }
 ]
