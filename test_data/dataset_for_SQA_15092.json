@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Compression Therapy",
-    "partial": "Comp",
-    "typo": "Compression Therapz",
-    "synonym": "ALT_compression therapy"
+    "behavior": "Artificial Light",
+    "partial": "Arti",
+    "typo": "Artificial Lighz",
+    "synonym": "ALT_artificial light"
   },
   {
-    "behavior": "Physical Therapy",
-    "partial": "Phys",
-    "typo": "Physical Therapz",
-    "synonym": "ALT_physical therapy"
+    "behavior": "Luteinizing Hormone (LH) Test",
+    "partial": "Lute",
+    "typo": "Luteinizing Hormone (LH) Tesz",
+    "synonym": "ALT_luteinizing hormone (lh) test"
   },
   {
-    "behavior": "Fruits and Vegetables",
-    "partial": "Frui",
-    "typo": "Fruits and Vegetablez",
-    "synonym": "ALT_fruits and vegetables"
+    "behavior": "Ice Bath",
+    "partial": "Ice ",
+    "typo": "Ice Batz",
+    "synonym": "ALT_ice bath"
   },
   {
-    "behavior": "Spirituality",
-    "partial": "Spir",
-    "typo": "Spiritualitz",
-    "synonym": "ALT_spirituality"
+    "behavior": "Work Calls",
+    "partial": "Work",
+    "typo": "Work Callz",
+    "synonym": "ALT_work calls"
   },
   {
-    "behavior": "LSD",
-    "partial": "LSD",
-    "typo": "LSz",
-    "synonym": "ALT_lsd"
+    "behavior": "Masturbation",
+    "partial": "Mast",
+    "typo": "Masturbatioz",
+    "synonym": "ALT_masturbation"
   },
   {
-    "behavior": "GLP-1",
-    "partial": "GLP-",
-    "typo": "GLP-z",
-    "synonym": "ALT_glp-1"
+    "behavior": "Clean Eating",
+    "partial": "Clea",
+    "typo": "Clean Eatinz",
+    "synonym": "ALT_clean eating"
   },
   {
-    "behavior": "Prenatal Vitamins",
-    "partial": "Pren",
-    "typo": "Prenatal Vitaminz",
-    "synonym": "ALT_prenatal vitamins"
+    "behavior": "Pumping",
+    "partial": "Pump",
+    "typo": "Pumpinz",
+    "synonym": "ALT_pumping"
   },
   {
-    "behavior": "Stress",
-    "partial": "Stre",
-    "typo": "Stresz",
-    "synonym": "ALT_stress"
+    "behavior": "Fish Oil",
+    "partial": "Fish",
+    "typo": "Fish Oiz",
+    "synonym": "ALT_fish oil"
   },
   {
-    "behavior": "Morning Sunlight",
-    "partial": "Morn",
-    "typo": "Morning Sunlighz",
-    "synonym": "ALT_morning sunlight"
+    "behavior": "Anti-anxiety Medication",
+    "partial": "Anti",
+    "typo": "Anti-anxiety Medicatioz",
+    "synonym": "ALT_anti-anxiety medication"
   },
   {
-    "behavior": "Shared Bed",
-    "partial": "Shar",
-    "typo": "Shared Bez",
-    "synonym": "ALT_shared bed"
+    "behavior": "Fats",
+    "partial": "Fats",
+    "typo": "Fatz",
+    "synonym": "ALT_fats"
   }
 ]
