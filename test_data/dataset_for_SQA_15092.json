@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Artificial Light",
-    "partial": "Arti",
-    "typo": "Artificial Lighz",
-    "synonym": "ALT_artificial light"
+    "behavior": "Therapy Session",
+    "partial": "Ther",
+    "typo": "Therapy Sessioz",
+    "synonym": "ALT_therapy session"
   },
   {
-    "behavior": "Luteinizing Hormone (LH) Test",
-    "partial": "Lute",
-    "typo": "Luteinizing Hormone (LH) Tesz",
-    "synonym": "ALT_luteinizing hormone (lh) test"
+    "behavior": "Commute To Work",
+    "partial": "Comm",
+    "typo": "Commute To Worz",
+    "synonym": "ALT_commute to work"
   },
   {
-    "behavior": "Ice Bath",
-    "partial": "Ice ",
-    "typo": "Ice Batz",
-    "synonym": "ALT_ice bath"
+    "behavior": "Fiber",
+    "partial": "Fibe",
+    "typo": "Fibez",
+    "synonym": "ALT_fiber"
   },
   {
-    "behavior": "Work Calls",
-    "partial": "Work",
-    "typo": "Work Callz",
-    "synonym": "ALT_work calls"
+    "behavior": "Monkeypox Symptoms",
+    "partial": "Monk",
+    "typo": "Monkeypox Symptomz",
+    "synonym": "ALT_monkeypox symptoms"
   },
   {
-    "behavior": "Masturbation",
-    "partial": "Mast",
-    "typo": "Masturbatioz",
-    "synonym": "ALT_masturbation"
+    "behavior": "Sunset",
+    "partial": "Suns",
+    "typo": "Sunsez",
+    "synonym": "ALT_sunset"
   },
   {
-    "behavior": "Clean Eating",
-    "partial": "Clea",
-    "typo": "Clean Eatinz",
-    "synonym": "ALT_clean eating"
+    "behavior": "LSD",
+    "partial": "LSD",
+    "typo": "LSz",
+    "synonym": "ALT_lsd"
   },
   {
-    "behavior": "Pumping",
-    "partial": "Pump",
-    "typo": "Pumpinz",
-    "synonym": "ALT_pumping"
+    "behavior": "Shared Bed",
+    "partial": "Shar",
+    "typo": "Shared Bez",
+    "synonym": "ALT_shared bed"
   },
   {
-    "behavior": "Fish Oil",
-    "partial": "Fish",
-    "typo": "Fish Oiz",
-    "synonym": "ALT_fish oil"
+    "behavior": "Breathwork",
+    "partial": "Brea",
+    "typo": "Breathworz",
+    "synonym": "ALT_breathwork"
   },
   {
-    "behavior": "Anti-anxiety Medication",
-    "partial": "Anti",
-    "typo": "Anti-anxiety Medicatioz",
-    "synonym": "ALT_anti-anxiety medication"
+    "behavior": "Parenting Infant",
+    "partial": "Pare",
+    "typo": "Parenting Infanz",
+    "synonym": "ALT_parenting infant"
   },
   {
-    "behavior": "Fats",
-    "partial": "Fats",
-    "typo": "Fatz",
-    "synonym": "ALT_fats"
+    "behavior": "Bloating",
+    "partial": "Bloa",
+    "typo": "Bloatinz",
+    "synonym": "ALT_bloating"
   }
 ]
