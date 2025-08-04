@@ -1,57 +1,57 @@
 [
   {
-    "behavior": "Therapy Session",
-    "partial": "Ther",
-    "typo": "Therapy Sessioz",
-    "synonym": "ALT_therapy session"
+    "behavior": "Magnesium",
+    "partial": "Magn",
+    "typo": "Magnesiuz",
+    "synonym": "ALT_magnesium"
   },
   {
-    "behavior": "Commute To Work",
-    "partial": "Comm",
-    "typo": "Commute To Worz",
-    "synonym": "ALT_commute to work"
+    "behavior": "Gluten-free diet",
+    "partial": "Glut",
+    "typo": "Gluten-free diez",
+    "synonym": "ALT_gluten-free diet"
   },
   {
-    "behavior": "Fiber",
-    "partial": "Fibe",
-    "typo": "Fibez",
-    "synonym": "ALT_fiber"
+    "behavior": "Sauna",
+    "partial": "Saun",
+    "typo": "Saunz",
+    "synonym": "ALT_sauna"
   },
   {
-    "behavior": "Monkeypox Symptoms",
-    "partial": "Monk",
-    "typo": "Monkeypox Symptomz",
-    "synonym": "ALT_monkeypox symptoms"
+    "behavior": "Hot Shower before bed",
+    "partial": "Hot ",
+    "typo": "Hot Shower before bez",
+    "synonym": "ALT_hot shower before bed"
   },
   {
-    "behavior": "Sunset",
-    "partial": "Suns",
-    "typo": "Sunsez",
-    "synonym": "ALT_sunset"
+    "behavior": "Ramadan",
+    "partial": "Rama",
+    "typo": "Ramadaz",
+    "synonym": "ALT_ramadan"
   },
   {
-    "behavior": "LSD",
-    "partial": "LSD",
-    "typo": "LSz",
-    "synonym": "ALT_lsd"
+    "behavior": "Steam Room",
+    "partial": "Stea",
+    "typo": "Steam Rooz",
+    "synonym": "ALT_steam room"
   },
   {
-    "behavior": "Shared Bed",
-    "partial": "Shar",
-    "typo": "Shared Bez",
-    "synonym": "ALT_shared bed"
+    "behavior": "Mouthguard",
+    "partial": "Mout",
+    "typo": "Mouthguarz",
+    "synonym": "ALT_mouthguard"
   },
   {
-    "behavior": "Breathwork",
-    "partial": "Brea",
-    "typo": "Breathworz",
-    "synonym": "ALT_breathwork"
+    "behavior": "Irritability",
+    "partial": "Irri",
+    "typo": "Irritabilitz",
+    "synonym": "ALT_irritability"
   },
   {
-    "behavior": "Parenting Infant",
-    "partial": "Pare",
-    "typo": "Parenting Infanz",
-    "synonym": "ALT_parenting infant"
+    "behavior": "Anxiety",
+    "partial": "Anxi",
+    "typo": "Anxietz",
+    "synonym": "ALT_anxiety"
   },
   {
     "behavior": "Bloating",
