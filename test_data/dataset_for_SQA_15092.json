@@ -1,15 +1,39 @@
 [
   {
-    "behavior": "Magnesium",
-    "partial": "Magn",
-    "typo": "Magnesiuz",
-    "synonym": "ALT_magnesium"
+    "behavior": "Turmeric",
+    "partial": "Turm",
+    "typo": "Turmeriz",
+    "synonym": "ALT_turmeric"
   },
   {
-    "behavior": "Gluten-free diet",
-    "partial": "Glut",
-    "typo": "Gluten-free diez",
-    "synonym": "ALT_gluten-free diet"
+    "behavior": "Cupping",
+    "partial": "Cupp",
+    "typo": "Cuppinz",
+    "synonym": "ALT_cupping"
+  },
+  {
+    "behavior": "Blood Pressure Medication",
+    "partial": "Bloo",
+    "typo": "Blood Pressure Medicatioz",
+    "synonym": "ALT_blood pressure medication"
+  },
+  {
+    "behavior": "COVID-19 Vaccination (Dose #1)",
+    "partial": "COVI",
+    "typo": "COVID-19 Vaccination (Dose #1z",
+    "synonym": "ALT_covid-19 vaccination (dose #1)"
+  },
+  {
+    "behavior": "Ear plugs",
+    "partial": "Ear ",
+    "typo": "Ear plugz",
+    "synonym": "ALT_ear plugs"
+  },
+  {
+    "behavior": "Ketogenic Diet",
+    "partial": "Keto",
+    "typo": "Ketogenic Diez",
+    "synonym": "ALT_ketogenic diet"
   },
   {
     "behavior": "Sauna",
@@ -18,45 +42,21 @@
     "synonym": "ALT_sauna"
   },
   {
-    "behavior": "Hot Shower before bed",
-    "partial": "Hot ",
-    "typo": "Hot Shower before bez",
-    "synonym": "ALT_hot shower before bed"
+    "behavior": "Learning",
+    "partial": "Lear",
+    "typo": "Learninz",
+    "synonym": "ALT_learning"
   },
   {
-    "behavior": "Ramadan",
-    "partial": "Rama",
-    "typo": "Ramadaz",
-    "synonym": "ALT_ramadan"
+    "behavior": "Artificial Light",
+    "partial": "Arti",
+    "typo": "Artificial Lighz",
+    "synonym": "ALT_artificial light"
   },
   {
-    "behavior": "Steam Room",
-    "partial": "Stea",
-    "typo": "Steam Rooz",
-    "synonym": "ALT_steam room"
-  },
-  {
-    "behavior": "Mouthguard",
-    "partial": "Mout",
-    "typo": "Mouthguarz",
-    "synonym": "ALT_mouthguard"
-  },
-  {
-    "behavior": "Irritability",
-    "partial": "Irri",
-    "typo": "Irritabilitz",
-    "synonym": "ALT_irritability"
-  },
-  {
-    "behavior": "Anxiety",
-    "partial": "Anxi",
-    "typo": "Anxietz",
-    "synonym": "ALT_anxiety"
-  },
-  {
-    "behavior": "Bloating",
-    "partial": "Bloa",
-    "typo": "Bloatinz",
-    "synonym": "ALT_bloating"
+    "behavior": "Magnesium",
+    "partial": "Magn",
+    "typo": "Magnesiuz",
+    "synonym": "ALT_magnesium"
   }
 ]
