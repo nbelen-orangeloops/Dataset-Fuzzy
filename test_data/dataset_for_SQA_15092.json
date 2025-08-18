@@ -1,9 +1,33 @@
 [
   {
-    "behavior": "Turmeric",
-    "partial": "Turm",
-    "typo": "Turmeriz",
-    "synonym": "ALT_turmeric"
+    "behavior": "Vegetarian Diet",
+    "partial": "Vege",
+    "typo": "Vegetarian Diez",
+    "synonym": "ALT_vegetarian diet"
+  },
+  {
+    "behavior": "Calories",
+    "partial": "Calo",
+    "typo": "Caloriez",
+    "synonym": "ALT_calories"
+  },
+  {
+    "behavior": "Vitamin C",
+    "partial": "Vita",
+    "typo": "Vitamin z",
+    "synonym": "ALT_vitamin c"
+  },
+  {
+    "behavior": "On-Call Shift",
+    "partial": "On-C",
+    "typo": "On-Call Shifz",
+    "synonym": "ALT_on-call shift"
+  },
+  {
+    "behavior": "Hot Tub",
+    "partial": "Hot ",
+    "typo": "Hot Tuz",
+    "synonym": "ALT_hot tub"
   },
   {
     "behavior": "Cupping",
@@ -12,51 +36,27 @@
     "synonym": "ALT_cupping"
   },
   {
-    "behavior": "Blood Pressure Medication",
-    "partial": "Bloo",
-    "typo": "Blood Pressure Medicatioz",
-    "synonym": "ALT_blood pressure medication"
+    "behavior": "Ketamine",
+    "partial": "Keta",
+    "typo": "Ketaminz",
+    "synonym": "ALT_ketamine"
   },
   {
-    "behavior": "COVID-19 Vaccination (Dose #1)",
-    "partial": "COVI",
-    "typo": "COVID-19 Vaccination (Dose #1z",
-    "synonym": "ALT_covid-19 vaccination (dose #1)"
+    "behavior": "Single",
+    "partial": "Sing",
+    "typo": "Singlz",
+    "synonym": "ALT_single"
   },
   {
-    "behavior": "Ear plugs",
-    "partial": "Ear ",
-    "typo": "Ear plugz",
-    "synonym": "ALT_ear plugs"
+    "behavior": "Feel Control",
+    "partial": "Feel",
+    "typo": "Feel Controz",
+    "synonym": "ALT_feel control"
   },
   {
-    "behavior": "Ketogenic Diet",
-    "partial": "Keto",
-    "typo": "Ketogenic Diez",
-    "synonym": "ALT_ketogenic diet"
-  },
-  {
-    "behavior": "Sauna",
-    "partial": "Saun",
-    "typo": "Saunz",
-    "synonym": "ALT_sauna"
-  },
-  {
-    "behavior": "Learning",
-    "partial": "Lear",
-    "typo": "Learninz",
-    "synonym": "ALT_learning"
-  },
-  {
-    "behavior": "Artificial Light",
-    "partial": "Arti",
-    "typo": "Artificial Lighz",
-    "synonym": "ALT_artificial light"
-  },
-  {
-    "behavior": "Magnesium",
-    "partial": "Magn",
-    "typo": "Magnesiuz",
-    "synonym": "ALT_magnesium"
+    "behavior": "Dairy-Free Diet",
+    "partial": "Dair",
+    "typo": "Dairy-Free Diez",
+    "synonym": "ALT_dairy-free diet"
   }
 ]
