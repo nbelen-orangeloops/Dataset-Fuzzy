@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Vegetarian Diet",
-    "partial": "Vege",
-    "typo": "Vegetarian Diez",
-    "synonym": "ALT_vegetarian diet"
-  },
-  {
-    "behavior": "Calories",
-    "partial": "Calo",
-    "typo": "Caloriez",
-    "synonym": "ALT_calories"
-  },
-  {
-    "behavior": "Vitamin C",
-    "partial": "Vita",
-    "typo": "Vitamin z",
-    "synonym": "ALT_vitamin c"
-  },
-  {
-    "behavior": "On-Call Shift",
-    "partial": "On-C",
-    "typo": "On-Call Shifz",
-    "synonym": "ALT_on-call shift"
-  },
-  {
-    "behavior": "Hot Tub",
-    "partial": "Hot ",
-    "typo": "Hot Tuz",
-    "synonym": "ALT_hot tub"
-  },
-  {
-    "behavior": "Cupping",
-    "partial": "Cupp",
-    "typo": "Cuppinz",
-    "synonym": "ALT_cupping"
-  },
-  {
-    "behavior": "Ketamine",
-    "partial": "Keta",
-    "typo": "Ketaminz",
-    "synonym": "ALT_ketamine"
-  },
-  {
-    "behavior": "Single",
-    "partial": "Sing",
-    "typo": "Singlz",
-    "synonym": "ALT_single"
-  },
-  {
-    "behavior": "Feel Control",
-    "partial": "Feel",
-    "typo": "Feel Controz",
-    "synonym": "ALT_feel control"
+    "behavior": "Journaling",
+    "partial": "Jour",
+    "typo": "Journalinz",
+    "synonym": "ALT_journaling"
   },
   {
     "behavior": "Dairy-Free Diet",
     "partial": "Dair",
     "typo": "Dairy-Free Diez",
     "synonym": "ALT_dairy-free diet"
+  },
+  {
+    "behavior": "Jet Lag",
+    "partial": "Jet ",
+    "typo": "Jet Laz",
+    "synonym": "ALT_jet lag"
+  },
+  {
+    "behavior": "Ice Bath",
+    "partial": "Ice ",
+    "typo": "Ice Batz",
+    "synonym": "ALT_ice bath"
+  },
+  {
+    "behavior": "Conception",
+    "partial": "Conc",
+    "typo": "Conceptioz",
+    "synonym": "ALT_conception"
+  },
+  {
+    "behavior": "Depression",
+    "partial": "Depr",
+    "typo": "Depressioz",
+    "synonym": "ALT_depression"
+  },
+  {
+    "behavior": "Spirituality",
+    "partial": "Spir",
+    "typo": "Spiritualitz",
+    "synonym": "ALT_spirituality"
+  },
+  {
+    "behavior": "Psilocybin",
+    "partial": "Psil",
+    "typo": "Psilocybiz",
+    "synonym": "ALT_psilocybin"
+  },
+  {
+    "behavior": "Pregnancy",
+    "partial": "Preg",
+    "typo": "Pregnancz",
+    "synonym": "ALT_pregnancy"
+  },
+  {
+    "behavior": "Marijuana",
+    "partial": "Mari",
+    "typo": "Marijuanz",
+    "synonym": "ALT_marijuana"
   }
 ]
