@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Journaling",
-    "partial": "Jour",
-    "typo": "Journalinz",
-    "synonym": "ALT_journaling"
+    "behavior": "Perimenopause",
+    "partial": "Peri",
+    "typo": "Perimenopausz",
+    "synonym": "ALT_perimenopause"
   },
   {
-    "behavior": "Dairy-Free Diet",
-    "partial": "Dair",
-    "typo": "Dairy-Free Diez",
-    "synonym": "ALT_dairy-free diet"
+    "behavior": "Ketamine",
+    "partial": "Keta",
+    "typo": "Ketaminz",
+    "synonym": "ALT_ketamine"
   },
   {
-    "behavior": "Jet Lag",
-    "partial": "Jet ",
-    "typo": "Jet Laz",
-    "synonym": "ALT_jet lag"
+    "behavior": "Prescription Sleep Medication",
+    "partial": "Pres",
+    "typo": "Prescription Sleep Medicatioz",
+    "synonym": "ALT_prescription sleep medication"
   },
   {
-    "behavior": "Ice Bath",
-    "partial": "Ice ",
-    "typo": "Ice Batz",
-    "synonym": "ALT_ice bath"
+    "behavior": "Calories",
+    "partial": "Calo",
+    "typo": "Caloriez",
+    "synonym": "ALT_calories"
   },
   {
-    "behavior": "Conception",
-    "partial": "Conc",
-    "typo": "Conceptioz",
-    "synonym": "ALT_conception"
+    "behavior": "Turmeric",
+    "partial": "Turm",
+    "typo": "Turmeriz",
+    "synonym": "ALT_turmeric"
   },
   {
-    "behavior": "Depression",
-    "partial": "Depr",
-    "typo": "Depressioz",
-    "synonym": "ALT_depression"
+    "behavior": "Steam Room",
+    "partial": "Stea",
+    "typo": "Steam Rooz",
+    "synonym": "ALT_steam room"
   },
   {
-    "behavior": "Spirituality",
-    "partial": "Spir",
-    "typo": "Spiritualitz",
-    "synonym": "ALT_spirituality"
+    "behavior": "Make Progress",
+    "partial": "Make",
+    "typo": "Make Progresz",
+    "synonym": "ALT_make progress"
   },
   {
-    "behavior": "Psilocybin",
-    "partial": "Psil",
-    "typo": "Psilocybiz",
-    "synonym": "ALT_psilocybin"
+    "behavior": "Bright Lights",
+    "partial": "Brig",
+    "typo": "Bright Lightz",
+    "synonym": "ALT_bright lights"
   },
   {
-    "behavior": "Pregnancy",
-    "partial": "Preg",
-    "typo": "Pregnancz",
-    "synonym": "ALT_pregnancy"
+    "behavior": "Sleep in a Dark Room",
+    "partial": "Slee",
+    "typo": "Sleep in a Dark Rooz",
+    "synonym": "ALT_sleep in a dark room"
   },
   {
-    "behavior": "Marijuana",
-    "partial": "Mari",
-    "typo": "Marijuanz",
-    "synonym": "ALT_marijuana"
+    "behavior": "Ovulating",
+    "partial": "Ovul",
+    "typo": "Ovulatinz",
+    "synonym": "ALT_ovulating"
   }
 ]
