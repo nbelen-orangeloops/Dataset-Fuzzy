@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Perimenopause",
-    "partial": "Peri",
-    "typo": "Perimenopausz",
-    "synonym": "ALT_perimenopause"
+    "behavior": "Massage Therapy",
+    "partial": "Mass",
+    "typo": "Massage Therapz",
+    "synonym": "ALT_massage therapy"
   },
   {
-    "behavior": "Ketamine",
-    "partial": "Keta",
-    "typo": "Ketaminz",
-    "synonym": "ALT_ketamine"
+    "behavior": "Feel Recovered",
+    "partial": "Feel",
+    "typo": "Feel Recoverez",
+    "synonym": "ALT_feel recovered"
   },
   {
-    "behavior": "Prescription Sleep Medication",
-    "partial": "Pres",
-    "typo": "Prescription Sleep Medicatioz",
-    "synonym": "ALT_prescription sleep medication"
+    "behavior": "Marijuana",
+    "partial": "Mari",
+    "typo": "Marijuanz",
+    "synonym": "ALT_marijuana"
   },
   {
-    "behavior": "Calories",
-    "partial": "Calo",
-    "typo": "Caloriez",
-    "synonym": "ALT_calories"
+    "behavior": "Ketogenic Diet",
+    "partial": "Keto",
+    "typo": "Ketogenic Diez",
+    "synonym": "ALT_ketogenic diet"
   },
   {
-    "behavior": "Turmeric",
-    "partial": "Turm",
-    "typo": "Turmeriz",
-    "synonym": "ALT_turmeric"
+    "behavior": "Feeding Baby at Night",
+    "partial": "Feed",
+    "typo": "Feeding Baby at Nighz",
+    "synonym": "ALT_feeding baby at night"
   },
   {
-    "behavior": "Steam Room",
-    "partial": "Stea",
-    "typo": "Steam Rooz",
-    "synonym": "ALT_steam room"
+    "behavior": "Shared Bed",
+    "partial": "Shar",
+    "typo": "Shared Bez",
+    "synonym": "ALT_shared bed"
   },
   {
-    "behavior": "Make Progress",
-    "partial": "Make",
-    "typo": "Make Progresz",
-    "synonym": "ALT_make progress"
+    "behavior": "Weight Loss Medication",
+    "partial": "Weig",
+    "typo": "Weight Loss Medicatioz",
+    "synonym": "ALT_weight loss medication"
   },
   {
-    "behavior": "Bright Lights",
-    "partial": "Brig",
-    "typo": "Bright Lightz",
-    "synonym": "ALT_bright lights"
+    "behavior": "CPAP Machine",
+    "partial": "CPAP",
+    "typo": "CPAP Machinz",
+    "synonym": "ALT_cpap machine"
   },
   {
-    "behavior": "Sleep in a Dark Room",
-    "partial": "Slee",
-    "typo": "Sleep in a Dark Rooz",
-    "synonym": "ALT_sleep in a dark room"
+    "behavior": "Zinc",
+    "partial": "Zinc",
+    "typo": "Zinz",
+    "synonym": "ALT_zinc"
   },
   {
-    "behavior": "Ovulating",
-    "partial": "Ovul",
-    "typo": "Ovulatinz",
-    "synonym": "ALT_ovulating"
+    "behavior": "Nursing Infant",
+    "partial": "Nurs",
+    "typo": "Nursing Infanz",
+    "synonym": "ALT_nursing infant"
   }
 ]
