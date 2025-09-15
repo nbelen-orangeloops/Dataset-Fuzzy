@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Massage Therapy",
-    "partial": "Mass",
-    "typo": "Massage Therapz",
-    "synonym": "ALT_massage therapy"
+    "behavior": "Device (e.g. phone) in Bed",
+    "partial": "Devi",
+    "typo": "Device (e.g. phone) in Bez",
+    "synonym": "ALT_device (e.g. phone) in bed"
   },
   {
-    "behavior": "Feel Recovered",
-    "partial": "Feel",
-    "typo": "Feel Recoverez",
-    "synonym": "ALT_feel recovered"
+    "behavior": "Fish Oil",
+    "partial": "Fish",
+    "typo": "Fish Oiz",
+    "synonym": "ALT_fish oil"
   },
   {
-    "behavior": "Marijuana",
-    "partial": "Mari",
-    "typo": "Marijuanz",
-    "synonym": "ALT_marijuana"
+    "behavior": "Ear plugs",
+    "partial": "Ear ",
+    "typo": "Ear plugz",
+    "synonym": "ALT_ear plugs"
   },
   {
-    "behavior": "Ketogenic Diet",
-    "partial": "Keto",
-    "typo": "Ketogenic Diez",
-    "synonym": "ALT_ketogenic diet"
+    "behavior": "Calcium Supplement",
+    "partial": "Calc",
+    "typo": "Calcium Supplemenz",
+    "synonym": "ALT_calcium supplement"
   },
   {
-    "behavior": "Feeding Baby at Night",
-    "partial": "Feed",
-    "typo": "Feeding Baby at Nighz",
-    "synonym": "ALT_feeding baby at night"
+    "behavior": "Morning Sunlight",
+    "partial": "Morn",
+    "typo": "Morning Sunlighz",
+    "synonym": "ALT_morning sunlight"
   },
   {
-    "behavior": "Shared Bed",
-    "partial": "Shar",
-    "typo": "Shared Bez",
-    "synonym": "ALT_shared bed"
+    "behavior": "Stretching",
+    "partial": "Stre",
+    "typo": "Stretchinz",
+    "synonym": "ALT_stretching"
   },
   {
-    "behavior": "Weight Loss Medication",
-    "partial": "Weig",
-    "typo": "Weight Loss Medicatioz",
-    "synonym": "ALT_weight loss medication"
+    "behavior": "Artificial Light",
+    "partial": "Arti",
+    "typo": "Artificial Lighz",
+    "synonym": "ALT_artificial light"
   },
   {
-    "behavior": "CPAP Machine",
-    "partial": "CPAP",
-    "typo": "CPAP Machinz",
-    "synonym": "ALT_cpap machine"
+    "behavior": "Multivitamin",
+    "partial": "Mult",
+    "typo": "Multivitamiz",
+    "synonym": "ALT_multivitamin"
   },
   {
-    "behavior": "Zinc",
-    "partial": "Zinc",
-    "typo": "Zinz",
-    "synonym": "ALT_zinc"
+    "behavior": "Perimenopause",
+    "partial": "Peri",
+    "typo": "Perimenopausz",
+    "synonym": "ALT_perimenopause"
   },
   {
-    "behavior": "Nursing Infant",
-    "partial": "Nurs",
-    "typo": "Nursing Infanz",
-    "synonym": "ALT_nursing infant"
+    "behavior": "Carbohydrates",
+    "partial": "Carb",
+    "typo": "Carbohydratez",
+    "synonym": "ALT_carbohydrates"
   }
 ]
