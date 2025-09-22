@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Device (e.g. phone) in Bed",
-    "partial": "Devi",
-    "typo": "Device (e.g. phone) in Bez",
-    "synonym": "ALT_device (e.g. phone) in bed"
+    "behavior": "Commute To Work",
+    "partial": "Comm",
+    "typo": "Commute To Worz",
+    "synonym": "ALT_commute to work"
   },
   {
-    "behavior": "Fish Oil",
-    "partial": "Fish",
-    "typo": "Fish Oiz",
-    "synonym": "ALT_fish oil"
+    "behavior": "CPAP Machine",
+    "partial": "CPAP",
+    "typo": "CPAP Machinz",
+    "synonym": "ALT_cpap machine"
   },
   {
-    "behavior": "Ear plugs",
-    "partial": "Ear ",
-    "typo": "Ear plugz",
-    "synonym": "ALT_ear plugs"
+    "behavior": "LSD",
+    "partial": "LSD",
+    "typo": "LSz",
+    "synonym": "ALT_lsd"
   },
   {
-    "behavior": "Calcium Supplement",
+    "behavior": "Meat",
+    "partial": "Meat",
+    "typo": "Meaz",
+    "synonym": "ALT_meat"
+  },
+  {
+    "behavior": "Dog in Bedroom",
+    "partial": "Dog ",
+    "typo": "Dog in Bedrooz",
+    "synonym": "ALT_dog in bedroom"
+  },
+  {
+    "behavior": "Daylight Eating",
+    "partial": "Dayl",
+    "typo": "Daylight Eatinz",
+    "synonym": "ALT_daylight eating"
+  },
+  {
+    "behavior": "Meditation",
+    "partial": "Medi",
+    "typo": "Meditatioz",
+    "synonym": "ALT_meditation"
+  },
+  {
+    "behavior": "Calcium",
     "partial": "Calc",
-    "typo": "Calcium Supplemenz",
-    "synonym": "ALT_calcium supplement"
+    "typo": "Calciuz",
+    "synonym": "ALT_calcium"
   },
   {
-    "behavior": "Morning Sunlight",
-    "partial": "Morn",
-    "typo": "Morning Sunlighz",
-    "synonym": "ALT_morning sunlight"
+    "behavior": "Masturbation",
+    "partial": "Mast",
+    "typo": "Masturbatioz",
+    "synonym": "ALT_masturbation"
   },
   {
-    "behavior": "Stretching",
-    "partial": "Stre",
-    "typo": "Stretchinz",
-    "synonym": "ALT_stretching"
-  },
-  {
-    "behavior": "Artificial Light",
-    "partial": "Arti",
-    "typo": "Artificial Lighz",
-    "synonym": "ALT_artificial light"
-  },
-  {
-    "behavior": "Multivitamin",
-    "partial": "Mult",
-    "typo": "Multivitamiz",
-    "synonym": "ALT_multivitamin"
-  },
-  {
-    "behavior": "Perimenopause",
-    "partial": "Peri",
-    "typo": "Perimenopausz",
-    "synonym": "ALT_perimenopause"
-  },
-  {
-    "behavior": "Carbohydrates",
-    "partial": "Carb",
-    "typo": "Carbohydratez",
-    "synonym": "ALT_carbohydrates"
+    "behavior": "Single",
+    "partial": "Sing",
+    "typo": "Singlz",
+    "synonym": "ALT_single"
   }
 ]
