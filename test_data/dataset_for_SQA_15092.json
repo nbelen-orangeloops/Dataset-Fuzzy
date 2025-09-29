@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Commute To Work",
-    "partial": "Comm",
-    "typo": "Commute To Worz",
-    "synonym": "ALT_commute to work"
+    "behavior": "Protein",
+    "partial": "Prot",
+    "typo": "Proteiz",
+    "synonym": "ALT_protein"
   },
   {
-    "behavior": "CPAP Machine",
-    "partial": "CPAP",
-    "typo": "CPAP Machinz",
-    "synonym": "ALT_cpap machine"
+    "behavior": "Steam Room",
+    "partial": "Stea",
+    "typo": "Steam Rooz",
+    "synonym": "ALT_steam room"
   },
   {
-    "behavior": "LSD",
-    "partial": "LSD",
-    "typo": "LSz",
-    "synonym": "ALT_lsd"
+    "behavior": "Vitamin D",
+    "partial": "Vita",
+    "typo": "Vitamin z",
+    "synonym": "ALT_vitamin d"
   },
   {
-    "behavior": "Meat",
-    "partial": "Meat",
-    "typo": "Meaz",
-    "synonym": "ALT_meat"
+    "behavior": "Cold Shower",
+    "partial": "Cold",
+    "typo": "Cold Showez",
+    "synonym": "ALT_cold shower"
   },
   {
-    "behavior": "Dog in Bedroom",
-    "partial": "Dog ",
-    "typo": "Dog in Bedrooz",
-    "synonym": "ALT_dog in bedroom"
+    "behavior": "Weighted Blanket",
+    "partial": "Weig",
+    "typo": "Weighted Blankez",
+    "synonym": "ALT_weighted blanket"
   },
   {
-    "behavior": "Daylight Eating",
-    "partial": "Dayl",
-    "typo": "Daylight Eatinz",
-    "synonym": "ALT_daylight eating"
+    "behavior": "Breathwork",
+    "partial": "Brea",
+    "typo": "Breathworz",
+    "synonym": "ALT_breathwork"
   },
   {
-    "behavior": "Meditation",
-    "partial": "Medi",
-    "typo": "Meditatioz",
-    "synonym": "ALT_meditation"
-  },
-  {
-    "behavior": "Calcium",
+    "behavior": "Calcium Supplement",
     "partial": "Calc",
-    "typo": "Calciuz",
-    "synonym": "ALT_calcium"
+    "typo": "Calcium Supplemenz",
+    "synonym": "ALT_calcium supplement"
   },
   {
-    "behavior": "Masturbation",
-    "partial": "Mast",
-    "typo": "Masturbatioz",
-    "synonym": "ALT_masturbation"
+    "behavior": "Turmeric",
+    "partial": "Turm",
+    "typo": "Turmeriz",
+    "synonym": "ALT_turmeric"
   },
   {
-    "behavior": "Single",
-    "partial": "Sing",
-    "typo": "Singlz",
-    "synonym": "ALT_single"
+    "behavior": "Anti-inflammatory NSAIDs (e.g. Ibuprofen)",
+    "partial": "Anti",
+    "typo": "Anti-inflammatory NSAIDs (e.g. Ibuprofenz",
+    "synonym": "ALT_anti-inflammatory nsaids (e.g. ibuprofen)"
+  },
+  {
+    "behavior": "Blood Pressure Medication",
+    "partial": "Bloo",
+    "typo": "Blood Pressure Medicatioz",
+    "synonym": "ALT_blood pressure medication"
   }
 ]
