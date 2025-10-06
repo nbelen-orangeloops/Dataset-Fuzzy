@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Protein",
-    "partial": "Prot",
-    "typo": "Proteiz",
-    "synonym": "ALT_protein"
+    "behavior": "Calories",
+    "partial": "Calo",
+    "typo": "Caloriez",
+    "synonym": "ALT_calories"
   },
   {
-    "behavior": "Steam Room",
-    "partial": "Stea",
-    "typo": "Steam Rooz",
-    "synonym": "ALT_steam room"
+    "behavior": "Humidifier",
+    "partial": "Humi",
+    "typo": "Humidifiez",
+    "synonym": "ALT_humidifier"
   },
   {
-    "behavior": "Vitamin D",
-    "partial": "Vita",
-    "typo": "Vitamin z",
-    "synonym": "ALT_vitamin d"
+    "behavior": "Ramadan",
+    "partial": "Rama",
+    "typo": "Ramadaz",
+    "synonym": "ALT_ramadan"
   },
   {
-    "behavior": "Cold Shower",
-    "partial": "Cold",
-    "typo": "Cold Showez",
-    "synonym": "ALT_cold shower"
+    "behavior": "Bloating",
+    "partial": "Bloa",
+    "typo": "Bloatinz",
+    "synonym": "ALT_bloating"
   },
   {
-    "behavior": "Weighted Blanket",
-    "partial": "Weig",
-    "typo": "Weighted Blankez",
-    "synonym": "ALT_weighted blanket"
+    "behavior": "Gluten-free diet",
+    "partial": "Glut",
+    "typo": "Gluten-free diez",
+    "synonym": "ALT_gluten-free diet"
   },
   {
-    "behavior": "Breathwork",
-    "partial": "Brea",
-    "typo": "Breathworz",
-    "synonym": "ALT_breathwork"
+    "behavior": "Perimenopause",
+    "partial": "Peri",
+    "typo": "Perimenopausz",
+    "synonym": "ALT_perimenopause"
   },
   {
-    "behavior": "Calcium Supplement",
+    "behavior": "CPAP Machine",
+    "partial": "CPAP",
+    "typo": "CPAP Machinz",
+    "synonym": "ALT_cpap machine"
+  },
+  {
+    "behavior": "Red Light Therapy",
+    "partial": "Red ",
+    "typo": "Red Light Therapz",
+    "synonym": "ALT_red light therapy"
+  },
+  {
+    "behavior": "Sunset",
+    "partial": "Suns",
+    "typo": "Sunsez",
+    "synonym": "ALT_sunset"
+  },
+  {
+    "behavior": "Calcium",
     "partial": "Calc",
-    "typo": "Calcium Supplemenz",
-    "synonym": "ALT_calcium supplement"
-  },
-  {
-    "behavior": "Turmeric",
-    "partial": "Turm",
-    "typo": "Turmeriz",
-    "synonym": "ALT_turmeric"
-  },
-  {
-    "behavior": "Anti-inflammatory NSAIDs (e.g. Ibuprofen)",
-    "partial": "Anti",
-    "typo": "Anti-inflammatory NSAIDs (e.g. Ibuprofenz",
-    "synonym": "ALT_anti-inflammatory nsaids (e.g. ibuprofen)"
-  },
-  {
-    "behavior": "Blood Pressure Medication",
-    "partial": "Bloo",
-    "typo": "Blood Pressure Medicatioz",
-    "synonym": "ALT_blood pressure medication"
+    "typo": "Calciuz",
+    "synonym": "ALT_calcium"
   }
 ]
