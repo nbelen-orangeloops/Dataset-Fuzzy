@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Calories",
-    "partial": "Calo",
-    "typo": "Caloriez",
-    "synonym": "ALT_calories"
+    "behavior": "Feel Efficacy",
+    "partial": "Feel",
+    "typo": "Feel Efficacz",
+    "synonym": "ALT_feel efficacy"
   },
   {
-    "behavior": "Humidifier",
-    "partial": "Humi",
-    "typo": "Humidifiez",
-    "synonym": "ALT_humidifier"
+    "behavior": "COVID-19 Symptoms",
+    "partial": "COVI",
+    "typo": "COVID-19 Symptomz",
+    "synonym": "ALT_covid-19 symptoms"
   },
   {
-    "behavior": "Ramadan",
-    "partial": "Rama",
-    "typo": "Ramadaz",
-    "synonym": "ALT_ramadan"
+    "behavior": "CBD",
+    "partial": "CBD",
+    "typo": "CBz",
+    "synonym": "ALT_cbd"
   },
   {
-    "behavior": "Bloating",
-    "partial": "Bloa",
-    "typo": "Bloatinz",
-    "synonym": "ALT_bloating"
+    "behavior": "Sleep Mask",
+    "partial": "Slee",
+    "typo": "Sleep Masz",
+    "synonym": "ALT_sleep mask"
   },
   {
-    "behavior": "Gluten-free diet",
-    "partial": "Glut",
-    "typo": "Gluten-free diez",
-    "synonym": "ALT_gluten-free diet"
+    "behavior": "AD(H)D Medication",
+    "partial": "AD(H",
+    "typo": "AD(H)D Medicatioz",
+    "synonym": "ALT_ad(h)d medication"
   },
   {
-    "behavior": "Perimenopause",
-    "partial": "Peri",
-    "typo": "Perimenopausz",
-    "synonym": "ALT_perimenopause"
+    "behavior": "Shared Bedroom with Child",
+    "partial": "Shar",
+    "typo": "Shared Bedroom with Chilz",
+    "synonym": "ALT_shared bedroom with child"
   },
   {
-    "behavior": "CPAP Machine",
-    "partial": "CPAP",
-    "typo": "CPAP Machinz",
-    "synonym": "ALT_cpap machine"
+    "behavior": "Migraine",
+    "partial": "Migr",
+    "typo": "Migrainz",
+    "synonym": "ALT_migraine"
   },
   {
-    "behavior": "Red Light Therapy",
-    "partial": "Red ",
-    "typo": "Red Light Therapz",
-    "synonym": "ALT_red light therapy"
+    "behavior": "Postnatal Vitamins",
+    "partial": "Post",
+    "typo": "Postnatal Vitaminz",
+    "synonym": "ALT_postnatal vitamins"
   },
   {
-    "behavior": "Sunset",
-    "partial": "Suns",
-    "typo": "Sunsez",
-    "synonym": "ALT_sunset"
+    "behavior": "Anti-anxiety Medication",
+    "partial": "Anti",
+    "typo": "Anti-anxiety Medicatioz",
+    "synonym": "ALT_anti-anxiety medication"
   },
   {
-    "behavior": "Calcium",
-    "partial": "Calc",
-    "typo": "Calciuz",
-    "synonym": "ALT_calcium"
+    "behavior": "Parenting Infant",
+    "partial": "Pare",
+    "typo": "Parenting Infanz",
+    "synonym": "ALT_parenting infant"
   }
 ]
