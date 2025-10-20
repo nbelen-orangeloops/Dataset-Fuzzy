@@ -1,39 +1,33 @@
 [
   {
-    "behavior": "Feel Efficacy",
-    "partial": "Feel",
-    "typo": "Feel Efficacz",
-    "synonym": "ALT_feel efficacy"
+    "behavior": "Fats",
+    "partial": "Fats",
+    "typo": "Fatz",
+    "synonym": "ALT_fats"
   },
   {
-    "behavior": "COVID-19 Symptoms",
-    "partial": "COVI",
-    "typo": "COVID-19 Symptomz",
-    "synonym": "ALT_covid-19 symptoms"
+    "behavior": "Sick",
+    "partial": "Sick",
+    "typo": "Sicz",
+    "synonym": "ALT_sick"
   },
   {
-    "behavior": "CBD",
-    "partial": "CBD",
-    "typo": "CBz",
-    "synonym": "ALT_cbd"
+    "behavior": "Seasonal Allergies",
+    "partial": "Seas",
+    "typo": "Seasonal Allergiez",
+    "synonym": "ALT_seasonal allergies"
   },
   {
-    "behavior": "Sleep Mask",
-    "partial": "Slee",
-    "typo": "Sleep Masz",
-    "synonym": "ALT_sleep mask"
+    "behavior": "Sunset",
+    "partial": "Suns",
+    "typo": "Sunsez",
+    "synonym": "ALT_sunset"
   },
   {
-    "behavior": "AD(H)D Medication",
-    "partial": "AD(H",
-    "typo": "AD(H)D Medicatioz",
-    "synonym": "ALT_ad(h)d medication"
-  },
-  {
-    "behavior": "Shared Bedroom with Child",
-    "partial": "Shar",
-    "typo": "Shared Bedroom with Chilz",
-    "synonym": "ALT_shared bedroom with child"
+    "behavior": "Device (e.g. phone) in Bed",
+    "partial": "Devi",
+    "typo": "Device (e.g. phone) in Bez",
+    "synonym": "ALT_device (e.g. phone) in bed"
   },
   {
     "behavior": "Migraine",
@@ -42,21 +36,27 @@
     "synonym": "ALT_migraine"
   },
   {
-    "behavior": "Postnatal Vitamins",
-    "partial": "Post",
-    "typo": "Postnatal Vitaminz",
-    "synonym": "ALT_postnatal vitamins"
+    "behavior": "Sex",
+    "partial": "Sex",
+    "typo": "Sez",
+    "synonym": "ALT_sex"
   },
   {
-    "behavior": "Anti-anxiety Medication",
-    "partial": "Anti",
-    "typo": "Anti-anxiety Medicatioz",
-    "synonym": "ALT_anti-anxiety medication"
+    "behavior": "Pumping",
+    "partial": "Pump",
+    "typo": "Pumpinz",
+    "synonym": "ALT_pumping"
   },
   {
-    "behavior": "Parenting Infant",
-    "partial": "Pare",
-    "typo": "Parenting Infanz",
-    "synonym": "ALT_parenting infant"
+    "behavior": "Emotional/Mental State",
+    "partial": "Emot",
+    "typo": "Emotional/Mental Statz",
+    "synonym": "ALT_emotional/mental state"
+  },
+  {
+    "behavior": "Dairy",
+    "partial": "Dair",
+    "typo": "Dairz",
+    "synonym": "ALT_dairy"
   }
 ]
