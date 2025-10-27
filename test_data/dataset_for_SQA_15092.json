@@ -1,51 +1,51 @@
 [
   {
-    "behavior": "Fats",
-    "partial": "Fats",
-    "typo": "Fatz",
-    "synonym": "ALT_fats"
+    "behavior": "Sleep Mask",
+    "partial": "Slee",
+    "typo": "Sleep Masz",
+    "synonym": "ALT_sleep mask"
   },
   {
-    "behavior": "Sick",
-    "partial": "Sick",
-    "typo": "Sicz",
-    "synonym": "ALT_sick"
+    "behavior": "Make Progress",
+    "partial": "Make",
+    "typo": "Make Progresz",
+    "synonym": "ALT_make progress"
   },
   {
-    "behavior": "Seasonal Allergies",
-    "partial": "Seas",
-    "typo": "Seasonal Allergiez",
-    "synonym": "ALT_seasonal allergies"
+    "behavior": "Creatine",
+    "partial": "Crea",
+    "typo": "Creatinz",
+    "synonym": "ALT_creatine"
   },
   {
-    "behavior": "Sunset",
-    "partial": "Suns",
-    "typo": "Sunsez",
-    "synonym": "ALT_sunset"
+    "behavior": "Late Meal",
+    "partial": "Late",
+    "typo": "Late Meaz",
+    "synonym": "ALT_late meal"
   },
   {
-    "behavior": "Device (e.g. phone) in Bed",
-    "partial": "Devi",
-    "typo": "Device (e.g. phone) in Bez",
-    "synonym": "ALT_device (e.g. phone) in bed"
+    "behavior": "Parenting Sick Child",
+    "partial": "Pare",
+    "typo": "Parenting Sick Chilz",
+    "synonym": "ALT_parenting sick child"
   },
   {
-    "behavior": "Migraine",
-    "partial": "Migr",
-    "typo": "Migrainz",
-    "synonym": "ALT_migraine"
+    "behavior": "Depression",
+    "partial": "Depr",
+    "typo": "Depressioz",
+    "synonym": "ALT_depression"
   },
   {
-    "behavior": "Sex",
-    "partial": "Sex",
-    "typo": "Sez",
-    "synonym": "ALT_sex"
+    "behavior": "Feel Control",
+    "partial": "Feel",
+    "typo": "Feel Controz",
+    "synonym": "ALT_feel control"
   },
   {
-    "behavior": "Pumping",
-    "partial": "Pump",
-    "typo": "Pumpinz",
-    "synonym": "ALT_pumping"
+    "behavior": "Postmenopause",
+    "partial": "Post",
+    "typo": "Postmenopausz",
+    "synonym": "ALT_postmenopause"
   },
   {
     "behavior": "Emotional/Mental State",
@@ -54,9 +54,9 @@
     "synonym": "ALT_emotional/mental state"
   },
   {
-    "behavior": "Dairy",
-    "partial": "Dair",
-    "typo": "Dairz",
-    "synonym": "ALT_dairy"
+    "behavior": "Feeding Baby at Night",
+    "partial": "Feed",
+    "typo": "Feeding Baby at Nighz",
+    "synonym": "ALT_feeding baby at night"
   }
 ]
