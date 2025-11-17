@@ -1,51 +1,15 @@
 [
   {
-    "behavior": "Anti-anxiety Medication",
-    "partial": "Anti",
-    "typo": "Anti-anxiety Medicatioz",
-    "synonym": "ALT_anti-anxiety medication"
+    "behavior": "Masturbation",
+    "partial": "Mast",
+    "typo": "Masturbatioz",
+    "synonym": "ALT_masturbation"
   },
   {
-    "behavior": "Family & Friends",
-    "partial": "Fami",
-    "typo": "Family & Friendz",
-    "synonym": "ALT_family & friends"
-  },
-  {
-    "behavior": "Outdoor Time",
-    "partial": "Outd",
-    "typo": "Outdoor Timz",
-    "synonym": "ALT_outdoor time"
-  },
-  {
-    "behavior": "Sodium",
-    "partial": "Sodi",
-    "typo": "Sodiuz",
-    "synonym": "ALT_sodium"
-  },
-  {
-    "behavior": "CBD",
-    "partial": "CBD",
-    "typo": "CBz",
-    "synonym": "ALT_cbd"
-  },
-  {
-    "behavior": "COVID-19 Vaccination (Dose #1)",
-    "partial": "COVI",
-    "typo": "COVID-19 Vaccination (Dose #1z",
-    "synonym": "ALT_covid-19 vaccination (dose #1)"
-  },
-  {
-    "behavior": "Sleep Mask",
-    "partial": "Slee",
-    "typo": "Sleep Masz",
-    "synonym": "ALT_sleep mask"
-  },
-  {
-    "behavior": "Sunset",
-    "partial": "Suns",
-    "typo": "Sunsez",
-    "synonym": "ALT_sunset"
+    "behavior": "Chemotherapy",
+    "partial": "Chem",
+    "typo": "Chemotherapz",
+    "synonym": "ALT_chemotherapy"
   },
   {
     "behavior": "Magnesium Supplement",
@@ -54,9 +18,45 @@
     "synonym": "ALT_magnesium supplement"
   },
   {
-    "behavior": "COVID-19 Vaccination (Dose #2)",
-    "partial": "COVI",
-    "typo": "COVID-19 Vaccination (Dose #2z",
-    "synonym": "ALT_covid-19 vaccination (dose #2)"
+    "behavior": "Emotional/Mental State",
+    "partial": "Emot",
+    "typo": "Emotional/Mental Statz",
+    "synonym": "ALT_emotional/mental state"
+  },
+  {
+    "behavior": "Nicotine",
+    "partial": "Nico",
+    "typo": "Nicotinz",
+    "synonym": "ALT_nicotine"
+  },
+  {
+    "behavior": "Spirituality",
+    "partial": "Spir",
+    "typo": "Spiritualitz",
+    "synonym": "ALT_spirituality"
+  },
+  {
+    "behavior": "Fever",
+    "partial": "Feve",
+    "typo": "Fevez",
+    "synonym": "ALT_fever"
+  },
+  {
+    "behavior": "Night Shift",
+    "partial": "Nigh",
+    "typo": "Night Shifz",
+    "synonym": "ALT_night shift"
+  },
+  {
+    "behavior": "Gratitude",
+    "partial": "Grat",
+    "typo": "Gratitudz",
+    "synonym": "ALT_gratitude"
+  },
+  {
+    "behavior": "Caregiving",
+    "partial": "Care",
+    "typo": "Caregivinz",
+    "synonym": "ALT_caregiving"
   }
 ]
