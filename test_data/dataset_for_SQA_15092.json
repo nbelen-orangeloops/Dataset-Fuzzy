@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Masturbation",
-    "partial": "Mast",
-    "typo": "Masturbatioz",
-    "synonym": "ALT_masturbation"
+    "behavior": "Hot Shower before bed",
+    "partial": "Hot ",
+    "typo": "Hot Shower before bez",
+    "synonym": "ALT_hot shower before bed"
   },
   {
-    "behavior": "Chemotherapy",
-    "partial": "Chem",
-    "typo": "Chemotherapz",
-    "synonym": "ALT_chemotherapy"
+    "behavior": "Nursing",
+    "partial": "Nurs",
+    "typo": "Nursinz",
+    "synonym": "ALT_nursing"
   },
   {
-    "behavior": "Magnesium Supplement",
-    "partial": "Magn",
-    "typo": "Magnesium Supplemenz",
-    "synonym": "ALT_magnesium supplement"
+    "behavior": "Radiation Therapy",
+    "partial": "Radi",
+    "typo": "Radiation Therapz",
+    "synonym": "ALT_radiation therapy"
   },
   {
-    "behavior": "Emotional/Mental State",
-    "partial": "Emot",
-    "typo": "Emotional/Mental Statz",
-    "synonym": "ALT_emotional/mental state"
+    "behavior": "Zinc",
+    "partial": "Zinc",
+    "typo": "Zinz",
+    "synonym": "ALT_zinc"
   },
   {
-    "behavior": "Nicotine",
-    "partial": "Nico",
-    "typo": "Nicotinz",
-    "synonym": "ALT_nicotine"
+    "behavior": "Feeding Baby at Night",
+    "partial": "Feed",
+    "typo": "Feeding Baby at Nighz",
+    "synonym": "ALT_feeding baby at night"
   },
   {
-    "behavior": "Spirituality",
-    "partial": "Spir",
-    "typo": "Spiritualitz",
-    "synonym": "ALT_spirituality"
+    "behavior": "Irritability",
+    "partial": "Irri",
+    "typo": "Irritabilitz",
+    "synonym": "ALT_irritability"
   },
   {
-    "behavior": "Fever",
-    "partial": "Feve",
-    "typo": "Fevez",
-    "synonym": "ALT_fever"
+    "behavior": "Calories",
+    "partial": "Calo",
+    "typo": "Caloriez",
+    "synonym": "ALT_calories"
   },
   {
-    "behavior": "Night Shift",
-    "partial": "Nigh",
-    "typo": "Night Shifz",
-    "synonym": "ALT_night shift"
+    "behavior": "Hyperbaric Chamber",
+    "partial": "Hype",
+    "typo": "Hyperbaric Chambez",
+    "synonym": "ALT_hyperbaric chamber"
   },
   {
-    "behavior": "Gratitude",
-    "partial": "Grat",
-    "typo": "Gratitudz",
-    "synonym": "ALT_gratitude"
+    "behavior": "Ramadan",
+    "partial": "Rama",
+    "typo": "Ramadaz",
+    "synonym": "ALT_ramadan"
   },
   {
-    "behavior": "Caregiving",
-    "partial": "Care",
-    "typo": "Caregivinz",
-    "synonym": "ALT_caregiving"
+    "behavior": "Compression Therapy",
+    "partial": "Comp",
+    "typo": "Compression Therapz",
+    "synonym": "ALT_compression therapy"
   }
 ]
