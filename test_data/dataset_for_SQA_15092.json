@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Hot Shower before bed",
-    "partial": "Hot ",
-    "typo": "Hot Shower before bez",
-    "synonym": "ALT_hot shower before bed"
+    "behavior": "Sleep in a Dark Room",
+    "partial": "Slee",
+    "typo": "Sleep in a Dark Rooz",
+    "synonym": "ALT_sleep in a dark room"
   },
   {
-    "behavior": "Nursing",
-    "partial": "Nurs",
-    "typo": "Nursinz",
-    "synonym": "ALT_nursing"
+    "behavior": "Headache",
+    "partial": "Head",
+    "typo": "Headachz",
+    "synonym": "ALT_headache"
   },
   {
-    "behavior": "Radiation Therapy",
-    "partial": "Radi",
-    "typo": "Radiation Therapz",
-    "synonym": "ALT_radiation therapy"
+    "behavior": "Learning",
+    "partial": "Lear",
+    "typo": "Learninz",
+    "synonym": "ALT_learning"
   },
   {
-    "behavior": "Zinc",
-    "partial": "Zinc",
-    "typo": "Zinz",
-    "synonym": "ALT_zinc"
+    "behavior": "Psilocybin",
+    "partial": "Psil",
+    "typo": "Psilocybiz",
+    "synonym": "ALT_psilocybin"
   },
   {
-    "behavior": "Feeding Baby at Night",
-    "partial": "Feed",
-    "typo": "Feeding Baby at Nighz",
-    "synonym": "ALT_feeding baby at night"
+    "behavior": "Ketogenic Diet",
+    "partial": "Keto",
+    "typo": "Ketogenic Diez",
+    "synonym": "ALT_ketogenic diet"
   },
   {
-    "behavior": "Irritability",
-    "partial": "Irri",
-    "typo": "Irritabilitz",
-    "synonym": "ALT_irritability"
+    "behavior": "Tobacco",
+    "partial": "Toba",
+    "typo": "Tobaccz",
+    "synonym": "ALT_tobacco"
   },
   {
-    "behavior": "Calories",
-    "partial": "Calo",
-    "typo": "Caloriez",
-    "synonym": "ALT_calories"
+    "behavior": "Magnesium Supplement",
+    "partial": "Magn",
+    "typo": "Magnesium Supplemenz",
+    "synonym": "ALT_magnesium supplement"
   },
   {
-    "behavior": "Hyperbaric Chamber",
-    "partial": "Hype",
-    "typo": "Hyperbaric Chambez",
-    "synonym": "ALT_hyperbaric chamber"
+    "behavior": "Shared Bedroom with Child",
+    "partial": "Shar",
+    "typo": "Shared Bedroom with Chilz",
+    "synonym": "ALT_shared bedroom with child"
   },
   {
-    "behavior": "Ramadan",
-    "partial": "Rama",
-    "typo": "Ramadaz",
-    "synonym": "ALT_ramadan"
+    "behavior": "Prescription Pain Medication",
+    "partial": "Pres",
+    "typo": "Prescription Pain Medicatioz",
+    "synonym": "ALT_prescription pain medication"
   },
   {
-    "behavior": "Compression Therapy",
-    "partial": "Comp",
-    "typo": "Compression Therapz",
-    "synonym": "ALT_compression therapy"
+    "behavior": "Paleo Diet",
+    "partial": "Pale",
+    "typo": "Paleo Diez",
+    "synonym": "ALT_paleo diet"
   }
 ]
