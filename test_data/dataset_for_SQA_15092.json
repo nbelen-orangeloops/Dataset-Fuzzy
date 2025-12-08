@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Sleep in a Dark Room",
-    "partial": "Slee",
-    "typo": "Sleep in a Dark Rooz",
-    "synonym": "ALT_sleep in a dark room"
+    "behavior": "Snacking",
+    "partial": "Snac",
+    "typo": "Snackinz",
+    "synonym": "ALT_snacking"
   },
   {
-    "behavior": "Headache",
-    "partial": "Head",
-    "typo": "Headachz",
-    "synonym": "ALT_headache"
+    "behavior": "Read in Bed",
+    "partial": "Read",
+    "typo": "Read in Bez",
+    "synonym": "ALT_read in bed"
   },
   {
-    "behavior": "Learning",
-    "partial": "Lear",
-    "typo": "Learninz",
-    "synonym": "ALT_learning"
+    "behavior": "Fever",
+    "partial": "Feve",
+    "typo": "Fevez",
+    "synonym": "ALT_fever"
   },
   {
-    "behavior": "Psilocybin",
-    "partial": "Psil",
-    "typo": "Psilocybiz",
-    "synonym": "ALT_psilocybin"
+    "behavior": "Masturbation",
+    "partial": "Mast",
+    "typo": "Masturbatioz",
+    "synonym": "ALT_masturbation"
   },
   {
-    "behavior": "Ketogenic Diet",
-    "partial": "Keto",
-    "typo": "Ketogenic Diez",
-    "synonym": "ALT_ketogenic diet"
+    "behavior": "Prenatal Vitamins",
+    "partial": "Pren",
+    "typo": "Prenatal Vitaminz",
+    "synonym": "ALT_prenatal vitamins"
   },
   {
-    "behavior": "Tobacco",
-    "partial": "Toba",
-    "typo": "Tobaccz",
-    "synonym": "ALT_tobacco"
+    "behavior": "Marijuana",
+    "partial": "Mari",
+    "typo": "Marijuanz",
+    "synonym": "ALT_marijuana"
   },
   {
-    "behavior": "Magnesium Supplement",
-    "partial": "Magn",
-    "typo": "Magnesium Supplemenz",
-    "synonym": "ALT_magnesium supplement"
+    "behavior": "Blue-light Blocking Glasses",
+    "partial": "Blue",
+    "typo": "Blue-light Blocking Glassez",
+    "synonym": "ALT_blue-light blocking glasses"
   },
   {
-    "behavior": "Shared Bedroom with Child",
-    "partial": "Shar",
-    "typo": "Shared Bedroom with Chilz",
-    "synonym": "ALT_shared bedroom with child"
+    "behavior": "Vitamin B-12",
+    "partial": "Vita",
+    "typo": "Vitamin B-1z",
+    "synonym": "ALT_vitamin b-12"
   },
   {
-    "behavior": "Prescription Pain Medication",
-    "partial": "Pres",
-    "typo": "Prescription Pain Medicatioz",
-    "synonym": "ALT_prescription pain medication"
+    "behavior": "AD(H)D Medication",
+    "partial": "AD(H",
+    "typo": "AD(H)D Medicatioz",
+    "synonym": "ALT_ad(h)d medication"
   },
   {
-    "behavior": "Paleo Diet",
-    "partial": "Pale",
-    "typo": "Paleo Diez",
-    "synonym": "ALT_paleo diet"
+    "behavior": "Blood Pressure Medication",
+    "partial": "Bloo",
+    "typo": "Blood Pressure Medicatioz",
+    "synonym": "ALT_blood pressure medication"
   }
 ]
