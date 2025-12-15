@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Snacking",
-    "partial": "Snac",
-    "typo": "Snackinz",
-    "synonym": "ALT_snacking"
+    "behavior": "Irritability",
+    "partial": "Irri",
+    "typo": "Irritabilitz",
+    "synonym": "ALT_irritability"
   },
   {
-    "behavior": "Read in Bed",
-    "partial": "Read",
-    "typo": "Read in Bez",
-    "synonym": "ALT_read in bed"
+    "behavior": "Stay Positive",
+    "partial": "Stay",
+    "typo": "Stay Positivz",
+    "synonym": "ALT_stay positive"
   },
   {
-    "behavior": "Fever",
-    "partial": "Feve",
-    "typo": "Fevez",
-    "synonym": "ALT_fever"
+    "behavior": "Menstruating",
+    "partial": "Mens",
+    "typo": "Menstruatinz",
+    "synonym": "ALT_menstruating"
   },
   {
-    "behavior": "Masturbation",
-    "partial": "Mast",
-    "typo": "Masturbatioz",
-    "synonym": "ALT_masturbation"
+    "behavior": "Acupuncture",
+    "partial": "Acup",
+    "typo": "Acupuncturz",
+    "synonym": "ALT_acupuncture"
   },
   {
-    "behavior": "Prenatal Vitamins",
-    "partial": "Pren",
-    "typo": "Prenatal Vitaminz",
-    "synonym": "ALT_prenatal vitamins"
+    "behavior": "Hot Shower before bed",
+    "partial": "Hot ",
+    "typo": "Hot Shower before bez",
+    "synonym": "ALT_hot shower before bed"
   },
   {
-    "behavior": "Marijuana",
-    "partial": "Mari",
-    "typo": "Marijuanz",
-    "synonym": "ALT_marijuana"
+    "behavior": "Dairy",
+    "partial": "Dair",
+    "typo": "Dairz",
+    "synonym": "ALT_dairy"
   },
   {
-    "behavior": "Blue-light Blocking Glasses",
-    "partial": "Blue",
-    "typo": "Blue-light Blocking Glassez",
-    "synonym": "ALT_blue-light blocking glasses"
+    "behavior": "Morning Sunlight",
+    "partial": "Morn",
+    "typo": "Morning Sunlighz",
+    "synonym": "ALT_morning sunlight"
   },
   {
-    "behavior": "Vitamin B-12",
-    "partial": "Vita",
-    "typo": "Vitamin B-1z",
-    "synonym": "ALT_vitamin b-12"
+    "behavior": "Sound Machine (e.g. white noise)",
+    "partial": "Soun",
+    "typo": "Sound Machine (e.g. white noisez",
+    "synonym": "ALT_sound machine (e.g. white noise)"
   },
   {
-    "behavior": "AD(H)D Medication",
-    "partial": "AD(H",
-    "typo": "AD(H)D Medicatioz",
-    "synonym": "ALT_ad(h)d medication"
+    "behavior": "Ramadan",
+    "partial": "Rama",
+    "typo": "Ramadaz",
+    "synonym": "ALT_ramadan"
   },
   {
-    "behavior": "Blood Pressure Medication",
-    "partial": "Bloo",
-    "typo": "Blood Pressure Medicatioz",
-    "synonym": "ALT_blood pressure medication"
+    "behavior": "Energy Level",
+    "partial": "Ener",
+    "typo": "Energy Levez",
+    "synonym": "ALT_energy level"
   }
 ]
