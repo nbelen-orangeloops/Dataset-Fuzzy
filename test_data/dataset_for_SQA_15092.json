@@ -1,51 +1,45 @@
 [
   {
-    "behavior": "Irritability",
-    "partial": "Irri",
-    "typo": "Irritabilitz",
-    "synonym": "ALT_irritability"
+    "behavior": "Feeding Baby at Night",
+    "partial": "Feed",
+    "typo": "Feeding Baby at Nighz",
+    "synonym": "ALT_feeding baby at night"
   },
   {
-    "behavior": "Stay Positive",
-    "partial": "Stay",
-    "typo": "Stay Positivz",
-    "synonym": "ALT_stay positive"
+    "behavior": "Luteinizing Hormone (LH) Test",
+    "partial": "Lute",
+    "typo": "Luteinizing Hormone (LH) Tesz",
+    "synonym": "ALT_luteinizing hormone (lh) test"
   },
   {
-    "behavior": "Menstruating",
-    "partial": "Mens",
-    "typo": "Menstruatinz",
-    "synonym": "ALT_menstruating"
+    "behavior": "Sensory Deprivation",
+    "partial": "Sens",
+    "typo": "Sensory Deprivatioz",
+    "synonym": "ALT_sensory deprivation"
   },
   {
-    "behavior": "Acupuncture",
-    "partial": "Acup",
-    "typo": "Acupuncturz",
-    "synonym": "ALT_acupuncture"
-  },
-  {
-    "behavior": "Hot Shower before bed",
-    "partial": "Hot ",
-    "typo": "Hot Shower before bez",
-    "synonym": "ALT_hot shower before bed"
-  },
-  {
-    "behavior": "Dairy",
+    "behavior": "Dairy-Free Diet",
     "partial": "Dair",
-    "typo": "Dairz",
-    "synonym": "ALT_dairy"
+    "typo": "Dairy-Free Diez",
+    "synonym": "ALT_dairy-free diet"
   },
   {
-    "behavior": "Morning Sunlight",
-    "partial": "Morn",
-    "typo": "Morning Sunlighz",
-    "synonym": "ALT_morning sunlight"
+    "behavior": "Depression",
+    "partial": "Depr",
+    "typo": "Depressioz",
+    "synonym": "ALT_depression"
   },
   {
-    "behavior": "Sound Machine (e.g. white noise)",
-    "partial": "Soun",
-    "typo": "Sound Machine (e.g. white noisez",
-    "synonym": "ALT_sound machine (e.g. white noise)"
+    "behavior": "Snacking",
+    "partial": "Snac",
+    "typo": "Snackinz",
+    "synonym": "ALT_snacking"
+  },
+  {
+    "behavior": "Alcohol",
+    "partial": "Alco",
+    "typo": "Alcohoz",
+    "synonym": "ALT_alcohol"
   },
   {
     "behavior": "Ramadan",
@@ -54,9 +48,15 @@
     "synonym": "ALT_ramadan"
   },
   {
-    "behavior": "Energy Level",
-    "partial": "Ener",
-    "typo": "Energy Levez",
-    "synonym": "ALT_energy level"
+    "behavior": "Feel Recovered",
+    "partial": "Feel",
+    "typo": "Feel Recoverez",
+    "synonym": "ALT_feel recovered"
+  },
+  {
+    "behavior": "Postmenopause",
+    "partial": "Post",
+    "typo": "Postmenopausz",
+    "synonym": "ALT_postmenopause"
   }
 ]
