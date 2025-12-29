@@ -1,45 +1,21 @@
 [
   {
-    "behavior": "Feeding Baby at Night",
-    "partial": "Feed",
-    "typo": "Feeding Baby at Nighz",
-    "synonym": "ALT_feeding baby at night"
+    "behavior": "Fats",
+    "partial": "Fats",
+    "typo": "Fatz",
+    "synonym": "ALT_fats"
   },
   {
-    "behavior": "Luteinizing Hormone (LH) Test",
-    "partial": "Lute",
-    "typo": "Luteinizing Hormone (LH) Tesz",
-    "synonym": "ALT_luteinizing hormone (lh) test"
+    "behavior": "Cupping",
+    "partial": "Cupp",
+    "typo": "Cuppinz",
+    "synonym": "ALT_cupping"
   },
   {
-    "behavior": "Sensory Deprivation",
-    "partial": "Sens",
-    "typo": "Sensory Deprivatioz",
-    "synonym": "ALT_sensory deprivation"
-  },
-  {
-    "behavior": "Dairy-Free Diet",
-    "partial": "Dair",
-    "typo": "Dairy-Free Diez",
-    "synonym": "ALT_dairy-free diet"
-  },
-  {
-    "behavior": "Depression",
-    "partial": "Depr",
-    "typo": "Depressioz",
-    "synonym": "ALT_depression"
-  },
-  {
-    "behavior": "Snacking",
-    "partial": "Snac",
-    "typo": "Snackinz",
-    "synonym": "ALT_snacking"
-  },
-  {
-    "behavior": "Alcohol",
-    "partial": "Alco",
-    "typo": "Alcohoz",
-    "synonym": "ALT_alcohol"
+    "behavior": "Marijuana",
+    "partial": "Mari",
+    "typo": "Marijuanz",
+    "synonym": "ALT_marijuana"
   },
   {
     "behavior": "Ramadan",
@@ -48,15 +24,39 @@
     "synonym": "ALT_ramadan"
   },
   {
-    "behavior": "Feel Recovered",
-    "partial": "Feel",
-    "typo": "Feel Recoverez",
-    "synonym": "ALT_feel recovered"
+    "behavior": "Sick",
+    "partial": "Sick",
+    "typo": "Sicz",
+    "synonym": "ALT_sick"
   },
   {
-    "behavior": "Postmenopause",
-    "partial": "Post",
-    "typo": "Postmenopausz",
-    "synonym": "ALT_postmenopause"
+    "behavior": "Work Calls",
+    "partial": "Work",
+    "typo": "Work Callz",
+    "synonym": "ALT_work calls"
+  },
+  {
+    "behavior": "Sex",
+    "partial": "Sex",
+    "typo": "Sez",
+    "synonym": "ALT_sex"
+  },
+  {
+    "behavior": "Psilocybin",
+    "partial": "Psil",
+    "typo": "Psilocybiz",
+    "synonym": "ALT_psilocybin"
+  },
+  {
+    "behavior": "Masturbation",
+    "partial": "Mast",
+    "typo": "Masturbatioz",
+    "synonym": "ALT_masturbation"
+  },
+  {
+    "behavior": "Added Sugar",
+    "partial": "Adde",
+    "typo": "Added Sugaz",
+    "synonym": "ALT_added sugar"
   }
 ]
