@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Fats",
-    "partial": "Fats",
-    "typo": "Fatz",
-    "synonym": "ALT_fats"
+    "behavior": "Sound Machine (e.g. white noise)",
+    "partial": "Soun",
+    "typo": "Sound Machine (e.g. white noisez",
+    "synonym": "ALT_sound machine (e.g. white noise)"
   },
   {
-    "behavior": "Cupping",
-    "partial": "Cupp",
-    "typo": "Cuppinz",
-    "synonym": "ALT_cupping"
+    "behavior": "Commute To Work",
+    "partial": "Comm",
+    "typo": "Commute To Worz",
+    "synonym": "ALT_commute to work"
   },
   {
-    "behavior": "Marijuana",
-    "partial": "Mari",
-    "typo": "Marijuanz",
-    "synonym": "ALT_marijuana"
+    "behavior": "Turmeric",
+    "partial": "Turm",
+    "typo": "Turmeriz",
+    "synonym": "ALT_turmeric"
   },
   {
-    "behavior": "Ramadan",
-    "partial": "Rama",
-    "typo": "Ramadaz",
-    "synonym": "ALT_ramadan"
+    "behavior": "Family & Friends",
+    "partial": "Fami",
+    "typo": "Family & Friendz",
+    "synonym": "ALT_family & friends"
   },
   {
-    "behavior": "Sick",
-    "partial": "Sick",
-    "typo": "Sicz",
-    "synonym": "ALT_sick"
+    "behavior": "CBD",
+    "partial": "CBD",
+    "typo": "CBz",
+    "synonym": "ALT_cbd"
   },
   {
-    "behavior": "Work Calls",
-    "partial": "Work",
-    "typo": "Work Callz",
-    "synonym": "ALT_work calls"
+    "behavior": "Tobacco",
+    "partial": "Toba",
+    "typo": "Tobaccz",
+    "synonym": "ALT_tobacco"
   },
   {
-    "behavior": "Sex",
-    "partial": "Sex",
-    "typo": "Sez",
-    "synonym": "ALT_sex"
+    "behavior": "Weighted Blanket",
+    "partial": "Weig",
+    "typo": "Weighted Blankez",
+    "synonym": "ALT_weighted blanket"
   },
   {
-    "behavior": "Psilocybin",
-    "partial": "Psil",
-    "typo": "Psilocybiz",
-    "synonym": "ALT_psilocybin"
+    "behavior": "Make Progress",
+    "partial": "Make",
+    "typo": "Make Progresz",
+    "synonym": "ALT_make progress"
   },
   {
-    "behavior": "Masturbation",
-    "partial": "Mast",
-    "typo": "Masturbatioz",
-    "synonym": "ALT_masturbation"
+    "behavior": "Monkeypox Symptoms",
+    "partial": "Monk",
+    "typo": "Monkeypox Symptomz",
+    "synonym": "ALT_monkeypox symptoms"
   },
   {
-    "behavior": "Added Sugar",
-    "partial": "Adde",
-    "typo": "Added Sugaz",
-    "synonym": "ALT_added sugar"
+    "behavior": "Learning",
+    "partial": "Lear",
+    "typo": "Learninz",
+    "synonym": "ALT_learning"
   }
 ]
