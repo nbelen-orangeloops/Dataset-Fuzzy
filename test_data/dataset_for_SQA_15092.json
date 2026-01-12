@@ -1,33 +1,51 @@
 [
   {
-    "behavior": "Sound Machine (e.g. white noise)",
-    "partial": "Soun",
-    "typo": "Sound Machine (e.g. white noisez",
-    "synonym": "ALT_sound machine (e.g. white noise)"
+    "behavior": "Therapy Session",
+    "partial": "Ther",
+    "typo": "Therapy Sessioz",
+    "synonym": "ALT_therapy session"
   },
   {
-    "behavior": "Commute To Work",
-    "partial": "Comm",
-    "typo": "Commute To Worz",
-    "synonym": "ALT_commute to work"
+    "behavior": "Chemotherapy",
+    "partial": "Chem",
+    "typo": "Chemotherapz",
+    "synonym": "ALT_chemotherapy"
   },
   {
-    "behavior": "Turmeric",
-    "partial": "Turm",
-    "typo": "Turmeriz",
-    "synonym": "ALT_turmeric"
+    "behavior": "Postnatal Vitamins",
+    "partial": "Post",
+    "typo": "Postnatal Vitaminz",
+    "synonym": "ALT_postnatal vitamins"
   },
   {
-    "behavior": "Family & Friends",
-    "partial": "Fami",
-    "typo": "Family & Friendz",
-    "synonym": "ALT_family & friends"
+    "behavior": "Blood Pressure Medication",
+    "partial": "Bloo",
+    "typo": "Blood Pressure Medicatioz",
+    "synonym": "ALT_blood pressure medication"
   },
   {
-    "behavior": "CBD",
-    "partial": "CBD",
-    "typo": "CBz",
-    "synonym": "ALT_cbd"
+    "behavior": "Injured",
+    "partial": "Inju",
+    "typo": "Injurez",
+    "synonym": "ALT_injured"
+  },
+  {
+    "behavior": "COVID-19 Symptoms",
+    "partial": "COVI",
+    "typo": "COVID-19 Symptomz",
+    "synonym": "ALT_covid-19 symptoms"
+  },
+  {
+    "behavior": "Electrolytes",
+    "partial": "Elec",
+    "typo": "Electrolytez",
+    "synonym": "ALT_electrolytes"
+  },
+  {
+    "behavior": "Cupping",
+    "partial": "Cupp",
+    "typo": "Cuppinz",
+    "synonym": "ALT_cupping"
   },
   {
     "behavior": "Tobacco",
@@ -36,27 +54,9 @@
     "synonym": "ALT_tobacco"
   },
   {
-    "behavior": "Weighted Blanket",
-    "partial": "Weig",
-    "typo": "Weighted Blankez",
-    "synonym": "ALT_weighted blanket"
-  },
-  {
-    "behavior": "Make Progress",
-    "partial": "Make",
-    "typo": "Make Progresz",
-    "synonym": "ALT_make progress"
-  },
-  {
-    "behavior": "Monkeypox Symptoms",
-    "partial": "Monk",
-    "typo": "Monkeypox Symptomz",
-    "synonym": "ALT_monkeypox symptoms"
-  },
-  {
-    "behavior": "Learning",
-    "partial": "Lear",
-    "typo": "Learninz",
-    "synonym": "ALT_learning"
+    "behavior": "Anti-anxiety Medication",
+    "partial": "Anti",
+    "typo": "Anti-anxiety Medicatioz",
+    "synonym": "ALT_anti-anxiety medication"
   }
 ]
