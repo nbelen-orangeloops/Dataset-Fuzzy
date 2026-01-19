@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Therapy Session",
-    "partial": "Ther",
-    "typo": "Therapy Sessioz",
-    "synonym": "ALT_therapy session"
+    "behavior": "Added Sugar",
+    "partial": "Adde",
+    "typo": "Added Sugaz",
+    "synonym": "ALT_added sugar"
   },
   {
-    "behavior": "Chemotherapy",
-    "partial": "Chem",
-    "typo": "Chemotherapz",
-    "synonym": "ALT_chemotherapy"
+    "behavior": "Marijuana",
+    "partial": "Mari",
+    "typo": "Marijuanz",
+    "synonym": "ALT_marijuana"
   },
   {
-    "behavior": "Postnatal Vitamins",
-    "partial": "Post",
-    "typo": "Postnatal Vitaminz",
-    "synonym": "ALT_postnatal vitamins"
+    "behavior": "Breathwork",
+    "partial": "Brea",
+    "typo": "Breathworz",
+    "synonym": "ALT_breathwork"
   },
   {
-    "behavior": "Blood Pressure Medication",
-    "partial": "Bloo",
-    "typo": "Blood Pressure Medicatioz",
-    "synonym": "ALT_blood pressure medication"
+    "behavior": "Physical Therapy",
+    "partial": "Phys",
+    "typo": "Physical Therapz",
+    "synonym": "ALT_physical therapy"
   },
   {
-    "behavior": "Injured",
-    "partial": "Inju",
-    "typo": "Injurez",
-    "synonym": "ALT_injured"
+    "behavior": "Clean Eating",
+    "partial": "Clea",
+    "typo": "Clean Eatinz",
+    "synonym": "ALT_clean eating"
   },
   {
-    "behavior": "COVID-19 Symptoms",
-    "partial": "COVI",
-    "typo": "COVID-19 Symptomz",
-    "synonym": "ALT_covid-19 symptoms"
+    "behavior": "Sleep at Altitude",
+    "partial": "Slee",
+    "typo": "Sleep at Altitudz",
+    "synonym": "ALT_sleep at altitude"
   },
   {
-    "behavior": "Electrolytes",
-    "partial": "Elec",
-    "typo": "Electrolytez",
-    "synonym": "ALT_electrolytes"
+    "behavior": "Hyrdation",
+    "partial": "Hyrd",
+    "typo": "Hyrdatioz",
+    "synonym": "ALT_hyrdation"
   },
   {
-    "behavior": "Cupping",
-    "partial": "Cupp",
-    "typo": "Cuppinz",
-    "synonym": "ALT_cupping"
+    "behavior": "Spirituality",
+    "partial": "Spir",
+    "typo": "Spiritualitz",
+    "synonym": "ALT_spirituality"
   },
   {
-    "behavior": "Tobacco",
-    "partial": "Toba",
-    "typo": "Tobaccz",
-    "synonym": "ALT_tobacco"
+    "behavior": "Hot Tub",
+    "partial": "Hot ",
+    "typo": "Hot Tuz",
+    "synonym": "ALT_hot tub"
   },
   {
-    "behavior": "Anti-anxiety Medication",
-    "partial": "Anti",
-    "typo": "Anti-anxiety Medicatioz",
-    "synonym": "ALT_anti-anxiety medication"
+    "behavior": "Shared Bedroom with Child",
+    "partial": "Shar",
+    "typo": "Shared Bedroom with Chilz",
+    "synonym": "ALT_shared bedroom with child"
   }
 ]
