@@ -1,62 +1,62 @@
 [
   {
+    "behavior": "Anxiety",
+    "partial": "Anxi",
+    "typo": "Anxietz",
+    "synonym": "ALT_anxiety"
+  },
+  {
+    "behavior": "Anti-inflammatory NSAIDs (e.g. Ibuprofen)",
+    "partial": "Anti",
+    "typo": "Anti-inflammatory NSAIDs (e.g. Ibuprofenz",
+    "synonym": "ALT_anti-inflammatory nsaids (e.g. ibuprofen)"
+  },
+  {
+    "behavior": "Hydration",
+    "partial": "Hydr",
+    "typo": "Hydratioz",
+    "synonym": "ALT_hydration"
+  },
+  {
+    "behavior": "Vitamin B-12",
+    "partial": "Vita",
+    "typo": "Vitamin B-1z",
+    "synonym": "ALT_vitamin b-12"
+  },
+  {
     "behavior": "Feel Recovered",
     "partial": "Feel",
     "typo": "Feel Recoverez",
     "synonym": "ALT_feel recovered"
   },
   {
-    "behavior": "Carbohydrates",
-    "partial": "Carb",
-    "typo": "Carbohydratez",
-    "synonym": "ALT_carbohydrates"
+    "behavior": "Sunset",
+    "partial": "Suns",
+    "typo": "Sunsez",
+    "synonym": "ALT_sunset"
   },
   {
-    "behavior": "Red Light Therapy",
-    "partial": "Red ",
-    "typo": "Red Light Therapz",
-    "synonym": "ALT_red light therapy"
+    "behavior": "Stretching",
+    "partial": "Stre",
+    "typo": "Stretchinz",
+    "synonym": "ALT_stretching"
   },
   {
-    "behavior": "Single",
-    "partial": "Sing",
-    "typo": "Singlz",
-    "synonym": "ALT_single"
+    "behavior": "Sodium",
+    "partial": "Sodi",
+    "typo": "Sodiuz",
+    "synonym": "ALT_sodium"
   },
   {
-    "behavior": "Nasal Strip",
-    "partial": "Nasa",
-    "typo": "Nasal Striz",
-    "synonym": "ALT_nasal strip"
+    "behavior": "Outdoor Time",
+    "partial": "Outd",
+    "typo": "Outdoor Timz",
+    "synonym": "ALT_outdoor time"
   },
   {
-    "behavior": "Ramadan",
-    "partial": "Rama",
-    "typo": "Ramadaz",
-    "synonym": "ALT_ramadan"
-  },
-  {
-    "behavior": "Fats",
-    "partial": "Fats",
-    "typo": "Fatz",
-    "synonym": "ALT_fats"
-  },
-  {
-    "behavior": "Morning Sunlight",
-    "partial": "Morn",
-    "typo": "Morning Sunlighz",
-    "synonym": "ALT_morning sunlight"
-  },
-  {
-    "behavior": "Clean Eating",
-    "partial": "Clea",
-    "typo": "Clean Eatinz",
-    "synonym": "ALT_clean eating"
-  },
-  {
-    "behavior": "Menstruating",
-    "partial": "Mens",
-    "typo": "Menstruatinz",
-    "synonym": "ALT_menstruating"
+    "behavior": "Ketamine",
+    "partial": "Keta",
+    "typo": "Ketaminz",
+    "synonym": "ALT_ketamine"
   }
 ]
