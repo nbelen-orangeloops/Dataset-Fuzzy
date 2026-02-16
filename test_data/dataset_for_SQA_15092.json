@@ -1,33 +1,45 @@
 [
   {
-    "behavior": "Anxiety",
-    "partial": "Anxi",
-    "typo": "Anxietz",
-    "synonym": "ALT_anxiety"
-  },
-  {
-    "behavior": "Anti-inflammatory NSAIDs (e.g. Ibuprofen)",
-    "partial": "Anti",
-    "typo": "Anti-inflammatory NSAIDs (e.g. Ibuprofenz",
-    "synonym": "ALT_anti-inflammatory nsaids (e.g. ibuprofen)"
-  },
-  {
-    "behavior": "Hydration",
-    "partial": "Hydr",
-    "typo": "Hydratioz",
-    "synonym": "ALT_hydration"
-  },
-  {
-    "behavior": "Vitamin B-12",
+    "behavior": "Vitamin D",
     "partial": "Vita",
-    "typo": "Vitamin B-1z",
-    "synonym": "ALT_vitamin b-12"
+    "typo": "Vitamin z",
+    "synonym": "ALT_vitamin d"
   },
   {
-    "behavior": "Feel Recovered",
-    "partial": "Feel",
-    "typo": "Feel Recoverez",
-    "synonym": "ALT_feel recovered"
+    "behavior": "Jet Lag",
+    "partial": "Jet ",
+    "typo": "Jet Laz",
+    "synonym": "ALT_jet lag"
+  },
+  {
+    "behavior": "Sleep Mask",
+    "partial": "Slee",
+    "typo": "Sleep Masz",
+    "synonym": "ALT_sleep mask"
+  },
+  {
+    "behavior": "Hot Tub",
+    "partial": "Hot ",
+    "typo": "Hot Tuz",
+    "synonym": "ALT_hot tub"
+  },
+  {
+    "behavior": "Shared Bedroom with Child",
+    "partial": "Shar",
+    "typo": "Shared Bedroom with Chilz",
+    "synonym": "ALT_shared bedroom with child"
+  },
+  {
+    "behavior": "Marijuana",
+    "partial": "Mari",
+    "typo": "Marijuanz",
+    "synonym": "ALT_marijuana"
+  },
+  {
+    "behavior": "Blue-light Blocking Glasses",
+    "partial": "Blue",
+    "typo": "Blue-light Blocking Glassez",
+    "synonym": "ALT_blue-light blocking glasses"
   },
   {
     "behavior": "Sunset",
@@ -36,27 +48,15 @@
     "synonym": "ALT_sunset"
   },
   {
-    "behavior": "Stretching",
-    "partial": "Stre",
-    "typo": "Stretchinz",
-    "synonym": "ALT_stretching"
+    "behavior": "Gratitude",
+    "partial": "Grat",
+    "typo": "Gratitudz",
+    "synonym": "ALT_gratitude"
   },
   {
-    "behavior": "Sodium",
-    "partial": "Sodi",
-    "typo": "Sodiuz",
-    "synonym": "ALT_sodium"
-  },
-  {
-    "behavior": "Outdoor Time",
-    "partial": "Outd",
-    "typo": "Outdoor Timz",
-    "synonym": "ALT_outdoor time"
-  },
-  {
-    "behavior": "Ketamine",
-    "partial": "Keta",
-    "typo": "Ketaminz",
-    "synonym": "ALT_ketamine"
+    "behavior": "CBD",
+    "partial": "CBD",
+    "typo": "CBz",
+    "synonym": "ALT_cbd"
   }
 ]
