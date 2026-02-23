@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Vitamin D",
-    "partial": "Vita",
-    "typo": "Vitamin z",
-    "synonym": "ALT_vitamin d"
+    "behavior": "Outdoor Time",
+    "partial": "Outd",
+    "typo": "Outdoor Timz",
+    "synonym": "ALT_outdoor time"
   },
   {
-    "behavior": "Jet Lag",
-    "partial": "Jet ",
-    "typo": "Jet Laz",
-    "synonym": "ALT_jet lag"
+    "behavior": "Chemotherapy",
+    "partial": "Chem",
+    "typo": "Chemotherapz",
+    "synonym": "ALT_chemotherapy"
   },
   {
-    "behavior": "Sleep Mask",
-    "partial": "Slee",
-    "typo": "Sleep Masz",
-    "synonym": "ALT_sleep mask"
+    "behavior": "Ice Bath",
+    "partial": "Ice ",
+    "typo": "Ice Batz",
+    "synonym": "ALT_ice bath"
   },
   {
-    "behavior": "Hot Tub",
-    "partial": "Hot ",
-    "typo": "Hot Tuz",
-    "synonym": "ALT_hot tub"
+    "behavior": "Multivitamin",
+    "partial": "Mult",
+    "typo": "Multivitamiz",
+    "synonym": "ALT_multivitamin"
   },
   {
-    "behavior": "Shared Bedroom with Child",
-    "partial": "Shar",
-    "typo": "Shared Bedroom with Chilz",
-    "synonym": "ALT_shared bedroom with child"
+    "behavior": "Calories",
+    "partial": "Calo",
+    "typo": "Caloriez",
+    "synonym": "ALT_calories"
   },
   {
-    "behavior": "Marijuana",
-    "partial": "Mari",
-    "typo": "Marijuanz",
-    "synonym": "ALT_marijuana"
+    "behavior": "Social Fulfillment",
+    "partial": "Soci",
+    "typo": "Social Fulfillmenz",
+    "synonym": "ALT_social fulfillment"
   },
   {
-    "behavior": "Blue-light Blocking Glasses",
-    "partial": "Blue",
-    "typo": "Blue-light Blocking Glassez",
-    "synonym": "ALT_blue-light blocking glasses"
+    "behavior": "Stress",
+    "partial": "Stre",
+    "typo": "Stresz",
+    "synonym": "ALT_stress"
   },
   {
-    "behavior": "Sunset",
-    "partial": "Suns",
-    "typo": "Sunsez",
-    "synonym": "ALT_sunset"
+    "behavior": "Feel Control",
+    "partial": "Feel",
+    "typo": "Feel Controz",
+    "synonym": "ALT_feel control"
   },
   {
-    "behavior": "Gratitude",
-    "partial": "Grat",
-    "typo": "Gratitudz",
-    "synonym": "ALT_gratitude"
+    "behavior": "Morning Sunlight",
+    "partial": "Morn",
+    "typo": "Morning Sunlighz",
+    "synonym": "ALT_morning sunlight"
   },
   {
-    "behavior": "CBD",
-    "partial": "CBD",
-    "typo": "CBz",
-    "synonym": "ALT_cbd"
+    "behavior": "Nicotine",
+    "partial": "Nico",
+    "typo": "Nicotinz",
+    "synonym": "ALT_nicotine"
   }
 ]
