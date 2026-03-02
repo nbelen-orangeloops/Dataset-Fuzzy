@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Outdoor Time",
-    "partial": "Outd",
-    "typo": "Outdoor Timz",
-    "synonym": "ALT_outdoor time"
+    "behavior": "Blue-light Blocking Glasses",
+    "partial": "Blue",
+    "typo": "Blue-light Blocking Glassez",
+    "synonym": "ALT_blue-light blocking glasses"
   },
   {
-    "behavior": "Chemotherapy",
-    "partial": "Chem",
-    "typo": "Chemotherapz",
-    "synonym": "ALT_chemotherapy"
+    "behavior": "Physical Therapy",
+    "partial": "Phys",
+    "typo": "Physical Therapz",
+    "synonym": "ALT_physical therapy"
   },
   {
-    "behavior": "Ice Bath",
-    "partial": "Ice ",
-    "typo": "Ice Batz",
-    "synonym": "ALT_ice bath"
+    "behavior": "Steam Room",
+    "partial": "Stea",
+    "typo": "Steam Rooz",
+    "synonym": "ALT_steam room"
   },
   {
-    "behavior": "Multivitamin",
-    "partial": "Mult",
-    "typo": "Multivitamiz",
-    "synonym": "ALT_multivitamin"
+    "behavior": "Tobacco",
+    "partial": "Toba",
+    "typo": "Tobaccz",
+    "synonym": "ALT_tobacco"
   },
   {
-    "behavior": "Calories",
-    "partial": "Calo",
-    "typo": "Caloriez",
-    "synonym": "ALT_calories"
+    "behavior": "Feeding Baby at Night",
+    "partial": "Feed",
+    "typo": "Feeding Baby at Nighz",
+    "synonym": "ALT_feeding baby at night"
   },
   {
-    "behavior": "Social Fulfillment",
-    "partial": "Soci",
-    "typo": "Social Fulfillmenz",
-    "synonym": "ALT_social fulfillment"
+    "behavior": "Compression Therapy",
+    "partial": "Comp",
+    "typo": "Compression Therapz",
+    "synonym": "ALT_compression therapy"
   },
   {
-    "behavior": "Stress",
-    "partial": "Stre",
-    "typo": "Stresz",
-    "synonym": "ALT_stress"
+    "behavior": "Caregiving",
+    "partial": "Care",
+    "typo": "Caregivinz",
+    "synonym": "ALT_caregiving"
   },
   {
-    "behavior": "Feel Control",
-    "partial": "Feel",
-    "typo": "Feel Controz",
-    "synonym": "ALT_feel control"
+    "behavior": "Breathwork",
+    "partial": "Brea",
+    "typo": "Breathworz",
+    "synonym": "ALT_breathwork"
   },
   {
-    "behavior": "Morning Sunlight",
-    "partial": "Morn",
-    "typo": "Morning Sunlighz",
-    "synonym": "ALT_morning sunlight"
+    "behavior": "AD(H)D Medication",
+    "partial": "AD(H",
+    "typo": "AD(H)D Medicatioz",
+    "synonym": "ALT_ad(h)d medication"
   },
   {
-    "behavior": "Nicotine",
-    "partial": "Nico",
-    "typo": "Nicotinz",
-    "synonym": "ALT_nicotine"
+    "behavior": "Learning",
+    "partial": "Lear",
+    "typo": "Learninz",
+    "synonym": "ALT_learning"
   }
 ]
