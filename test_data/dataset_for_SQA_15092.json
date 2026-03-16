@@ -1,33 +1,9 @@
 [
   {
-    "behavior": "Vegetarian Diet",
-    "partial": "Vege",
-    "typo": "Vegetarian Diez",
-    "synonym": "ALT_vegetarian diet"
-  },
-  {
-    "behavior": "Single",
-    "partial": "Sing",
-    "typo": "Singlz",
-    "synonym": "ALT_single"
-  },
-  {
-    "behavior": "Anti-anxiety Medication",
-    "partial": "Anti",
-    "typo": "Anti-anxiety Medicatioz",
-    "synonym": "ALT_anti-anxiety medication"
-  },
-  {
-    "behavior": "Red Light Therapy",
-    "partial": "Red ",
-    "typo": "Red Light Therapz",
-    "synonym": "ALT_red light therapy"
-  },
-  {
-    "behavior": "Hot Shower before bed",
-    "partial": "Hot ",
-    "typo": "Hot Shower before bez",
-    "synonym": "ALT_hot shower before bed"
+    "behavior": "Turmeric",
+    "partial": "Turm",
+    "typo": "Turmeriz",
+    "synonym": "ALT_turmeric"
   },
   {
     "behavior": "Ketamine",
@@ -36,27 +12,51 @@
     "synonym": "ALT_ketamine"
   },
   {
-    "behavior": "Feel Efficacy",
+    "behavior": "Hot Shower before bed",
+    "partial": "Hot ",
+    "typo": "Hot Shower before bez",
+    "synonym": "ALT_hot shower before bed"
+  },
+  {
+    "behavior": "Feel Recovered",
     "partial": "Feel",
-    "typo": "Feel Efficacz",
-    "synonym": "ALT_feel efficacy"
+    "typo": "Feel Recoverez",
+    "synonym": "ALT_feel recovered"
   },
   {
-    "behavior": "Calcium",
-    "partial": "Calc",
-    "typo": "Calciuz",
-    "synonym": "ALT_calcium"
+    "behavior": "Social Fulfillment",
+    "partial": "Soci",
+    "typo": "Social Fulfillmenz",
+    "synonym": "ALT_social fulfillment"
   },
   {
-    "behavior": "Sodium",
-    "partial": "Sodi",
-    "typo": "Sodiuz",
-    "synonym": "ALT_sodium"
+    "behavior": "Snacking",
+    "partial": "Snac",
+    "typo": "Snackinz",
+    "synonym": "ALT_snacking"
   },
   {
-    "behavior": "Sleep at Altitude",
-    "partial": "Slee",
-    "typo": "Sleep at Altitudz",
-    "synonym": "ALT_sleep at altitude"
+    "behavior": "Dairy",
+    "partial": "Dair",
+    "typo": "Dairz",
+    "synonym": "ALT_dairy"
+  },
+  {
+    "behavior": "Caffeine",
+    "partial": "Caff",
+    "typo": "Caffeinz",
+    "synonym": "ALT_caffeine"
+  },
+  {
+    "behavior": "Mouthguard",
+    "partial": "Mout",
+    "typo": "Mouthguarz",
+    "synonym": "ALT_mouthguard"
+  },
+  {
+    "behavior": "Menstruating",
+    "partial": "Mens",
+    "typo": "Menstruatinz",
+    "synonym": "ALT_menstruating"
   }
 ]
