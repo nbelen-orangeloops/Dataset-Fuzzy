@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Turmeric",
-    "partial": "Turm",
-    "typo": "Turmeriz",
-    "synonym": "ALT_turmeric"
+    "behavior": "LSD",
+    "partial": "LSD",
+    "typo": "LSz",
+    "synonym": "ALT_lsd"
   },
   {
-    "behavior": "Ketamine",
-    "partial": "Keta",
-    "typo": "Ketaminz",
-    "synonym": "ALT_ketamine"
+    "behavior": "Blood Pressure Medication",
+    "partial": "Bloo",
+    "typo": "Blood Pressure Medicatioz",
+    "synonym": "ALT_blood pressure medication"
   },
   {
-    "behavior": "Hot Shower before bed",
-    "partial": "Hot ",
-    "typo": "Hot Shower before bez",
-    "synonym": "ALT_hot shower before bed"
+    "behavior": "Calcium Supplement",
+    "partial": "Calc",
+    "typo": "Calcium Supplemenz",
+    "synonym": "ALT_calcium supplement"
   },
   {
-    "behavior": "Feel Recovered",
-    "partial": "Feel",
-    "typo": "Feel Recoverez",
-    "synonym": "ALT_feel recovered"
+    "behavior": "Work Late",
+    "partial": "Work",
+    "typo": "Work Latz",
+    "synonym": "ALT_work late"
   },
   {
-    "behavior": "Social Fulfillment",
-    "partial": "Soci",
-    "typo": "Social Fulfillmenz",
-    "synonym": "ALT_social fulfillment"
+    "behavior": "Bloating",
+    "partial": "Bloa",
+    "typo": "Bloatinz",
+    "synonym": "ALT_bloating"
   },
   {
-    "behavior": "Snacking",
-    "partial": "Snac",
-    "typo": "Snackinz",
-    "synonym": "ALT_snacking"
+    "behavior": "Sleep Mask",
+    "partial": "Slee",
+    "typo": "Sleep Masz",
+    "synonym": "ALT_sleep mask"
   },
   {
-    "behavior": "Dairy",
-    "partial": "Dair",
-    "typo": "Dairz",
-    "synonym": "ALT_dairy"
+    "behavior": "GLP-1",
+    "partial": "GLP-",
+    "typo": "GLP-z",
+    "synonym": "ALT_glp-1"
   },
   {
-    "behavior": "Caffeine",
-    "partial": "Caff",
-    "typo": "Caffeinz",
-    "synonym": "ALT_caffeine"
+    "behavior": "Electrolytes",
+    "partial": "Elec",
+    "typo": "Electrolytez",
+    "synonym": "ALT_electrolytes"
   },
   {
-    "behavior": "Mouthguard",
-    "partial": "Mout",
-    "typo": "Mouthguarz",
-    "synonym": "ALT_mouthguard"
+    "behavior": "Bright Lights",
+    "partial": "Brig",
+    "typo": "Bright Lightz",
+    "synonym": "ALT_bright lights"
   },
   {
-    "behavior": "Menstruating",
-    "partial": "Mens",
-    "typo": "Menstruatinz",
-    "synonym": "ALT_menstruating"
+    "behavior": "Blue-light Blocking Glasses",
+    "partial": "Blue",
+    "typo": "Blue-light Blocking Glassez",
+    "synonym": "ALT_blue-light blocking glasses"
   }
 ]
