@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "LSD",
-    "partial": "LSD",
-    "typo": "LSz",
-    "synonym": "ALT_lsd"
+    "behavior": "Weighted Blanket",
+    "partial": "Weig",
+    "typo": "Weighted Blankez",
+    "synonym": "ALT_weighted blanket"
   },
   {
-    "behavior": "Blood Pressure Medication",
-    "partial": "Bloo",
-    "typo": "Blood Pressure Medicatioz",
-    "synonym": "ALT_blood pressure medication"
+    "behavior": "Pregnancy",
+    "partial": "Preg",
+    "typo": "Pregnancz",
+    "synonym": "ALT_pregnancy"
   },
   {
-    "behavior": "Calcium Supplement",
-    "partial": "Calc",
-    "typo": "Calcium Supplemenz",
-    "synonym": "ALT_calcium supplement"
+    "behavior": "COVID-19 Vaccination (Booster)",
+    "partial": "COVI",
+    "typo": "COVID-19 Vaccination (Boosterz",
+    "synonym": "ALT_covid-19 vaccination (booster)"
   },
   {
-    "behavior": "Work Late",
-    "partial": "Work",
-    "typo": "Work Latz",
-    "synonym": "ALT_work late"
+    "behavior": "Ramadan",
+    "partial": "Rama",
+    "typo": "Ramadaz",
+    "synonym": "ALT_ramadan"
   },
   {
-    "behavior": "Bloating",
-    "partial": "Bloa",
-    "typo": "Bloatinz",
-    "synonym": "ALT_bloating"
+    "behavior": "Morning Sunlight",
+    "partial": "Morn",
+    "typo": "Morning Sunlighz",
+    "synonym": "ALT_morning sunlight"
   },
   {
-    "behavior": "Sleep Mask",
-    "partial": "Slee",
-    "typo": "Sleep Masz",
-    "synonym": "ALT_sleep mask"
+    "behavior": "Jet Lag",
+    "partial": "Jet ",
+    "typo": "Jet Laz",
+    "synonym": "ALT_jet lag"
   },
   {
-    "behavior": "GLP-1",
-    "partial": "GLP-",
-    "typo": "GLP-z",
-    "synonym": "ALT_glp-1"
+    "behavior": "Protein",
+    "partial": "Prot",
+    "typo": "Proteiz",
+    "synonym": "ALT_protein"
   },
   {
-    "behavior": "Electrolytes",
-    "partial": "Elec",
-    "typo": "Electrolytez",
-    "synonym": "ALT_electrolytes"
+    "behavior": "Radiation Therapy",
+    "partial": "Radi",
+    "typo": "Radiation Therapz",
+    "synonym": "ALT_radiation therapy"
   },
   {
-    "behavior": "Bright Lights",
-    "partial": "Brig",
-    "typo": "Bright Lightz",
-    "synonym": "ALT_bright lights"
+    "behavior": "Anti-inflammatory NSAIDs (e.g. Ibuprofen)",
+    "partial": "Anti",
+    "typo": "Anti-inflammatory NSAIDs (e.g. Ibuprofenz",
+    "synonym": "ALT_anti-inflammatory nsaids (e.g. ibuprofen)"
   },
   {
-    "behavior": "Blue-light Blocking Glasses",
-    "partial": "Blue",
-    "typo": "Blue-light Blocking Glassez",
-    "synonym": "ALT_blue-light blocking glasses"
+    "behavior": "Caregiving",
+    "partial": "Care",
+    "typo": "Caregivinz",
+    "synonym": "ALT_caregiving"
   }
 ]
