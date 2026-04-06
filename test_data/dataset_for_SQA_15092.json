@@ -1,33 +1,15 @@
 [
   {
-    "behavior": "Weighted Blanket",
-    "partial": "Weig",
-    "typo": "Weighted Blankez",
-    "synonym": "ALT_weighted blanket"
+    "behavior": "Prescription Pain Medication",
+    "partial": "Pres",
+    "typo": "Prescription Pain Medicatioz",
+    "synonym": "ALT_prescription pain medication"
   },
   {
-    "behavior": "Pregnancy",
-    "partial": "Preg",
-    "typo": "Pregnancz",
-    "synonym": "ALT_pregnancy"
-  },
-  {
-    "behavior": "COVID-19 Vaccination (Booster)",
-    "partial": "COVI",
-    "typo": "COVID-19 Vaccination (Boosterz",
-    "synonym": "ALT_covid-19 vaccination (booster)"
-  },
-  {
-    "behavior": "Ramadan",
-    "partial": "Rama",
-    "typo": "Ramadaz",
-    "synonym": "ALT_ramadan"
-  },
-  {
-    "behavior": "Morning Sunlight",
-    "partial": "Morn",
-    "typo": "Morning Sunlighz",
-    "synonym": "ALT_morning sunlight"
+    "behavior": "Ovulating",
+    "partial": "Ovul",
+    "typo": "Ovulatinz",
+    "synonym": "ALT_ovulating"
   },
   {
     "behavior": "Jet Lag",
@@ -36,27 +18,45 @@
     "synonym": "ALT_jet lag"
   },
   {
-    "behavior": "Protein",
-    "partial": "Prot",
-    "typo": "Proteiz",
-    "synonym": "ALT_protein"
+    "behavior": "Calcium Supplement",
+    "partial": "Calc",
+    "typo": "Calcium Supplemenz",
+    "synonym": "ALT_calcium supplement"
   },
   {
-    "behavior": "Radiation Therapy",
-    "partial": "Radi",
-    "typo": "Radiation Therapz",
-    "synonym": "ALT_radiation therapy"
+    "behavior": "Fats",
+    "partial": "Fats",
+    "typo": "Fatz",
+    "synonym": "ALT_fats"
   },
   {
-    "behavior": "Anti-inflammatory NSAIDs (e.g. Ibuprofen)",
-    "partial": "Anti",
-    "typo": "Anti-inflammatory NSAIDs (e.g. Ibuprofenz",
-    "synonym": "ALT_anti-inflammatory nsaids (e.g. ibuprofen)"
+    "behavior": "Vegan Diet",
+    "partial": "Vega",
+    "typo": "Vegan Diez",
+    "synonym": "ALT_vegan diet"
   },
   {
-    "behavior": "Caregiving",
-    "partial": "Care",
-    "typo": "Caregivinz",
-    "synonym": "ALT_caregiving"
+    "behavior": "Hyperbaric Chamber",
+    "partial": "Hype",
+    "typo": "Hyperbaric Chambez",
+    "synonym": "ALT_hyperbaric chamber"
+  },
+  {
+    "behavior": "Late Meal",
+    "partial": "Late",
+    "typo": "Late Meaz",
+    "synonym": "ALT_late meal"
+  },
+  {
+    "behavior": "Cat in bedroom",
+    "partial": "Cat ",
+    "typo": "Cat in bedrooz",
+    "synonym": "ALT_cat in bedroom"
+  },
+  {
+    "behavior": "Chemotherapy",
+    "partial": "Chem",
+    "typo": "Chemotherapz",
+    "synonym": "ALT_chemotherapy"
   }
 ]
