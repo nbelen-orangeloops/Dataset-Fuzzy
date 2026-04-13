@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Prescription Pain Medication",
-    "partial": "Pres",
-    "typo": "Prescription Pain Medicatioz",
-    "synonym": "ALT_prescription pain medication"
+    "behavior": "CBD",
+    "partial": "CBD",
+    "typo": "CBz",
+    "synonym": "ALT_cbd"
   },
   {
-    "behavior": "Ovulating",
-    "partial": "Ovul",
-    "typo": "Ovulatinz",
-    "synonym": "ALT_ovulating"
+    "behavior": "Mouth Tape",
+    "partial": "Mout",
+    "typo": "Mouth Tapz",
+    "synonym": "ALT_mouth tape"
   },
   {
-    "behavior": "Jet Lag",
-    "partial": "Jet ",
-    "typo": "Jet Laz",
-    "synonym": "ALT_jet lag"
+    "behavior": "COVID-19 Vaccination (Booster)",
+    "partial": "COVI",
+    "typo": "COVID-19 Vaccination (Boosterz",
+    "synonym": "ALT_covid-19 vaccination (booster)"
   },
   {
-    "behavior": "Calcium Supplement",
-    "partial": "Calc",
-    "typo": "Calcium Supplemenz",
-    "synonym": "ALT_calcium supplement"
+    "behavior": "Multivitamin",
+    "partial": "Mult",
+    "typo": "Multivitamiz",
+    "synonym": "ALT_multivitamin"
   },
   {
-    "behavior": "Fats",
-    "partial": "Fats",
-    "typo": "Fatz",
-    "synonym": "ALT_fats"
+    "behavior": "Magnesium",
+    "partial": "Magn",
+    "typo": "Magnesiuz",
+    "synonym": "ALT_magnesium"
   },
   {
-    "behavior": "Vegan Diet",
-    "partial": "Vega",
-    "typo": "Vegan Diez",
-    "synonym": "ALT_vegan diet"
+    "behavior": "Masturbation",
+    "partial": "Mast",
+    "typo": "Masturbatioz",
+    "synonym": "ALT_masturbation"
   },
   {
-    "behavior": "Hyperbaric Chamber",
-    "partial": "Hype",
-    "typo": "Hyperbaric Chambez",
-    "synonym": "ALT_hyperbaric chamber"
+    "behavior": "Shared Bedroom with Child",
+    "partial": "Shar",
+    "typo": "Shared Bedroom with Chilz",
+    "synonym": "ALT_shared bedroom with child"
   },
   {
-    "behavior": "Late Meal",
-    "partial": "Late",
-    "typo": "Late Meaz",
-    "synonym": "ALT_late meal"
+    "behavior": "Motivation",
+    "partial": "Moti",
+    "typo": "Motivatioz",
+    "synonym": "ALT_motivation"
   },
   {
-    "behavior": "Cat in bedroom",
-    "partial": "Cat ",
-    "typo": "Cat in bedrooz",
-    "synonym": "ALT_cat in bedroom"
+    "behavior": "Ear plugs",
+    "partial": "Ear ",
+    "typo": "Ear plugz",
+    "synonym": "ALT_ear plugs"
   },
   {
-    "behavior": "Chemotherapy",
-    "partial": "Chem",
-    "typo": "Chemotherapz",
-    "synonym": "ALT_chemotherapy"
+    "behavior": "Radiation Therapy",
+    "partial": "Radi",
+    "typo": "Radiation Therapz",
+    "synonym": "ALT_radiation therapy"
   }
 ]
