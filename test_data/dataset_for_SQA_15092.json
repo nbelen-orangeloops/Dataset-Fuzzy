@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "CBD",
-    "partial": "CBD",
-    "typo": "CBz",
-    "synonym": "ALT_cbd"
+    "behavior": "Night Shift",
+    "partial": "Nigh",
+    "typo": "Night Shifz",
+    "synonym": "ALT_night shift"
   },
   {
-    "behavior": "Mouth Tape",
-    "partial": "Mout",
-    "typo": "Mouth Tapz",
-    "synonym": "ALT_mouth tape"
+    "behavior": "Intermittent Fasting",
+    "partial": "Inte",
+    "typo": "Intermittent Fastinz",
+    "synonym": "ALT_intermittent fasting"
   },
   {
-    "behavior": "COVID-19 Vaccination (Booster)",
-    "partial": "COVI",
-    "typo": "COVID-19 Vaccination (Boosterz",
-    "synonym": "ALT_covid-19 vaccination (booster)"
+    "behavior": "Weighted Blanket",
+    "partial": "Weig",
+    "typo": "Weighted Blankez",
+    "synonym": "ALT_weighted blanket"
   },
   {
-    "behavior": "Multivitamin",
-    "partial": "Mult",
-    "typo": "Multivitamiz",
-    "synonym": "ALT_multivitamin"
+    "behavior": "Sick",
+    "partial": "Sick",
+    "typo": "Sicz",
+    "synonym": "ALT_sick"
   },
   {
-    "behavior": "Magnesium",
-    "partial": "Magn",
-    "typo": "Magnesiuz",
-    "synonym": "ALT_magnesium"
+    "behavior": "Breathwork",
+    "partial": "Brea",
+    "typo": "Breathworz",
+    "synonym": "ALT_breathwork"
   },
   {
-    "behavior": "Masturbation",
-    "partial": "Mast",
-    "typo": "Masturbatioz",
-    "synonym": "ALT_masturbation"
+    "behavior": "Hyperbaric Chamber",
+    "partial": "Hype",
+    "typo": "Hyperbaric Chambez",
+    "synonym": "ALT_hyperbaric chamber"
   },
   {
-    "behavior": "Shared Bedroom with Child",
-    "partial": "Shar",
-    "typo": "Shared Bedroom with Chilz",
-    "synonym": "ALT_shared bedroom with child"
+    "behavior": "Vitamin B-12",
+    "partial": "Vita",
+    "typo": "Vitamin B-1z",
+    "synonym": "ALT_vitamin b-12"
+  },
+  {
+    "behavior": "Sex",
+    "partial": "Sex",
+    "typo": "Sez",
+    "synonym": "ALT_sex"
+  },
+  {
+    "behavior": "Nicotine",
+    "partial": "Nico",
+    "typo": "Nicotinz",
+    "synonym": "ALT_nicotine"
   },
   {
     "behavior": "Motivation",
     "partial": "Moti",
     "typo": "Motivatioz",
     "synonym": "ALT_motivation"
-  },
-  {
-    "behavior": "Ear plugs",
-    "partial": "Ear ",
-    "typo": "Ear plugz",
-    "synonym": "ALT_ear plugs"
-  },
-  {
-    "behavior": "Radiation Therapy",
-    "partial": "Radi",
-    "typo": "Radiation Therapz",
-    "synonym": "ALT_radiation therapy"
   }
 ]
