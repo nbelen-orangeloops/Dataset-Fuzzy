@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Night Shift",
-    "partial": "Nigh",
-    "typo": "Night Shifz",
-    "synonym": "ALT_night shift"
+    "behavior": "Clean Eating",
+    "partial": "Clea",
+    "typo": "Clean Eatinz",
+    "synonym": "ALT_clean eating"
   },
   {
-    "behavior": "Intermittent Fasting",
-    "partial": "Inte",
-    "typo": "Intermittent Fastinz",
-    "synonym": "ALT_intermittent fasting"
+    "behavior": "Sleep in a Dark Room",
+    "partial": "Slee",
+    "typo": "Sleep in a Dark Rooz",
+    "synonym": "ALT_sleep in a dark room"
   },
   {
-    "behavior": "Weighted Blanket",
+    "behavior": "COVID-19 Symptoms",
+    "partial": "COVI",
+    "typo": "COVID-19 Symptomz",
+    "synonym": "ALT_covid-19 symptoms"
+  },
+  {
+    "behavior": "Red Light Therapy",
+    "partial": "Red ",
+    "typo": "Red Light Therapz",
+    "synonym": "ALT_red light therapy"
+  },
+  {
+    "behavior": "Dairy-Free Diet",
+    "partial": "Dair",
+    "typo": "Dairy-Free Diez",
+    "synonym": "ALT_dairy-free diet"
+  },
+  {
+    "behavior": "Humidifier",
+    "partial": "Humi",
+    "typo": "Humidifiez",
+    "synonym": "ALT_humidifier"
+  },
+  {
+    "behavior": "Calcium",
+    "partial": "Calc",
+    "typo": "Calciuz",
+    "synonym": "ALT_calcium"
+  },
+  {
+    "behavior": "Tobacco",
+    "partial": "Toba",
+    "typo": "Tobaccz",
+    "synonym": "ALT_tobacco"
+  },
+  {
+    "behavior": "Weight Loss Medication",
     "partial": "Weig",
-    "typo": "Weighted Blankez",
-    "synonym": "ALT_weighted blanket"
+    "typo": "Weight Loss Medicatioz",
+    "synonym": "ALT_weight loss medication"
   },
   {
-    "behavior": "Sick",
-    "partial": "Sick",
-    "typo": "Sicz",
-    "synonym": "ALT_sick"
-  },
-  {
-    "behavior": "Breathwork",
-    "partial": "Brea",
-    "typo": "Breathworz",
-    "synonym": "ALT_breathwork"
-  },
-  {
-    "behavior": "Hyperbaric Chamber",
-    "partial": "Hype",
-    "typo": "Hyperbaric Chambez",
-    "synonym": "ALT_hyperbaric chamber"
-  },
-  {
-    "behavior": "Vitamin B-12",
-    "partial": "Vita",
-    "typo": "Vitamin B-1z",
-    "synonym": "ALT_vitamin b-12"
-  },
-  {
-    "behavior": "Sex",
-    "partial": "Sex",
-    "typo": "Sez",
-    "synonym": "ALT_sex"
-  },
-  {
-    "behavior": "Nicotine",
-    "partial": "Nico",
-    "typo": "Nicotinz",
-    "synonym": "ALT_nicotine"
-  },
-  {
-    "behavior": "Motivation",
-    "partial": "Moti",
-    "typo": "Motivatioz",
-    "synonym": "ALT_motivation"
+    "behavior": "Sunset",
+    "partial": "Suns",
+    "typo": "Sunsez",
+    "synonym": "ALT_sunset"
   }
 ]
