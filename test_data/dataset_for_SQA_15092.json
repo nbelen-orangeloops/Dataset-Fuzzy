@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Clean Eating",
-    "partial": "Clea",
-    "typo": "Clean Eatinz",
-    "synonym": "ALT_clean eating"
+    "behavior": "Feel Purpose",
+    "partial": "Feel",
+    "typo": "Feel Purposz",
+    "synonym": "ALT_feel purpose"
   },
   {
-    "behavior": "Sleep in a Dark Room",
-    "partial": "Slee",
-    "typo": "Sleep in a Dark Rooz",
-    "synonym": "ALT_sleep in a dark room"
+    "behavior": "Acupuncture",
+    "partial": "Acup",
+    "typo": "Acupuncturz",
+    "synonym": "ALT_acupuncture"
   },
   {
-    "behavior": "COVID-19 Symptoms",
-    "partial": "COVI",
-    "typo": "COVID-19 Symptomz",
-    "synonym": "ALT_covid-19 symptoms"
+    "behavior": "Magnesium Supplement",
+    "partial": "Magn",
+    "typo": "Magnesium Supplemenz",
+    "synonym": "ALT_magnesium supplement"
   },
   {
-    "behavior": "Red Light Therapy",
-    "partial": "Red ",
-    "typo": "Red Light Therapz",
-    "synonym": "ALT_red light therapy"
+    "behavior": "Multivitamin",
+    "partial": "Mult",
+    "typo": "Multivitamiz",
+    "synonym": "ALT_multivitamin"
   },
   {
-    "behavior": "Dairy-Free Diet",
-    "partial": "Dair",
-    "typo": "Dairy-Free Diez",
-    "synonym": "ALT_dairy-free diet"
+    "behavior": "Meat",
+    "partial": "Meat",
+    "typo": "Meaz",
+    "synonym": "ALT_meat"
   },
   {
-    "behavior": "Humidifier",
-    "partial": "Humi",
-    "typo": "Humidifiez",
-    "synonym": "ALT_humidifier"
+    "behavior": "Fruits and Vegetables",
+    "partial": "Frui",
+    "typo": "Fruits and Vegetablez",
+    "synonym": "ALT_fruits and vegetables"
   },
   {
-    "behavior": "Calcium",
-    "partial": "Calc",
-    "typo": "Calciuz",
-    "synonym": "ALT_calcium"
+    "behavior": "Feel Efficacy",
+    "partial": "Feel",
+    "typo": "Feel Efficacz",
+    "synonym": "ALT_feel efficacy"
   },
   {
-    "behavior": "Tobacco",
-    "partial": "Toba",
-    "typo": "Tobaccz",
-    "synonym": "ALT_tobacco"
+    "behavior": "Outdoor Time",
+    "partial": "Outd",
+    "typo": "Outdoor Timz",
+    "synonym": "ALT_outdoor time"
   },
   {
-    "behavior": "Weight Loss Medication",
-    "partial": "Weig",
-    "typo": "Weight Loss Medicatioz",
-    "synonym": "ALT_weight loss medication"
+    "behavior": "Perimenopause",
+    "partial": "Peri",
+    "typo": "Perimenopausz",
+    "synonym": "ALT_perimenopause"
   },
   {
-    "behavior": "Sunset",
-    "partial": "Suns",
-    "typo": "Sunsez",
-    "synonym": "ALT_sunset"
+    "behavior": "Prenatal Vitamins",
+    "partial": "Pren",
+    "typo": "Prenatal Vitaminz",
+    "synonym": "ALT_prenatal vitamins"
   }
 ]
