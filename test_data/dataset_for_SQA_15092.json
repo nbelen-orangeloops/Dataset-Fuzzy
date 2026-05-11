@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Feel Purpose",
-    "partial": "Feel",
-    "typo": "Feel Purposz",
-    "synonym": "ALT_feel purpose"
+    "behavior": "Vegetarian Diet",
+    "partial": "Vege",
+    "typo": "Vegetarian Diez",
+    "synonym": "ALT_vegetarian diet"
   },
   {
-    "behavior": "Acupuncture",
-    "partial": "Acup",
-    "typo": "Acupuncturz",
-    "synonym": "ALT_acupuncture"
+    "behavior": "Hyrdation",
+    "partial": "Hyrd",
+    "typo": "Hyrdatioz",
+    "synonym": "ALT_hyrdation"
   },
   {
-    "behavior": "Magnesium Supplement",
-    "partial": "Magn",
-    "typo": "Magnesium Supplemenz",
-    "synonym": "ALT_magnesium supplement"
+    "behavior": "Masturbation",
+    "partial": "Mast",
+    "typo": "Masturbatioz",
+    "synonym": "ALT_masturbation"
   },
   {
-    "behavior": "Multivitamin",
-    "partial": "Mult",
-    "typo": "Multivitamiz",
-    "synonym": "ALT_multivitamin"
+    "behavior": "Carbohydrates",
+    "partial": "Carb",
+    "typo": "Carbohydratez",
+    "synonym": "ALT_carbohydrates"
   },
   {
-    "behavior": "Meat",
-    "partial": "Meat",
-    "typo": "Meaz",
-    "synonym": "ALT_meat"
+    "behavior": "Postnatal Vitamins",
+    "partial": "Post",
+    "typo": "Postnatal Vitaminz",
+    "synonym": "ALT_postnatal vitamins"
   },
   {
-    "behavior": "Fruits and Vegetables",
-    "partial": "Frui",
-    "typo": "Fruits and Vegetablez",
-    "synonym": "ALT_fruits and vegetables"
+    "behavior": "Prescription Sleep Medication",
+    "partial": "Pres",
+    "typo": "Prescription Sleep Medicatioz",
+    "synonym": "ALT_prescription sleep medication"
   },
   {
-    "behavior": "Feel Efficacy",
-    "partial": "Feel",
-    "typo": "Feel Efficacz",
-    "synonym": "ALT_feel efficacy"
+    "behavior": "Monkeypox Symptoms",
+    "partial": "Monk",
+    "typo": "Monkeypox Symptomz",
+    "synonym": "ALT_monkeypox symptoms"
   },
   {
-    "behavior": "Outdoor Time",
-    "partial": "Outd",
-    "typo": "Outdoor Timz",
-    "synonym": "ALT_outdoor time"
+    "behavior": "Sleep Mask",
+    "partial": "Slee",
+    "typo": "Sleep Masz",
+    "synonym": "ALT_sleep mask"
   },
   {
-    "behavior": "Perimenopause",
-    "partial": "Peri",
-    "typo": "Perimenopausz",
-    "synonym": "ALT_perimenopause"
+    "behavior": "Sex",
+    "partial": "Sex",
+    "typo": "Sez",
+    "synonym": "ALT_sex"
   },
   {
-    "behavior": "Prenatal Vitamins",
-    "partial": "Pren",
-    "typo": "Prenatal Vitaminz",
-    "synonym": "ALT_prenatal vitamins"
+    "behavior": "Stress",
+    "partial": "Stre",
+    "typo": "Stresz",
+    "synonym": "ALT_stress"
   }
 ]
