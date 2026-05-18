@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Vegetarian Diet",
-    "partial": "Vege",
-    "typo": "Vegetarian Diez",
-    "synonym": "ALT_vegetarian diet"
+    "behavior": "Humidifier",
+    "partial": "Humi",
+    "typo": "Humidifiez",
+    "synonym": "ALT_humidifier"
   },
   {
-    "behavior": "Hyrdation",
-    "partial": "Hyrd",
-    "typo": "Hyrdatioz",
-    "synonym": "ALT_hyrdation"
+    "behavior": "Blue-light Blocking Glasses",
+    "partial": "Blue",
+    "typo": "Blue-light Blocking Glassez",
+    "synonym": "ALT_blue-light blocking glasses"
   },
   {
-    "behavior": "Masturbation",
-    "partial": "Mast",
-    "typo": "Masturbatioz",
-    "synonym": "ALT_masturbation"
+    "behavior": "Intermittent Fasting",
+    "partial": "Inte",
+    "typo": "Intermittent Fastinz",
+    "synonym": "ALT_intermittent fasting"
   },
   {
-    "behavior": "Carbohydrates",
-    "partial": "Carb",
-    "typo": "Carbohydratez",
-    "synonym": "ALT_carbohydrates"
+    "behavior": "Learning",
+    "partial": "Lear",
+    "typo": "Learninz",
+    "synonym": "ALT_learning"
   },
   {
-    "behavior": "Postnatal Vitamins",
-    "partial": "Post",
-    "typo": "Postnatal Vitaminz",
-    "synonym": "ALT_postnatal vitamins"
+    "behavior": "Added Sugar",
+    "partial": "Adde",
+    "typo": "Added Sugaz",
+    "synonym": "ALT_added sugar"
   },
   {
-    "behavior": "Prescription Sleep Medication",
-    "partial": "Pres",
-    "typo": "Prescription Sleep Medicatioz",
-    "synonym": "ALT_prescription sleep medication"
+    "behavior": "Feel Purpose",
+    "partial": "Feel",
+    "typo": "Feel Purposz",
+    "synonym": "ALT_feel purpose"
   },
   {
-    "behavior": "Monkeypox Symptoms",
-    "partial": "Monk",
-    "typo": "Monkeypox Symptomz",
-    "synonym": "ALT_monkeypox symptoms"
+    "behavior": "Steam Room",
+    "partial": "Stea",
+    "typo": "Steam Rooz",
+    "synonym": "ALT_steam room"
   },
   {
-    "behavior": "Sleep Mask",
-    "partial": "Slee",
-    "typo": "Sleep Masz",
-    "synonym": "ALT_sleep mask"
+    "behavior": "Make Progress",
+    "partial": "Make",
+    "typo": "Make Progresz",
+    "synonym": "ALT_make progress"
   },
   {
-    "behavior": "Sex",
-    "partial": "Sex",
-    "typo": "Sez",
-    "synonym": "ALT_sex"
+    "behavior": "Red Light Therapy",
+    "partial": "Red ",
+    "typo": "Red Light Therapz",
+    "synonym": "ALT_red light therapy"
   },
   {
-    "behavior": "Stress",
-    "partial": "Stre",
-    "typo": "Stresz",
-    "synonym": "ALT_stress"
+    "behavior": "Kept Kosher",
+    "partial": "Kept",
+    "typo": "Kept Koshez",
+    "synonym": "ALT_kept kosher"
   }
 ]
