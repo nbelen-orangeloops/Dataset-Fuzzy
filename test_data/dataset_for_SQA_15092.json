@@ -1,9 +1,27 @@
 [
   {
-    "behavior": "Humidifier",
-    "partial": "Humi",
-    "typo": "Humidifiez",
-    "synonym": "ALT_humidifier"
+    "behavior": "Menstruating",
+    "partial": "Mens",
+    "typo": "Menstruatinz",
+    "synonym": "ALT_menstruating"
+  },
+  {
+    "behavior": "Sleep at Altitude",
+    "partial": "Slee",
+    "typo": "Sleep at Altitudz",
+    "synonym": "ALT_sleep at altitude"
+  },
+  {
+    "behavior": "Work Late",
+    "partial": "Work",
+    "typo": "Work Latz",
+    "synonym": "ALT_work late"
+  },
+  {
+    "behavior": "Commute To Work",
+    "partial": "Comm",
+    "typo": "Commute To Worz",
+    "synonym": "ALT_commute to work"
   },
   {
     "behavior": "Blue-light Blocking Glasses",
@@ -12,51 +30,33 @@
     "synonym": "ALT_blue-light blocking glasses"
   },
   {
-    "behavior": "Intermittent Fasting",
-    "partial": "Inte",
-    "typo": "Intermittent Fastinz",
-    "synonym": "ALT_intermittent fasting"
+    "behavior": "Bloating",
+    "partial": "Bloa",
+    "typo": "Bloatinz",
+    "synonym": "ALT_bloating"
   },
   {
-    "behavior": "Learning",
-    "partial": "Lear",
-    "typo": "Learninz",
-    "synonym": "ALT_learning"
+    "behavior": "Compression Therapy",
+    "partial": "Comp",
+    "typo": "Compression Therapz",
+    "synonym": "ALT_compression therapy"
   },
   {
-    "behavior": "Added Sugar",
-    "partial": "Adde",
-    "typo": "Added Sugaz",
-    "synonym": "ALT_added sugar"
+    "behavior": "Emotional/Mental State",
+    "partial": "Emot",
+    "typo": "Emotional/Mental Statz",
+    "synonym": "ALT_emotional/mental state"
   },
   {
-    "behavior": "Feel Purpose",
-    "partial": "Feel",
-    "typo": "Feel Purposz",
-    "synonym": "ALT_feel purpose"
+    "behavior": "Hydration",
+    "partial": "Hydr",
+    "typo": "Hydratioz",
+    "synonym": "ALT_hydration"
   },
   {
-    "behavior": "Steam Room",
-    "partial": "Stea",
-    "typo": "Steam Rooz",
-    "synonym": "ALT_steam room"
-  },
-  {
-    "behavior": "Make Progress",
-    "partial": "Make",
-    "typo": "Make Progresz",
-    "synonym": "ALT_make progress"
-  },
-  {
-    "behavior": "Red Light Therapy",
-    "partial": "Red ",
-    "typo": "Red Light Therapz",
-    "synonym": "ALT_red light therapy"
-  },
-  {
-    "behavior": "Kept Kosher",
-    "partial": "Kept",
-    "typo": "Kept Koshez",
-    "synonym": "ALT_kept kosher"
+    "behavior": "Hot Shower before bed",
+    "partial": "Hot ",
+    "typo": "Hot Shower before bez",
+    "synonym": "ALT_hot shower before bed"
   }
 ]
