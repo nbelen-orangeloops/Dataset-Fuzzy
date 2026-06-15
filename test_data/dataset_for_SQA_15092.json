@@ -1,33 +1,21 @@
 [
   {
-    "behavior": "Stretching",
-    "partial": "Stre",
-    "typo": "Stretchinz",
-    "synonym": "ALT_stretching"
+    "behavior": "Snacking",
+    "partial": "Snac",
+    "typo": "Snackinz",
+    "synonym": "ALT_snacking"
   },
   {
-    "behavior": "Device (e.g. phone) in Bed",
-    "partial": "Devi",
-    "typo": "Device (e.g. phone) in Bez",
-    "synonym": "ALT_device (e.g. phone) in bed"
+    "behavior": "Steam Room",
+    "partial": "Stea",
+    "typo": "Steam Rooz",
+    "synonym": "ALT_steam room"
   },
   {
-    "behavior": "Late Meal",
-    "partial": "Late",
-    "typo": "Late Meaz",
-    "synonym": "ALT_late meal"
-  },
-  {
-    "behavior": "Therapy Session",
-    "partial": "Ther",
-    "typo": "Therapy Sessioz",
-    "synonym": "ALT_therapy session"
-  },
-  {
-    "behavior": "Seasonal Allergies",
-    "partial": "Seas",
-    "typo": "Seasonal Allergiez",
-    "synonym": "ALT_seasonal allergies"
+    "behavior": "Ketogenic Diet",
+    "partial": "Keto",
+    "typo": "Ketogenic Diez",
+    "synonym": "ALT_ketogenic diet"
   },
   {
     "behavior": "Added Sugar",
@@ -36,27 +24,39 @@
     "synonym": "ALT_added sugar"
   },
   {
-    "behavior": "Meditation",
-    "partial": "Medi",
-    "typo": "Meditatioz",
-    "synonym": "ALT_meditation"
+    "behavior": "Monkeypox Symptoms",
+    "partial": "Monk",
+    "typo": "Monkeypox Symptomz",
+    "synonym": "ALT_monkeypox symptoms"
   },
   {
-    "behavior": "Fish Oil",
-    "partial": "Fish",
-    "typo": "Fish Oiz",
-    "synonym": "ALT_fish oil"
+    "behavior": "Conception",
+    "partial": "Conc",
+    "typo": "Conceptioz",
+    "synonym": "ALT_conception"
   },
   {
-    "behavior": "Calcium",
-    "partial": "Calc",
-    "typo": "Calciuz",
-    "synonym": "ALT_calcium"
+    "behavior": "Shared Bedroom with Child",
+    "partial": "Shar",
+    "typo": "Shared Bedroom with Chilz",
+    "synonym": "ALT_shared bedroom with child"
   },
   {
-    "behavior": "Remote Work",
-    "partial": "Remo",
-    "typo": "Remote Worz",
-    "synonym": "ALT_remote work"
+    "behavior": "Sensory Deprivation",
+    "partial": "Sens",
+    "typo": "Sensory Deprivatioz",
+    "synonym": "ALT_sensory deprivation"
+  },
+  {
+    "behavior": "Artificial Light",
+    "partial": "Arti",
+    "typo": "Artificial Lighz",
+    "synonym": "ALT_artificial light"
+  },
+  {
+    "behavior": "On-Call Shift",
+    "partial": "On-C",
+    "typo": "On-Call Shifz",
+    "synonym": "ALT_on-call shift"
   }
 ]
