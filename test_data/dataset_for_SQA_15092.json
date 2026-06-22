@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Snacking",
-    "partial": "Snac",
-    "typo": "Snackinz",
-    "synonym": "ALT_snacking"
+    "behavior": "Psilocybin",
+    "partial": "Psil",
+    "typo": "Psilocybiz",
+    "synonym": "ALT_psilocybin"
   },
   {
-    "behavior": "Steam Room",
-    "partial": "Stea",
-    "typo": "Steam Rooz",
-    "synonym": "ALT_steam room"
+    "behavior": "Ramadan",
+    "partial": "Rama",
+    "typo": "Ramadaz",
+    "synonym": "ALT_ramadan"
   },
   {
-    "behavior": "Ketogenic Diet",
-    "partial": "Keto",
-    "typo": "Ketogenic Diez",
-    "synonym": "ALT_ketogenic diet"
+    "behavior": "Chiropractor",
+    "partial": "Chir",
+    "typo": "Chiropractoz",
+    "synonym": "ALT_chiropractor"
   },
   {
-    "behavior": "Added Sugar",
-    "partial": "Adde",
-    "typo": "Added Sugaz",
-    "synonym": "ALT_added sugar"
+    "behavior": "AG1",
+    "partial": "AG1",
+    "typo": "AGz",
+    "synonym": "ALT_ag1"
   },
   {
-    "behavior": "Monkeypox Symptoms",
-    "partial": "Monk",
-    "typo": "Monkeypox Symptomz",
-    "synonym": "ALT_monkeypox symptoms"
+    "behavior": "Work Calls",
+    "partial": "Work",
+    "typo": "Work Callz",
+    "synonym": "ALT_work calls"
   },
   {
-    "behavior": "Conception",
-    "partial": "Conc",
-    "typo": "Conceptioz",
-    "synonym": "ALT_conception"
+    "behavior": "Therapy Session",
+    "partial": "Ther",
+    "typo": "Therapy Sessioz",
+    "synonym": "ALT_therapy session"
   },
   {
-    "behavior": "Shared Bedroom with Child",
-    "partial": "Shar",
-    "typo": "Shared Bedroom with Chilz",
-    "synonym": "ALT_shared bedroom with child"
+    "behavior": "Sound Machine (e.g. white noise)",
+    "partial": "Soun",
+    "typo": "Sound Machine (e.g. white noisez",
+    "synonym": "ALT_sound machine (e.g. white noise)"
   },
   {
-    "behavior": "Sensory Deprivation",
-    "partial": "Sens",
-    "typo": "Sensory Deprivatioz",
-    "synonym": "ALT_sensory deprivation"
+    "behavior": "Weight Loss Medication",
+    "partial": "Weig",
+    "typo": "Weight Loss Medicatioz",
+    "synonym": "ALT_weight loss medication"
   },
   {
-    "behavior": "Artificial Light",
-    "partial": "Arti",
-    "typo": "Artificial Lighz",
-    "synonym": "ALT_artificial light"
+    "behavior": "Read in Bed",
+    "partial": "Read",
+    "typo": "Read in Bez",
+    "synonym": "ALT_read in bed"
   },
   {
-    "behavior": "On-Call Shift",
-    "partial": "On-C",
-    "typo": "On-Call Shifz",
-    "synonym": "ALT_on-call shift"
+    "behavior": "Fish Oil",
+    "partial": "Fish",
+    "typo": "Fish Oiz",
+    "synonym": "ALT_fish oil"
   }
 ]
