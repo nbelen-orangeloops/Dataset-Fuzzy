@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Psilocybin",
-    "partial": "Psil",
-    "typo": "Psilocybiz",
-    "synonym": "ALT_psilocybin"
+    "behavior": "Emotional/Mental State",
+    "partial": "Emot",
+    "typo": "Emotional/Mental Statz",
+    "synonym": "ALT_emotional/mental state"
   },
   {
-    "behavior": "Ramadan",
-    "partial": "Rama",
-    "typo": "Ramadaz",
-    "synonym": "ALT_ramadan"
+    "behavior": "Hot Tub",
+    "partial": "Hot ",
+    "typo": "Hot Tuz",
+    "synonym": "ALT_hot tub"
   },
   {
-    "behavior": "Chiropractor",
-    "partial": "Chir",
-    "typo": "Chiropractoz",
-    "synonym": "ALT_chiropractor"
+    "behavior": "Compression Therapy",
+    "partial": "Comp",
+    "typo": "Compression Therapz",
+    "synonym": "ALT_compression therapy"
   },
   {
-    "behavior": "AG1",
-    "partial": "AG1",
-    "typo": "AGz",
-    "synonym": "ALT_ag1"
+    "behavior": "Stretching",
+    "partial": "Stre",
+    "typo": "Stretchinz",
+    "synonym": "ALT_stretching"
   },
   {
-    "behavior": "Work Calls",
-    "partial": "Work",
-    "typo": "Work Callz",
-    "synonym": "ALT_work calls"
+    "behavior": "Feel Efficacy",
+    "partial": "Feel",
+    "typo": "Feel Efficacz",
+    "synonym": "ALT_feel efficacy"
+  },
+  {
+    "behavior": "Meat",
+    "partial": "Meat",
+    "typo": "Meaz",
+    "synonym": "ALT_meat"
+  },
+  {
+    "behavior": "Blue-light Blocking Glasses",
+    "partial": "Blue",
+    "typo": "Blue-light Blocking Glassez",
+    "synonym": "ALT_blue-light blocking glasses"
+  },
+  {
+    "behavior": "Perimenopause",
+    "partial": "Peri",
+    "typo": "Perimenopausz",
+    "synonym": "ALT_perimenopause"
+  },
+  {
+    "behavior": "Cryotherapy",
+    "partial": "Cryo",
+    "typo": "Cryotherapz",
+    "synonym": "ALT_cryotherapy"
   },
   {
     "behavior": "Therapy Session",
     "partial": "Ther",
     "typo": "Therapy Sessioz",
     "synonym": "ALT_therapy session"
-  },
-  {
-    "behavior": "Sound Machine (e.g. white noise)",
-    "partial": "Soun",
-    "typo": "Sound Machine (e.g. white noisez",
-    "synonym": "ALT_sound machine (e.g. white noise)"
-  },
-  {
-    "behavior": "Weight Loss Medication",
-    "partial": "Weig",
-    "typo": "Weight Loss Medicatioz",
-    "synonym": "ALT_weight loss medication"
-  },
-  {
-    "behavior": "Read in Bed",
-    "partial": "Read",
-    "typo": "Read in Bez",
-    "synonym": "ALT_read in bed"
-  },
-  {
-    "behavior": "Fish Oil",
-    "partial": "Fish",
-    "typo": "Fish Oiz",
-    "synonym": "ALT_fish oil"
   }
 ]
