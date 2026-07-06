@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Emotional/Mental State",
-    "partial": "Emot",
-    "typo": "Emotional/Mental Statz",
-    "synonym": "ALT_emotional/mental state"
+    "behavior": "Daylight Eating",
+    "partial": "Dayl",
+    "typo": "Daylight Eatinz",
+    "synonym": "ALT_daylight eating"
   },
   {
-    "behavior": "Hot Tub",
-    "partial": "Hot ",
-    "typo": "Hot Tuz",
-    "synonym": "ALT_hot tub"
+    "behavior": "Breathwork",
+    "partial": "Brea",
+    "typo": "Breathworz",
+    "synonym": "ALT_breathwork"
   },
   {
-    "behavior": "Compression Therapy",
-    "partial": "Comp",
-    "typo": "Compression Therapz",
-    "synonym": "ALT_compression therapy"
-  },
-  {
-    "behavior": "Stretching",
-    "partial": "Stre",
-    "typo": "Stretchinz",
-    "synonym": "ALT_stretching"
-  },
-  {
-    "behavior": "Feel Efficacy",
+    "behavior": "Feel Control",
     "partial": "Feel",
-    "typo": "Feel Efficacz",
-    "synonym": "ALT_feel efficacy"
+    "typo": "Feel Controz",
+    "synonym": "ALT_feel control"
   },
   {
-    "behavior": "Meat",
-    "partial": "Meat",
-    "typo": "Meaz",
-    "synonym": "ALT_meat"
+    "behavior": "Sleep in a Dark Room",
+    "partial": "Slee",
+    "typo": "Sleep in a Dark Rooz",
+    "synonym": "ALT_sleep in a dark room"
   },
   {
-    "behavior": "Blue-light Blocking Glasses",
-    "partial": "Blue",
-    "typo": "Blue-light Blocking Glassez",
-    "synonym": "ALT_blue-light blocking glasses"
+    "behavior": "Motivation",
+    "partial": "Moti",
+    "typo": "Motivatioz",
+    "synonym": "ALT_motivation"
   },
   {
-    "behavior": "Perimenopause",
-    "partial": "Peri",
-    "typo": "Perimenopausz",
-    "synonym": "ALT_perimenopause"
+    "behavior": "Tobacco",
+    "partial": "Toba",
+    "typo": "Tobaccz",
+    "synonym": "ALT_tobacco"
   },
   {
-    "behavior": "Cryotherapy",
-    "partial": "Cryo",
-    "typo": "Cryotherapz",
-    "synonym": "ALT_cryotherapy"
+    "behavior": "Marijuana",
+    "partial": "Mari",
+    "typo": "Marijuanz",
+    "synonym": "ALT_marijuana"
   },
   {
-    "behavior": "Therapy Session",
-    "partial": "Ther",
-    "typo": "Therapy Sessioz",
-    "synonym": "ALT_therapy session"
+    "behavior": "Outdoor Time",
+    "partial": "Outd",
+    "typo": "Outdoor Timz",
+    "synonym": "ALT_outdoor time"
+  },
+  {
+    "behavior": "Sodium",
+    "partial": "Sodi",
+    "typo": "Sodiuz",
+    "synonym": "ALT_sodium"
+  },
+  {
+    "behavior": "Remote Work",
+    "partial": "Remo",
+    "typo": "Remote Worz",
+    "synonym": "ALT_remote work"
   }
 ]
