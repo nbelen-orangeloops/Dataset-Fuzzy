@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Daylight Eating",
-    "partial": "Dayl",
-    "typo": "Daylight Eatinz",
-    "synonym": "ALT_daylight eating"
+    "behavior": "Vitamin D",
+    "partial": "Vita",
+    "typo": "Vitamin z",
+    "synonym": "ALT_vitamin d"
   },
   {
-    "behavior": "Breathwork",
-    "partial": "Brea",
-    "typo": "Breathworz",
-    "synonym": "ALT_breathwork"
+    "behavior": "Humidifier",
+    "partial": "Humi",
+    "typo": "Humidifiez",
+    "synonym": "ALT_humidifier"
   },
   {
-    "behavior": "Feel Control",
-    "partial": "Feel",
-    "typo": "Feel Controz",
-    "synonym": "ALT_feel control"
+    "behavior": "Journaling",
+    "partial": "Jour",
+    "typo": "Journalinz",
+    "synonym": "ALT_journaling"
   },
   {
-    "behavior": "Sleep in a Dark Room",
-    "partial": "Slee",
-    "typo": "Sleep in a Dark Rooz",
-    "synonym": "ALT_sleep in a dark room"
+    "behavior": "Shared Bedroom with Child",
+    "partial": "Shar",
+    "typo": "Shared Bedroom with Chilz",
+    "synonym": "ALT_shared bedroom with child"
   },
   {
-    "behavior": "Motivation",
-    "partial": "Moti",
-    "typo": "Motivatioz",
-    "synonym": "ALT_motivation"
+    "behavior": "Sensory Deprivation",
+    "partial": "Sens",
+    "typo": "Sensory Deprivatioz",
+    "synonym": "ALT_sensory deprivation"
   },
   {
-    "behavior": "Tobacco",
-    "partial": "Toba",
-    "typo": "Tobaccz",
-    "synonym": "ALT_tobacco"
+    "behavior": "Cold Shower",
+    "partial": "Cold",
+    "typo": "Cold Showez",
+    "synonym": "ALT_cold shower"
   },
   {
-    "behavior": "Marijuana",
-    "partial": "Mari",
-    "typo": "Marijuanz",
-    "synonym": "ALT_marijuana"
+    "behavior": "Air Travel",
+    "partial": "Air ",
+    "typo": "Air Travez",
+    "synonym": "ALT_air travel"
   },
   {
-    "behavior": "Outdoor Time",
-    "partial": "Outd",
-    "typo": "Outdoor Timz",
-    "synonym": "ALT_outdoor time"
+    "behavior": "Meat",
+    "partial": "Meat",
+    "typo": "Meaz",
+    "synonym": "ALT_meat"
   },
   {
-    "behavior": "Sodium",
-    "partial": "Sodi",
-    "typo": "Sodiuz",
-    "synonym": "ALT_sodium"
+    "behavior": "Sauna",
+    "partial": "Saun",
+    "typo": "Saunz",
+    "synonym": "ALT_sauna"
   },
   {
-    "behavior": "Remote Work",
-    "partial": "Remo",
-    "typo": "Remote Worz",
-    "synonym": "ALT_remote work"
+    "behavior": "Fish Oil",
+    "partial": "Fish",
+    "typo": "Fish Oiz",
+    "synonym": "ALT_fish oil"
   }
 ]
