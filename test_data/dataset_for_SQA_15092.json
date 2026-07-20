@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Vitamin D",
-    "partial": "Vita",
-    "typo": "Vitamin z",
-    "synonym": "ALT_vitamin d"
+    "behavior": "Sound Machine (e.g. white noise)",
+    "partial": "Soun",
+    "typo": "Sound Machine (e.g. white noisez",
+    "synonym": "ALT_sound machine (e.g. white noise)"
   },
   {
-    "behavior": "Humidifier",
-    "partial": "Humi",
-    "typo": "Humidifiez",
-    "synonym": "ALT_humidifier"
+    "behavior": "CPAP Machine",
+    "partial": "CPAP",
+    "typo": "CPAP Machinz",
+    "synonym": "ALT_cpap machine"
   },
   {
-    "behavior": "Journaling",
-    "partial": "Jour",
-    "typo": "Journalinz",
-    "synonym": "ALT_journaling"
+    "behavior": "Single",
+    "partial": "Sing",
+    "typo": "Singlz",
+    "synonym": "ALT_single"
   },
   {
-    "behavior": "Shared Bedroom with Child",
-    "partial": "Shar",
-    "typo": "Shared Bedroom with Chilz",
-    "synonym": "ALT_shared bedroom with child"
+    "behavior": "Dairy-Free Diet",
+    "partial": "Dair",
+    "typo": "Dairy-Free Diez",
+    "synonym": "ALT_dairy-free diet"
   },
   {
-    "behavior": "Sensory Deprivation",
-    "partial": "Sens",
-    "typo": "Sensory Deprivatioz",
-    "synonym": "ALT_sensory deprivation"
+    "behavior": "Parenting Sick Child",
+    "partial": "Pare",
+    "typo": "Parenting Sick Chilz",
+    "synonym": "ALT_parenting sick child"
   },
   {
-    "behavior": "Cold Shower",
-    "partial": "Cold",
-    "typo": "Cold Showez",
-    "synonym": "ALT_cold shower"
+    "behavior": "Stress",
+    "partial": "Stre",
+    "typo": "Stresz",
+    "synonym": "ALT_stress"
   },
   {
-    "behavior": "Air Travel",
-    "partial": "Air ",
-    "typo": "Air Travez",
-    "synonym": "ALT_air travel"
+    "behavior": "Prenatal Vitamins",
+    "partial": "Pren",
+    "typo": "Prenatal Vitaminz",
+    "synonym": "ALT_prenatal vitamins"
   },
   {
-    "behavior": "Meat",
-    "partial": "Meat",
-    "typo": "Meaz",
-    "synonym": "ALT_meat"
+    "behavior": "Hot Shower before bed",
+    "partial": "Hot ",
+    "typo": "Hot Shower before bez",
+    "synonym": "ALT_hot shower before bed"
   },
   {
-    "behavior": "Sauna",
-    "partial": "Saun",
-    "typo": "Saunz",
-    "synonym": "ALT_sauna"
+    "behavior": "COVID-19 Vaccination (Dose #2)",
+    "partial": "COVI",
+    "typo": "COVID-19 Vaccination (Dose #2z",
+    "synonym": "ALT_covid-19 vaccination (dose #2)"
   },
   {
-    "behavior": "Fish Oil",
-    "partial": "Fish",
-    "typo": "Fish Oiz",
-    "synonym": "ALT_fish oil"
+    "behavior": "Stay Positive",
+    "partial": "Stay",
+    "typo": "Stay Positivz",
+    "synonym": "ALT_stay positive"
   }
 ]
