@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Sound Machine (e.g. white noise)",
-    "partial": "Soun",
-    "typo": "Sound Machine (e.g. white noisez",
-    "synonym": "ALT_sound machine (e.g. white noise)"
+    "behavior": "Mouth Tape",
+    "partial": "Mout",
+    "typo": "Mouth Tapz",
+    "synonym": "ALT_mouth tape"
   },
   {
-    "behavior": "CPAP Machine",
-    "partial": "CPAP",
-    "typo": "CPAP Machinz",
-    "synonym": "ALT_cpap machine"
+    "behavior": "Kept Kosher",
+    "partial": "Kept",
+    "typo": "Kept Koshez",
+    "synonym": "ALT_kept kosher"
   },
   {
-    "behavior": "Single",
-    "partial": "Sing",
-    "typo": "Singlz",
-    "synonym": "ALT_single"
+    "behavior": "Nursing Infant",
+    "partial": "Nurs",
+    "typo": "Nursing Infanz",
+    "synonym": "ALT_nursing infant"
   },
   {
-    "behavior": "Dairy-Free Diet",
+    "behavior": "Shared Bedroom with Child",
+    "partial": "Shar",
+    "typo": "Shared Bedroom with Chilz",
+    "synonym": "ALT_shared bedroom with child"
+  },
+  {
+    "behavior": "Dairy",
     "partial": "Dair",
-    "typo": "Dairy-Free Diez",
-    "synonym": "ALT_dairy-free diet"
+    "typo": "Dairz",
+    "synonym": "ALT_dairy"
   },
   {
-    "behavior": "Parenting Sick Child",
-    "partial": "Pare",
-    "typo": "Parenting Sick Chilz",
-    "synonym": "ALT_parenting sick child"
+    "behavior": "Sleep in Own Bed",
+    "partial": "Slee",
+    "typo": "Sleep in Own Bez",
+    "synonym": "ALT_sleep in own bed"
   },
   {
-    "behavior": "Stress",
-    "partial": "Stre",
-    "typo": "Stresz",
-    "synonym": "ALT_stress"
+    "behavior": "Magnesium Supplement",
+    "partial": "Magn",
+    "typo": "Magnesium Supplemenz",
+    "synonym": "ALT_magnesium supplement"
   },
   {
-    "behavior": "Prenatal Vitamins",
-    "partial": "Pren",
-    "typo": "Prenatal Vitaminz",
-    "synonym": "ALT_prenatal vitamins"
+    "behavior": "Hydration",
+    "partial": "Hydr",
+    "typo": "Hydratioz",
+    "synonym": "ALT_hydration"
   },
   {
-    "behavior": "Hot Shower before bed",
-    "partial": "Hot ",
-    "typo": "Hot Shower before bez",
-    "synonym": "ALT_hot shower before bed"
+    "behavior": "Cupping",
+    "partial": "Cupp",
+    "typo": "Cuppinz",
+    "synonym": "ALT_cupping"
   },
   {
-    "behavior": "COVID-19 Vaccination (Dose #2)",
-    "partial": "COVI",
-    "typo": "COVID-19 Vaccination (Dose #2z",
-    "synonym": "ALT_covid-19 vaccination (dose #2)"
-  },
-  {
-    "behavior": "Stay Positive",
-    "partial": "Stay",
-    "typo": "Stay Positivz",
-    "synonym": "ALT_stay positive"
+    "behavior": "Hyperbaric Chamber",
+    "partial": "Hype",
+    "typo": "Hyperbaric Chambez",
+    "synonym": "ALT_hyperbaric chamber"
   }
 ]
