@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Mouth Tape",
-    "partial": "Mout",
-    "typo": "Mouth Tapz",
-    "synonym": "ALT_mouth tape"
+    "behavior": "Nasal Strip",
+    "partial": "Nasa",
+    "typo": "Nasal Striz",
+    "synonym": "ALT_nasal strip"
   },
   {
-    "behavior": "Kept Kosher",
-    "partial": "Kept",
-    "typo": "Kept Koshez",
-    "synonym": "ALT_kept kosher"
+    "behavior": "Turmeric",
+    "partial": "Turm",
+    "typo": "Turmeriz",
+    "synonym": "ALT_turmeric"
   },
   {
-    "behavior": "Nursing Infant",
-    "partial": "Nurs",
-    "typo": "Nursing Infanz",
-    "synonym": "ALT_nursing infant"
+    "behavior": "Late Meal",
+    "partial": "Late",
+    "typo": "Late Meaz",
+    "synonym": "ALT_late meal"
   },
   {
-    "behavior": "Shared Bedroom with Child",
-    "partial": "Shar",
-    "typo": "Shared Bedroom with Chilz",
-    "synonym": "ALT_shared bedroom with child"
+    "behavior": "Stay Positive",
+    "partial": "Stay",
+    "typo": "Stay Positivz",
+    "synonym": "ALT_stay positive"
   },
   {
-    "behavior": "Dairy",
-    "partial": "Dair",
-    "typo": "Dairz",
-    "synonym": "ALT_dairy"
+    "behavior": "CBD",
+    "partial": "CBD",
+    "typo": "CBz",
+    "synonym": "ALT_cbd"
   },
   {
-    "behavior": "Sleep in Own Bed",
-    "partial": "Slee",
-    "typo": "Sleep in Own Bez",
-    "synonym": "ALT_sleep in own bed"
+    "behavior": "Hot Flash During Sleep",
+    "partial": "Hot ",
+    "typo": "Hot Flash During Sleez",
+    "synonym": "ALT_hot flash during sleep"
   },
   {
-    "behavior": "Magnesium Supplement",
-    "partial": "Magn",
-    "typo": "Magnesium Supplemenz",
-    "synonym": "ALT_magnesium supplement"
+    "behavior": "Ketogenic Diet",
+    "partial": "Keto",
+    "typo": "Ketogenic Diez",
+    "synonym": "ALT_ketogenic diet"
   },
   {
-    "behavior": "Hydration",
-    "partial": "Hydr",
-    "typo": "Hydratioz",
-    "synonym": "ALT_hydration"
+    "behavior": "Anti-anxiety Medication",
+    "partial": "Anti",
+    "typo": "Anti-anxiety Medicatioz",
+    "synonym": "ALT_anti-anxiety medication"
   },
   {
-    "behavior": "Cupping",
-    "partial": "Cupp",
-    "typo": "Cuppinz",
-    "synonym": "ALT_cupping"
+    "behavior": "Vegetarian Diet",
+    "partial": "Vege",
+    "typo": "Vegetarian Diez",
+    "synonym": "ALT_vegetarian diet"
   },
   {
-    "behavior": "Hyperbaric Chamber",
-    "partial": "Hype",
-    "typo": "Hyperbaric Chambez",
-    "synonym": "ALT_hyperbaric chamber"
+    "behavior": "Tobacco",
+    "partial": "Toba",
+    "typo": "Tobaccz",
+    "synonym": "ALT_tobacco"
   }
 ]
