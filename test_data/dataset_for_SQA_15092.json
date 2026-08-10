@@ -1,62 +1,62 @@
 [
   {
+    "behavior": "Dairy",
+    "partial": "Dair",
+    "typo": "Dairz",
+    "synonym": "ALT_dairy"
+  },
+  {
+    "behavior": "Chiropractor",
+    "partial": "Chir",
+    "typo": "Chiropractoz",
+    "synonym": "ALT_chiropractor"
+  },
+  {
+    "behavior": "Fever",
+    "partial": "Feve",
+    "typo": "Fevez",
+    "synonym": "ALT_fever"
+  },
+  {
+    "behavior": "Menstrual Cramps",
+    "partial": "Mens",
+    "typo": "Menstrual Crampz",
+    "synonym": "ALT_menstrual cramps"
+  },
+  {
     "behavior": "Nasal Strip",
     "partial": "Nasa",
     "typo": "Nasal Striz",
     "synonym": "ALT_nasal strip"
   },
   {
-    "behavior": "Turmeric",
-    "partial": "Turm",
-    "typo": "Turmeriz",
-    "synonym": "ALT_turmeric"
+    "behavior": "Humidifier",
+    "partial": "Humi",
+    "typo": "Humidifiez",
+    "synonym": "ALT_humidifier"
   },
   {
-    "behavior": "Late Meal",
-    "partial": "Late",
-    "typo": "Late Meaz",
-    "synonym": "ALT_late meal"
+    "behavior": "Sleep at Altitude",
+    "partial": "Slee",
+    "typo": "Sleep at Altitudz",
+    "synonym": "ALT_sleep at altitude"
   },
   {
-    "behavior": "Stay Positive",
-    "partial": "Stay",
-    "typo": "Stay Positivz",
-    "synonym": "ALT_stay positive"
+    "behavior": "Vegan Diet",
+    "partial": "Vega",
+    "typo": "Vegan Diez",
+    "synonym": "ALT_vegan diet"
   },
   {
-    "behavior": "CBD",
-    "partial": "CBD",
-    "typo": "CBz",
-    "synonym": "ALT_cbd"
+    "behavior": "Sensory Deprivation",
+    "partial": "Sens",
+    "typo": "Sensory Deprivatioz",
+    "synonym": "ALT_sensory deprivation"
   },
   {
-    "behavior": "Hot Flash During Sleep",
-    "partial": "Hot ",
-    "typo": "Hot Flash During Sleez",
-    "synonym": "ALT_hot flash during sleep"
-  },
-  {
-    "behavior": "Ketogenic Diet",
-    "partial": "Keto",
-    "typo": "Ketogenic Diez",
-    "synonym": "ALT_ketogenic diet"
-  },
-  {
-    "behavior": "Anti-anxiety Medication",
-    "partial": "Anti",
-    "typo": "Anti-anxiety Medicatioz",
-    "synonym": "ALT_anti-anxiety medication"
-  },
-  {
-    "behavior": "Vegetarian Diet",
-    "partial": "Vege",
-    "typo": "Vegetarian Diez",
-    "synonym": "ALT_vegetarian diet"
-  },
-  {
-    "behavior": "Tobacco",
-    "partial": "Toba",
-    "typo": "Tobaccz",
-    "synonym": "ALT_tobacco"
+    "behavior": "CPAP Machine",
+    "partial": "CPAP",
+    "typo": "CPAP Machinz",
+    "synonym": "ALT_cpap machine"
   }
 ]
