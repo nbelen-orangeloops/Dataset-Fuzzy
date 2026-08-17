@@ -1,51 +1,51 @@
 [
   {
-    "behavior": "Dairy",
-    "partial": "Dair",
-    "typo": "Dairz",
-    "synonym": "ALT_dairy"
+    "behavior": "Energy Level",
+    "partial": "Ener",
+    "typo": "Energy Levez",
+    "synonym": "ALT_energy level"
   },
   {
-    "behavior": "Chiropractor",
-    "partial": "Chir",
-    "typo": "Chiropractoz",
-    "synonym": "ALT_chiropractor"
+    "behavior": "Air Travel",
+    "partial": "Air ",
+    "typo": "Air Travez",
+    "synonym": "ALT_air travel"
   },
   {
-    "behavior": "Fever",
-    "partial": "Feve",
-    "typo": "Fevez",
-    "synonym": "ALT_fever"
+    "behavior": "Masturbation",
+    "partial": "Mast",
+    "typo": "Masturbatioz",
+    "synonym": "ALT_masturbation"
   },
   {
-    "behavior": "Menstrual Cramps",
-    "partial": "Mens",
-    "typo": "Menstrual Crampz",
-    "synonym": "ALT_menstrual cramps"
+    "behavior": "Hyperbaric Chamber",
+    "partial": "Hype",
+    "typo": "Hyperbaric Chambez",
+    "synonym": "ALT_hyperbaric chamber"
   },
   {
-    "behavior": "Nasal Strip",
-    "partial": "Nasa",
-    "typo": "Nasal Striz",
-    "synonym": "ALT_nasal strip"
+    "behavior": "Melatonin",
+    "partial": "Mela",
+    "typo": "Melatoniz",
+    "synonym": "ALT_melatonin"
   },
   {
-    "behavior": "Humidifier",
-    "partial": "Humi",
-    "typo": "Humidifiez",
-    "synonym": "ALT_humidifier"
+    "behavior": "Vitamin C",
+    "partial": "Vita",
+    "typo": "Vitamin z",
+    "synonym": "ALT_vitamin c"
   },
   {
-    "behavior": "Sleep at Altitude",
-    "partial": "Slee",
-    "typo": "Sleep at Altitudz",
-    "synonym": "ALT_sleep at altitude"
+    "behavior": "Caffeine",
+    "partial": "Caff",
+    "typo": "Caffeinz",
+    "synonym": "ALT_caffeine"
   },
   {
-    "behavior": "Vegan Diet",
-    "partial": "Vega",
-    "typo": "Vegan Diez",
-    "synonym": "ALT_vegan diet"
+    "behavior": "Shared Bed",
+    "partial": "Shar",
+    "typo": "Shared Bez",
+    "synonym": "ALT_shared bed"
   },
   {
     "behavior": "Sensory Deprivation",
@@ -54,9 +54,9 @@
     "synonym": "ALT_sensory deprivation"
   },
   {
-    "behavior": "CPAP Machine",
-    "partial": "CPAP",
-    "typo": "CPAP Machinz",
-    "synonym": "ALT_cpap machine"
+    "behavior": "CBD",
+    "partial": "CBD",
+    "typo": "CBz",
+    "synonym": "ALT_cbd"
   }
 ]
