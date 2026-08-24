@@ -1,45 +1,15 @@
 [
   {
-    "behavior": "Energy Level",
-    "partial": "Ener",
-    "typo": "Energy Levez",
-    "synonym": "ALT_energy level"
+    "behavior": "Bloating",
+    "partial": "Bloa",
+    "typo": "Bloatinz",
+    "synonym": "ALT_bloating"
   },
   {
-    "behavior": "Air Travel",
-    "partial": "Air ",
-    "typo": "Air Travez",
-    "synonym": "ALT_air travel"
-  },
-  {
-    "behavior": "Masturbation",
-    "partial": "Mast",
-    "typo": "Masturbatioz",
-    "synonym": "ALT_masturbation"
-  },
-  {
-    "behavior": "Hyperbaric Chamber",
-    "partial": "Hype",
-    "typo": "Hyperbaric Chambez",
-    "synonym": "ALT_hyperbaric chamber"
-  },
-  {
-    "behavior": "Melatonin",
-    "partial": "Mela",
-    "typo": "Melatoniz",
-    "synonym": "ALT_melatonin"
-  },
-  {
-    "behavior": "Vitamin C",
-    "partial": "Vita",
-    "typo": "Vitamin z",
-    "synonym": "ALT_vitamin c"
-  },
-  {
-    "behavior": "Caffeine",
-    "partial": "Caff",
-    "typo": "Caffeinz",
-    "synonym": "ALT_caffeine"
+    "behavior": "Luteinizing Hormone (LH) Test",
+    "partial": "Lute",
+    "typo": "Luteinizing Hormone (LH) Tesz",
+    "synonym": "ALT_luteinizing hormone (lh) test"
   },
   {
     "behavior": "Shared Bed",
@@ -48,15 +18,45 @@
     "synonym": "ALT_shared bed"
   },
   {
-    "behavior": "Sensory Deprivation",
-    "partial": "Sens",
-    "typo": "Sensory Deprivatioz",
-    "synonym": "ALT_sensory deprivation"
+    "behavior": "Remote Work",
+    "partial": "Remo",
+    "typo": "Remote Worz",
+    "synonym": "ALT_remote work"
   },
   {
-    "behavior": "CBD",
-    "partial": "CBD",
-    "typo": "CBz",
-    "synonym": "ALT_cbd"
+    "behavior": "Tobacco",
+    "partial": "Toba",
+    "typo": "Tobaccz",
+    "synonym": "ALT_tobacco"
+  },
+  {
+    "behavior": "Nursing",
+    "partial": "Nurs",
+    "typo": "Nursinz",
+    "synonym": "ALT_nursing"
+  },
+  {
+    "behavior": "Stay Positive",
+    "partial": "Stay",
+    "typo": "Stay Positivz",
+    "synonym": "ALT_stay positive"
+  },
+  {
+    "behavior": "Commute To Work",
+    "partial": "Comm",
+    "typo": "Commute To Worz",
+    "synonym": "ALT_commute to work"
+  },
+  {
+    "behavior": "COVID-19 Vaccination (Dose #1)",
+    "partial": "COVI",
+    "typo": "COVID-19 Vaccination (Dose #1z",
+    "synonym": "ALT_covid-19 vaccination (dose #1)"
+  },
+  {
+    "behavior": "Work Calls",
+    "partial": "Work",
+    "typo": "Work Callz",
+    "synonym": "ALT_work calls"
   }
 ]
