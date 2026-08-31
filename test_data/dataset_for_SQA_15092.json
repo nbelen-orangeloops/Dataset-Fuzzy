@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Bloating",
-    "partial": "Bloa",
-    "typo": "Bloatinz",
-    "synonym": "ALT_bloating"
-  },
-  {
     "behavior": "Luteinizing Hormone (LH) Test",
     "partial": "Lute",
     "typo": "Luteinizing Hormone (LH) Tesz",
     "synonym": "ALT_luteinizing hormone (lh) test"
   },
   {
-    "behavior": "Shared Bed",
-    "partial": "Shar",
-    "typo": "Shared Bez",
-    "synonym": "ALT_shared bed"
+    "behavior": "Postnatal Vitamins",
+    "partial": "Post",
+    "typo": "Postnatal Vitaminz",
+    "synonym": "ALT_postnatal vitamins"
   },
   {
-    "behavior": "Remote Work",
-    "partial": "Remo",
-    "typo": "Remote Worz",
-    "synonym": "ALT_remote work"
+    "behavior": "Meditation",
+    "partial": "Medi",
+    "typo": "Meditatioz",
+    "synonym": "ALT_meditation"
   },
   {
-    "behavior": "Tobacco",
-    "partial": "Toba",
-    "typo": "Tobaccz",
-    "synonym": "ALT_tobacco"
+    "behavior": "Ketogenic Diet",
+    "partial": "Keto",
+    "typo": "Ketogenic Diez",
+    "synonym": "ALT_ketogenic diet"
   },
   {
-    "behavior": "Nursing",
-    "partial": "Nurs",
-    "typo": "Nursinz",
-    "synonym": "ALT_nursing"
-  },
-  {
-    "behavior": "Stay Positive",
-    "partial": "Stay",
-    "typo": "Stay Positivz",
-    "synonym": "ALT_stay positive"
-  },
-  {
-    "behavior": "Commute To Work",
-    "partial": "Comm",
-    "typo": "Commute To Worz",
-    "synonym": "ALT_commute to work"
-  },
-  {
-    "behavior": "COVID-19 Vaccination (Dose #1)",
+    "behavior": "COVID-19 Vaccination (Booster)",
     "partial": "COVI",
-    "typo": "COVID-19 Vaccination (Dose #1z",
-    "synonym": "ALT_covid-19 vaccination (dose #1)"
+    "typo": "COVID-19 Vaccination (Boosterz",
+    "synonym": "ALT_covid-19 vaccination (booster)"
   },
   {
-    "behavior": "Work Calls",
-    "partial": "Work",
-    "typo": "Work Callz",
-    "synonym": "ALT_work calls"
+    "behavior": "Melatonin",
+    "partial": "Mela",
+    "typo": "Melatoniz",
+    "synonym": "ALT_melatonin"
+  },
+  {
+    "behavior": "Masturbation",
+    "partial": "Mast",
+    "typo": "Masturbatioz",
+    "synonym": "ALT_masturbation"
+  },
+  {
+    "behavior": "Calcium",
+    "partial": "Calc",
+    "typo": "Calciuz",
+    "synonym": "ALT_calcium"
+  },
+  {
+    "behavior": "Protein",
+    "partial": "Prot",
+    "typo": "Proteiz",
+    "synonym": "ALT_protein"
+  },
+  {
+    "behavior": "Hot Tub",
+    "partial": "Hot ",
+    "typo": "Hot Tuz",
+    "synonym": "ALT_hot tub"
   }
 ]
