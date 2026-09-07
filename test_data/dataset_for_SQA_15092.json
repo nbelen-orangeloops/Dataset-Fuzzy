@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Luteinizing Hormone (LH) Test",
-    "partial": "Lute",
-    "typo": "Luteinizing Hormone (LH) Tesz",
-    "synonym": "ALT_luteinizing hormone (lh) test"
+    "behavior": "Mouth Tape",
+    "partial": "Mout",
+    "typo": "Mouth Tapz",
+    "synonym": "ALT_mouth tape"
   },
   {
-    "behavior": "Postnatal Vitamins",
-    "partial": "Post",
-    "typo": "Postnatal Vitaminz",
-    "synonym": "ALT_postnatal vitamins"
+    "behavior": "Conception",
+    "partial": "Conc",
+    "typo": "Conceptioz",
+    "synonym": "ALT_conception"
   },
   {
-    "behavior": "Meditation",
-    "partial": "Medi",
-    "typo": "Meditatioz",
-    "synonym": "ALT_meditation"
+    "behavior": "Ice Bath",
+    "partial": "Ice ",
+    "typo": "Ice Batz",
+    "synonym": "ALT_ice bath"
   },
   {
-    "behavior": "Ketogenic Diet",
-    "partial": "Keto",
-    "typo": "Ketogenic Diez",
-    "synonym": "ALT_ketogenic diet"
+    "behavior": "Morning Sunlight",
+    "partial": "Morn",
+    "typo": "Morning Sunlighz",
+    "synonym": "ALT_morning sunlight"
   },
   {
-    "behavior": "COVID-19 Vaccination (Booster)",
-    "partial": "COVI",
-    "typo": "COVID-19 Vaccination (Boosterz",
-    "synonym": "ALT_covid-19 vaccination (booster)"
+    "behavior": "Carbohydrates",
+    "partial": "Carb",
+    "typo": "Carbohydratez",
+    "synonym": "ALT_carbohydrates"
   },
   {
-    "behavior": "Melatonin",
-    "partial": "Mela",
-    "typo": "Melatoniz",
-    "synonym": "ALT_melatonin"
-  },
-  {
-    "behavior": "Masturbation",
-    "partial": "Mast",
-    "typo": "Masturbatioz",
-    "synonym": "ALT_masturbation"
-  },
-  {
-    "behavior": "Calcium",
-    "partial": "Calc",
-    "typo": "Calciuz",
-    "synonym": "ALT_calcium"
-  },
-  {
-    "behavior": "Protein",
-    "partial": "Prot",
-    "typo": "Proteiz",
-    "synonym": "ALT_protein"
+    "behavior": "Sunset",
+    "partial": "Suns",
+    "typo": "Sunsez",
+    "synonym": "ALT_sunset"
   },
   {
     "behavior": "Hot Tub",
     "partial": "Hot ",
     "typo": "Hot Tuz",
     "synonym": "ALT_hot tub"
+  },
+  {
+    "behavior": "LSD",
+    "partial": "LSD",
+    "typo": "LSz",
+    "synonym": "ALT_lsd"
+  },
+  {
+    "behavior": "Irritability",
+    "partial": "Irri",
+    "typo": "Irritabilitz",
+    "synonym": "ALT_irritability"
+  },
+  {
+    "behavior": "Red Light Therapy",
+    "partial": "Red ",
+    "typo": "Red Light Therapz",
+    "synonym": "ALT_red light therapy"
   }
 ]
