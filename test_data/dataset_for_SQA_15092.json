@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Mouth Tape",
-    "partial": "Mout",
-    "typo": "Mouth Tapz",
-    "synonym": "ALT_mouth tape"
+    "behavior": "Single",
+    "partial": "Sing",
+    "typo": "Singlz",
+    "synonym": "ALT_single"
   },
   {
-    "behavior": "Conception",
-    "partial": "Conc",
-    "typo": "Conceptioz",
-    "synonym": "ALT_conception"
+    "behavior": "COVID-19 Vaccination (Booster)",
+    "partial": "COVI",
+    "typo": "COVID-19 Vaccination (Boosterz",
+    "synonym": "ALT_covid-19 vaccination (booster)"
   },
   {
-    "behavior": "Ice Bath",
-    "partial": "Ice ",
-    "typo": "Ice Batz",
-    "synonym": "ALT_ice bath"
+    "behavior": "Sleep Mask",
+    "partial": "Slee",
+    "typo": "Sleep Masz",
+    "synonym": "ALT_sleep mask"
   },
   {
-    "behavior": "Morning Sunlight",
-    "partial": "Morn",
-    "typo": "Morning Sunlighz",
-    "synonym": "ALT_morning sunlight"
+    "behavior": "Weight Loss Medication",
+    "partial": "Weig",
+    "typo": "Weight Loss Medicatioz",
+    "synonym": "ALT_weight loss medication"
   },
   {
-    "behavior": "Carbohydrates",
-    "partial": "Carb",
-    "typo": "Carbohydratez",
-    "synonym": "ALT_carbohydrates"
+    "behavior": "Perimenopause",
+    "partial": "Peri",
+    "typo": "Perimenopausz",
+    "synonym": "ALT_perimenopause"
   },
   {
-    "behavior": "Sunset",
-    "partial": "Suns",
-    "typo": "Sunsez",
-    "synonym": "ALT_sunset"
+    "behavior": "Magnesium",
+    "partial": "Magn",
+    "typo": "Magnesiuz",
+    "synonym": "ALT_magnesium"
   },
   {
-    "behavior": "Hot Tub",
-    "partial": "Hot ",
-    "typo": "Hot Tuz",
-    "synonym": "ALT_hot tub"
+    "behavior": "Energy Level",
+    "partial": "Ener",
+    "typo": "Energy Levez",
+    "synonym": "ALT_energy level"
   },
   {
-    "behavior": "LSD",
-    "partial": "LSD",
-    "typo": "LSz",
-    "synonym": "ALT_lsd"
+    "behavior": "Vegetarian Diet",
+    "partial": "Vege",
+    "typo": "Vegetarian Diez",
+    "synonym": "ALT_vegetarian diet"
   },
   {
-    "behavior": "Irritability",
-    "partial": "Irri",
-    "typo": "Irritabilitz",
-    "synonym": "ALT_irritability"
+    "behavior": "Parenting Sick Child",
+    "partial": "Pare",
+    "typo": "Parenting Sick Chilz",
+    "synonym": "ALT_parenting sick child"
   },
   {
-    "behavior": "Red Light Therapy",
-    "partial": "Red ",
-    "typo": "Red Light Therapz",
-    "synonym": "ALT_red light therapy"
+    "behavior": "Weighted Blanket",
+    "partial": "Weig",
+    "typo": "Weighted Blankez",
+    "synonym": "ALT_weighted blanket"
   }
 ]
