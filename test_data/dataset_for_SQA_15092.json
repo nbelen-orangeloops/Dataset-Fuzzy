@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Single",
-    "partial": "Sing",
-    "typo": "Singlz",
-    "synonym": "ALT_single"
+    "behavior": "Hydration",
+    "partial": "Hydr",
+    "typo": "Hydratioz",
+    "synonym": "ALT_hydration"
   },
   {
-    "behavior": "COVID-19 Vaccination (Booster)",
-    "partial": "COVI",
-    "typo": "COVID-19 Vaccination (Boosterz",
-    "synonym": "ALT_covid-19 vaccination (booster)"
+    "behavior": "Postmenopause",
+    "partial": "Post",
+    "typo": "Postmenopausz",
+    "synonym": "ALT_postmenopause"
   },
   {
-    "behavior": "Sleep Mask",
-    "partial": "Slee",
-    "typo": "Sleep Masz",
-    "synonym": "ALT_sleep mask"
+    "behavior": "LSD",
+    "partial": "LSD",
+    "typo": "LSz",
+    "synonym": "ALT_lsd"
   },
   {
-    "behavior": "Weight Loss Medication",
-    "partial": "Weig",
-    "typo": "Weight Loss Medicatioz",
-    "synonym": "ALT_weight loss medication"
+    "behavior": "Bloating",
+    "partial": "Bloa",
+    "typo": "Bloatinz",
+    "synonym": "ALT_bloating"
   },
   {
-    "behavior": "Perimenopause",
-    "partial": "Peri",
-    "typo": "Perimenopausz",
-    "synonym": "ALT_perimenopause"
+    "behavior": "Family & Friends",
+    "partial": "Fami",
+    "typo": "Family & Friendz",
+    "synonym": "ALT_family & friends"
   },
   {
-    "behavior": "Magnesium",
-    "partial": "Magn",
-    "typo": "Magnesiuz",
-    "synonym": "ALT_magnesium"
+    "behavior": "Daylight Eating",
+    "partial": "Dayl",
+    "typo": "Daylight Eatinz",
+    "synonym": "ALT_daylight eating"
   },
   {
-    "behavior": "Energy Level",
-    "partial": "Ener",
-    "typo": "Energy Levez",
-    "synonym": "ALT_energy level"
+    "behavior": "Feel Control",
+    "partial": "Feel",
+    "typo": "Feel Controz",
+    "synonym": "ALT_feel control"
   },
   {
-    "behavior": "Vegetarian Diet",
-    "partial": "Vege",
-    "typo": "Vegetarian Diez",
-    "synonym": "ALT_vegetarian diet"
+    "behavior": "Luteinizing Hormone (LH) Test",
+    "partial": "Lute",
+    "typo": "Luteinizing Hormone (LH) Tesz",
+    "synonym": "ALT_luteinizing hormone (lh) test"
   },
   {
-    "behavior": "Parenting Sick Child",
-    "partial": "Pare",
-    "typo": "Parenting Sick Chilz",
-    "synonym": "ALT_parenting sick child"
+    "behavior": "Hot Tub",
+    "partial": "Hot ",
+    "typo": "Hot Tuz",
+    "synonym": "ALT_hot tub"
   },
   {
-    "behavior": "Weighted Blanket",
-    "partial": "Weig",
-    "typo": "Weighted Blankez",
-    "synonym": "ALT_weighted blanket"
+    "behavior": "Shared Bedroom with Child",
+    "partial": "Shar",
+    "typo": "Shared Bedroom with Chilz",
+    "synonym": "ALT_shared bedroom with child"
   }
 ]
