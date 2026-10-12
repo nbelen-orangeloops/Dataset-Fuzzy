@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Creatine",
-    "partial": "Crea",
-    "typo": "Creatinz",
-    "synonym": "ALT_creatine"
+    "behavior": "GLP-1",
+    "partial": "GLP-",
+    "typo": "GLP-z",
+    "synonym": "ALT_glp-1"
   },
   {
-    "behavior": "Hot Tub",
-    "partial": "Hot ",
-    "typo": "Hot Tuz",
-    "synonym": "ALT_hot tub"
+    "behavior": "COVID-19 Vaccination (Booster)",
+    "partial": "COVI",
+    "typo": "COVID-19 Vaccination (Boosterz",
+    "synonym": "ALT_covid-19 vaccination (booster)"
   },
   {
-    "behavior": "Feel Control",
-    "partial": "Feel",
-    "typo": "Feel Controz",
-    "synonym": "ALT_feel control"
+    "behavior": "Sleep in a Dark Room",
+    "partial": "Slee",
+    "typo": "Sleep in a Dark Rooz",
+    "synonym": "ALT_sleep in a dark room"
   },
   {
-    "behavior": "Multivitamin",
-    "partial": "Mult",
-    "typo": "Multivitamiz",
-    "synonym": "ALT_multivitamin"
+    "behavior": "AG1",
+    "partial": "AG1",
+    "typo": "AGz",
+    "synonym": "ALT_ag1"
   },
   {
-    "behavior": "Hot Flash During Sleep",
-    "partial": "Hot ",
-    "typo": "Hot Flash During Sleez",
-    "synonym": "ALT_hot flash during sleep"
+    "behavior": "Tobacco",
+    "partial": "Toba",
+    "typo": "Tobaccz",
+    "synonym": "ALT_tobacco"
   },
   {
-    "behavior": "Device (e.g. phone) in Bed",
-    "partial": "Devi",
-    "typo": "Device (e.g. phone) in Bez",
-    "synonym": "ALT_device (e.g. phone) in bed"
+    "behavior": "Cupping",
+    "partial": "Cupp",
+    "typo": "Cuppinz",
+    "synonym": "ALT_cupping"
   },
   {
-    "behavior": "Blue-light Blocking Glasses",
-    "partial": "Blue",
-    "typo": "Blue-light Blocking Glassez",
-    "synonym": "ALT_blue-light blocking glasses"
+    "behavior": "Vitamin C",
+    "partial": "Vita",
+    "typo": "Vitamin z",
+    "synonym": "ALT_vitamin c"
   },
   {
-    "behavior": "Remote Work",
-    "partial": "Remo",
-    "typo": "Remote Worz",
-    "synonym": "ALT_remote work"
+    "behavior": "Social Fulfillment",
+    "partial": "Soci",
+    "typo": "Social Fulfillmenz",
+    "synonym": "ALT_social fulfillment"
   },
   {
-    "behavior": "Ramadan",
-    "partial": "Rama",
-    "typo": "Ramadaz",
-    "synonym": "ALT_ramadan"
+    "behavior": "Prescription Pain Medication",
+    "partial": "Pres",
+    "typo": "Prescription Pain Medicatioz",
+    "synonym": "ALT_prescription pain medication"
   },
   {
-    "behavior": "CPAP Machine",
-    "partial": "CPAP",
-    "typo": "CPAP Machinz",
-    "synonym": "ALT_cpap machine"
+    "behavior": "Injured",
+    "partial": "Inju",
+    "typo": "Injurez",
+    "synonym": "ALT_injured"
   }
 ]
