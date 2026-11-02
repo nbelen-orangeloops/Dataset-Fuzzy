@@ -1,15 +1,9 @@
 [
   {
-    "behavior": "Creatine",
-    "partial": "Crea",
-    "typo": "Creatinz",
-    "synonym": "ALT_creatine"
-  },
-  {
-    "behavior": "Chiropractor",
-    "partial": "Chir",
-    "typo": "Chiropractoz",
-    "synonym": "ALT_chiropractor"
+    "behavior": "Vitamin D",
+    "partial": "Vita",
+    "typo": "Vitamin z",
+    "synonym": "ALT_vitamin d"
   },
   {
     "behavior": "Postmenopause",
@@ -18,45 +12,51 @@
     "synonym": "ALT_postmenopause"
   },
   {
+    "behavior": "Shared Bedroom with Child",
+    "partial": "Shar",
+    "typo": "Shared Bedroom with Chilz",
+    "synonym": "ALT_shared bedroom with child"
+  },
+  {
+    "behavior": "Luteinizing Hormone (LH) Test",
+    "partial": "Lute",
+    "typo": "Luteinizing Hormone (LH) Tesz",
+    "synonym": "ALT_luteinizing hormone (lh) test"
+  },
+  {
+    "behavior": "COVID-19 Vaccination (Dose #1)",
+    "partial": "COVI",
+    "typo": "COVID-19 Vaccination (Dose #1z",
+    "synonym": "ALT_covid-19 vaccination (dose #1)"
+  },
+  {
+    "behavior": "Mouthguard",
+    "partial": "Mout",
+    "typo": "Mouthguarz",
+    "synonym": "ALT_mouthguard"
+  },
+  {
+    "behavior": "Zone 2 Cardio",
+    "partial": "Zone",
+    "typo": "Zone 2 Cardiz",
+    "synonym": "ALT_zone 2 cardio"
+  },
+  {
     "behavior": "Red Light Therapy",
     "partial": "Red ",
     "typo": "Red Light Therapz",
     "synonym": "ALT_red light therapy"
   },
   {
-    "behavior": "Vacation",
-    "partial": "Vaca",
-    "typo": "Vacatioz",
-    "synonym": "ALT_vacation"
+    "behavior": "Night Shift",
+    "partial": "Nigh",
+    "typo": "Night Shifz",
+    "synonym": "ALT_night shift"
   },
   {
-    "behavior": "Vitamin D",
-    "partial": "Vita",
-    "typo": "Vitamin z",
-    "synonym": "ALT_vitamin d"
-  },
-  {
-    "behavior": "Cat in bedroom",
-    "partial": "Cat ",
-    "typo": "Cat in bedrooz",
-    "synonym": "ALT_cat in bedroom"
-  },
-  {
-    "behavior": "Massage Therapy",
-    "partial": "Mass",
-    "typo": "Massage Therapz",
-    "synonym": "ALT_massage therapy"
-  },
-  {
-    "behavior": "Ketogenic Diet",
-    "partial": "Keto",
-    "typo": "Ketogenic Diez",
-    "synonym": "ALT_ketogenic diet"
-  },
-  {
-    "behavior": "Parenting Sick Child",
-    "partial": "Pare",
-    "typo": "Parenting Sick Chilz",
-    "synonym": "ALT_parenting sick child"
+    "behavior": "Hot Flash During Sleep",
+    "partial": "Hot ",
+    "typo": "Hot Flash During Sleez",
+    "synonym": "ALT_hot flash during sleep"
   }
 ]
