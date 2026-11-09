@@ -1,62 +1,62 @@
 [
   {
-    "behavior": "Vitamin D",
-    "partial": "Vita",
-    "typo": "Vitamin z",
-    "synonym": "ALT_vitamin d"
-  },
-  {
-    "behavior": "Postmenopause",
-    "partial": "Post",
-    "typo": "Postmenopausz",
-    "synonym": "ALT_postmenopause"
-  },
-  {
-    "behavior": "Shared Bedroom with Child",
-    "partial": "Shar",
-    "typo": "Shared Bedroom with Chilz",
-    "synonym": "ALT_shared bedroom with child"
-  },
-  {
-    "behavior": "Luteinizing Hormone (LH) Test",
-    "partial": "Lute",
-    "typo": "Luteinizing Hormone (LH) Tesz",
-    "synonym": "ALT_luteinizing hormone (lh) test"
-  },
-  {
-    "behavior": "COVID-19 Vaccination (Dose #1)",
+    "behavior": "COVID-19 Vaccination (Booster)",
     "partial": "COVI",
-    "typo": "COVID-19 Vaccination (Dose #1z",
-    "synonym": "ALT_covid-19 vaccination (dose #1)"
+    "typo": "COVID-19 Vaccination (Boosterz",
+    "synonym": "ALT_covid-19 vaccination (booster)"
   },
   {
-    "behavior": "Mouthguard",
-    "partial": "Mout",
-    "typo": "Mouthguarz",
-    "synonym": "ALT_mouthguard"
+    "behavior": "Turmeric",
+    "partial": "Turm",
+    "typo": "Turmeriz",
+    "synonym": "ALT_turmeric"
   },
   {
-    "behavior": "Zone 2 Cardio",
-    "partial": "Zone",
-    "typo": "Zone 2 Cardiz",
-    "synonym": "ALT_zone 2 cardio"
+    "behavior": "Melatonin",
+    "partial": "Mela",
+    "typo": "Melatoniz",
+    "synonym": "ALT_melatonin"
   },
   {
-    "behavior": "Red Light Therapy",
-    "partial": "Red ",
-    "typo": "Red Light Therapz",
-    "synonym": "ALT_red light therapy"
+    "behavior": "Dog in Bedroom",
+    "partial": "Dog ",
+    "typo": "Dog in Bedrooz",
+    "synonym": "ALT_dog in bedroom"
   },
   {
-    "behavior": "Night Shift",
-    "partial": "Nigh",
-    "typo": "Night Shifz",
-    "synonym": "ALT_night shift"
+    "behavior": "Feel Control",
+    "partial": "Feel",
+    "typo": "Feel Controz",
+    "synonym": "ALT_feel control"
   },
   {
-    "behavior": "Hot Flash During Sleep",
-    "partial": "Hot ",
-    "typo": "Hot Flash During Sleez",
-    "synonym": "ALT_hot flash during sleep"
+    "behavior": "Kept Kosher",
+    "partial": "Kept",
+    "typo": "Kept Koshez",
+    "synonym": "ALT_kept kosher"
+  },
+  {
+    "behavior": "Vegetarian Diet",
+    "partial": "Vege",
+    "typo": "Vegetarian Diez",
+    "synonym": "ALT_vegetarian diet"
+  },
+  {
+    "behavior": "Prescription Sleep Medication",
+    "partial": "Pres",
+    "typo": "Prescription Sleep Medicatioz",
+    "synonym": "ALT_prescription sleep medication"
+  },
+  {
+    "behavior": "Stay Positive",
+    "partial": "Stay",
+    "typo": "Stay Positivz",
+    "synonym": "ALT_stay positive"
+  },
+  {
+    "behavior": "Ovulating",
+    "partial": "Ovul",
+    "typo": "Ovulatinz",
+    "synonym": "ALT_ovulating"
   }
 ]
