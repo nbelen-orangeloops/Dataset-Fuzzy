@@ -1,21 +1,45 @@
 [
   {
-    "behavior": "COVID-19 Vaccination (Booster)",
+    "behavior": "Sauna",
+    "partial": "Saun",
+    "typo": "Saunz",
+    "synonym": "ALT_sauna"
+  },
+  {
+    "behavior": "Chiropractor",
+    "partial": "Chir",
+    "typo": "Chiropractoz",
+    "synonym": "ALT_chiropractor"
+  },
+  {
+    "behavior": "Blood Pressure Medication",
+    "partial": "Bloo",
+    "typo": "Blood Pressure Medicatioz",
+    "synonym": "ALT_blood pressure medication"
+  },
+  {
+    "behavior": "Read in Bed",
+    "partial": "Read",
+    "typo": "Read in Bez",
+    "synonym": "ALT_read in bed"
+  },
+  {
+    "behavior": "COVID-19 Symptoms",
     "partial": "COVI",
-    "typo": "COVID-19 Vaccination (Boosterz",
-    "synonym": "ALT_covid-19 vaccination (booster)"
+    "typo": "COVID-19 Symptomz",
+    "synonym": "ALT_covid-19 symptoms"
   },
   {
-    "behavior": "Turmeric",
-    "partial": "Turm",
-    "typo": "Turmeriz",
-    "synonym": "ALT_turmeric"
+    "behavior": "Ketamine",
+    "partial": "Keta",
+    "typo": "Ketaminz",
+    "synonym": "ALT_ketamine"
   },
   {
-    "behavior": "Melatonin",
-    "partial": "Mela",
-    "typo": "Melatoniz",
-    "synonym": "ALT_melatonin"
+    "behavior": "Outdoor Time",
+    "partial": "Outd",
+    "typo": "Outdoor Timz",
+    "synonym": "ALT_outdoor time"
   },
   {
     "behavior": "Dog in Bedroom",
@@ -24,39 +48,15 @@
     "synonym": "ALT_dog in bedroom"
   },
   {
-    "behavior": "Feel Control",
-    "partial": "Feel",
-    "typo": "Feel Controz",
-    "synonym": "ALT_feel control"
+    "behavior": "Anxiety",
+    "partial": "Anxi",
+    "typo": "Anxietz",
+    "synonym": "ALT_anxiety"
   },
   {
-    "behavior": "Kept Kosher",
-    "partial": "Kept",
-    "typo": "Kept Koshez",
-    "synonym": "ALT_kept kosher"
-  },
-  {
-    "behavior": "Vegetarian Diet",
-    "partial": "Vege",
-    "typo": "Vegetarian Diez",
-    "synonym": "ALT_vegetarian diet"
-  },
-  {
-    "behavior": "Prescription Sleep Medication",
-    "partial": "Pres",
-    "typo": "Prescription Sleep Medicatioz",
-    "synonym": "ALT_prescription sleep medication"
-  },
-  {
-    "behavior": "Stay Positive",
-    "partial": "Stay",
-    "typo": "Stay Positivz",
-    "synonym": "ALT_stay positive"
-  },
-  {
-    "behavior": "Ovulating",
-    "partial": "Ovul",
-    "typo": "Ovulatinz",
-    "synonym": "ALT_ovulating"
+    "behavior": "Journaling",
+    "partial": "Jour",
+    "typo": "Journalinz",
+    "synonym": "ALT_journaling"
   }
 ]
